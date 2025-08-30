@@ -1,24 +1,24 @@
 <img src="assets/caratula/logo-upc.png" alt="logo-upc" style="width:300px; height:auto;"/>
 
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-## Ingeniería de Software
+### Ingeniería de Software
 
-## 5TO Ciclo
+### 5TO Ciclo
 
-## Código: 1ASI0730
+### Código: 1ASI0730
 
-## Curso: Desarrollo de Aplicaciones Webs - Presencial
+### Curso: Desarrollo de Aplicaciones Webs - Presencial
 
-## NRC: 7461
+### NRC: 7461
 
-## Docente: Ángel Augusto Velazques Nuñez
+### Docente: Ángel Augusto Velazques Nuñez
 
-## Informe de Trabajo Final
+### Informe de Trabajo Final
 
-## Startup: RurasqaySoft
+### Startup: RurasqaySoft
 
-## Producto: MediTrack
+### Producto: MediTrack
 
 ### Intregrantes:
 
@@ -36,11 +36,11 @@
     </tr>
     <tr>
       <td>Beingolea Montalvo, Sebastian Martin</td>
-      <td></td>
+      <td>U202217853</td>
     </tr>
     <tr>
       <td>Cuba Pareja, Joaquin Antonio</td>
-      <td></td>
+      <td>U201621281</td>
     </tr>
     <tr>
       <td>Rioja Nuñez, Franco Diego</td>
