@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td>Rivera Ayala, Gabriel Alejandro</td>
-      <td></td>
+      <td>U202223279</td>
     </tr>
   </tbody>
 </table>
@@ -172,11 +172,120 @@
 
 ### 1.1.1. Descripción de la Startup
 
+**RurasqaySoft** es una startup tecnológica enfocada en el desarrollo de soluciones digitales innovadoras para el sector salud, con especial atención en el cuidado de pacientes geriátricos. Nuestro propósito es aprovechar la tecnología para mejorar la calidad de vida de los adultos mayores mediante herramientas accesibles, seguras y sostenibles que permitan un monitoreo constante, una atención preventiva y una conexión más cercana entre pacientes, familiares e instituciones de salud.
+
+Nuestra solución es MediTrack, una plataforma de salud digital que utiliza parches inteligentes como dispositivos IoT para el monitoreo remoto de pacientes geriatricos. MediTrack permite registrar signos vitales, detectar emergencias y compartir información en tiempo real con familiares, médicos y aseguradoras, garantizando un cuidado preventivo, seguro y personalizado.
+
+La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digital inclusivo, escalable y orientado a resultados, donde los parches inteligentes y las plataformas de gestión se convierten en un puente entre innovación tecnológica y bienestar social. Buscamos que cada adulto mayor pueda ser monitoreado en tiempo real, reduciendo riesgos, optimizando diagnósticos y facilitando la toma de decisiones médicas y familiares.
+
+**Misión:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes, familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real, brindando seguridad, confianza y eficiencia.
+
+**Visión:** En los próximos 5 años, consolidar a RurasqaySoft como una la empresa líder en soluciones de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+
+**Alcance del proyecto:** El alcance inicial de MediTrack está orientado al cuidado geriátrico, ofreciendo una plataforma web y móvil que integra dispositivos IoT en forma de parches inteligentes para registrar signos vitales, alertar en casos de emergencia y compartir información en tiempo real con familiares, médicos y aseguradoras. A mediano plazo, buscamos ampliar el impacto de la solución hacia hospitales, clínicas y casas de reposo, consolidando un modelo de monitoreo preventivo y predictivo que transforme la manera en que se gestiona la salud de los adultos mayores en Latinoamérica.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Foto                                     | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                        |
+| ---------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![]()                                    | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                            |
+| ![]()                                    | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Liderazgo, competitividad y organización.                                                                                                                                          |
+| ![]()                                    | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                    |
+| ![]()                                    | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
+| ![marcelo](/assets/chapter1/marcelo.png) | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                             |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+
+**Técnica de The 5 'W's y 2 'H's**
+
+**What(Qué)?** <br>
+¿Cuál es el problema?
+
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
+
+**When(Cuando)?** <br>
+¿Cuándo sucede el problema?
+
+El problema ocurre de manera constante y se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo continuo es diaria, especialmente en pacientes con afecciones como hipertensión, diabetes o problemas cardíacos. Asimismo, las complicaciones suelen presentarse de manera inesperada, lo que exige soluciones que brinden información en tiempo real a familiares y profesionales de la salud.
+
+**Where(Dónde)?** <br>
+¿Dónde surge el problema?
+
+Este problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en aumento y los sistemas de salud están sobrecargados. Según el INEI (2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década. En las ciudades, los adultos mayores suelen vivir solos o en casas de reposo, lo que aumenta la necesidad de monitoreo remoto. En áreas rurales, la falta de infraestructura médica y especialistas agrava aún más la situación, ya que dificulta el acceso a controles periódicos.
+
+**Who(Quién)?** <br>
+¿Quiénes son los afectados?
+
+Los principales afectados son:
+
+- **Adultos mayores** que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
+
+- **Familiares y allegados**, quienes muchas veces cargan con la responsabilidad de vigilar el bienestar del paciente sin contar con información precisa oportuna.
+
+- **Clínicas y hospitales**, que necesitan soluciones de telemetría que permitan descongestionar la atención presencial y realizar un seguimiento más eficiente.
+
+- **Casas de reposo y centros geriátricos**, que deben garantizar la seguridad de sus residentes y responder rápidamente ante emergencias de salud.
+
+**Why(Por qué)?** <br>
+¿Cuál es la causa del problema?
+
+- **Falta de monitoreo continuo y accesible:** La mayoría de los sistemas de salud en el Perú se enfocan en la atención reactiva y no en la prevención o seguimiento en tiempo real.
+
+- **Limitaciones tecnológicas en adultos mayores:** Según la encuesta ENAHO (INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
+
+- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles periódicos.
+
+- **Escasez de herramientas locales adaptadas:** Existen wearables y parches inteligentes en el mercado, pero la mayoría está diseñada para mercados extranjeros y no se ajusta a la realidad socioeconómica ni cultural peruana.
+
+- **Dependencia de familiares y cuidadores:** Al no contar con sistemas confiables de alerta temprana, los familiares deben asumir una vigilancia constante que impacta en su calidad de vida y genera altos niveles de estrés.
+
+**How(Cómo)?** <br>
+¿Cómo se utilizará el producto?
+
+MediTrack se utilizará como un sistema integral compuesto por un parche inteligente y un dashboard de monitoreo:
+
+- **Para los pacientes geriátricos:** el uso es mínimo, ya que solo deben portar el parche, el cual registra parámetros vitales de manera automática y sin necesidad de conocimientos tecnológicos.
+
+- **Para los familiares:** accederán a un dashboard sencillo donde podrán visualizar en tiempo real la información de salud del paciente, recibir alertas y notificaciones ante posibles anomalías.
+
+- **Para clínicas y casas de reposo:** el sistema permitirá supervisar múltiples pacientes al mismo tiempo, generar reportes médicos y facilitar la toma de decisiones clínicas basadas en datos objetivos.
+
+De esta manera, MediTrack no solo mejora la calidad de vida de los adultos mayores, sino que también reduce la carga emocional y logística de quienes los rodean, mientras fortalece la capacidad de respuesta del sector salud.
+
+**How much(Cuánto)?** <br>
+¿Cuánto costará implementar la solución?
+
+La implementación de MediTrack requiere una inversión inicial destinada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso estratégico hacia la modernización del cuidado geriátrico en el Perú, ya que permite ofrecer una solución local, accesible y escalable en comparación con dispositivos importados de alto costo.
+
+**Presupuesto estimado:**
+
+**Desarrollo de Software**
+
+- Diseño y desarrollo del dashboard web: S/ 3,500 – S/ 5,000
+
+- Backend, API y base de datos segura: S/ 3,000 – S/ 4,500
+
+- Dominio, hosting y servidores (anual): S/ 1,200 – S/ 2,000
+
+**Hardware (Parches inteligentes)**
+
+- Diseño y prototipado de parches: S/ 5,000 – S/ 7,000
+
+- Producción inicial (lote piloto de 100 unidades): S/ 8,000 – S/ 10,000
+
+**Marketing y Lanzamiento:**
+
+- Estrategia digital y materiales promocionales: S/ 2,500 – S/ 4,000
+
+- Alianzas con clínicas y casas de reposo: S/ 1,500 – S/ 2,000
+
+- Mantenimiento y Soporte (anual):
+
+- Actualizaciones de software y soporte técnico: S/ 3,000 – S/ 5,000
+
+**Total estimado:** S/ 28,700 – S/ 40,500
 
 ### 1.2.2. Lean UX Process
 
@@ -189,6 +298,72 @@
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+- **Allegados de pacientes geriátricos**
+
+**Descripción:**
+
+Son familiares o cuidadores cercanos de adultos mayores que requieren atención continua. Este segmento busca soluciones que les permitan supervisar la salud de sus seres queridos de manera remota, con alertas oportunas que reduzcan la incertidumbre y brinden tranquilidad.
+
+**Características demográficas y comportamiento:**
+
+- Generalmente hijos adultos con una edad promedio entre 30 y 59 años.
+
+- Prefieren soluciones tecnológicas fáciles de usar y accesibles desde la web.
+
+- Valoran la inmediatez de la información y la posibilidad de recibir notificaciones en tiempo real ante emergencias.
+
+- Dispuestos a invertir en herramientas que garanticen la seguridad de sus familiares mayores y reduzcan la carga emocional de los cuidados.
+
+**Sustento estadístico:**
+
+- Según la OMS (2022), más del 60% de adultos mayores en América Latina dependen del apoyo directo de familiares para su cuidado.
+
+- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2021), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
+
+- **Personal medíco de clínicas**
+
+**Descripción:**
+
+Profesionales de la salud encargados de monitorear y dar tratamiento a adultos mayores con enfermedades crónicas o en estado de recuperación. Este segmento necesita herramientas que les permitan un seguimiento ágil y confiable, reduciendo el margen de error y mejorando la atención preventiva.
+
+**Características demográficas y comportamiento:**
+
+- Médicos, enfermeros y especialistas en geriatría, con edades entre 28 y 55 años.
+
+- Manejan información crítica y requieren plataformas con altos estándares de seguridad de datos.
+
+- Se apoyan en dashboards intuitivos para la toma de decisiones clínicas.
+
+- Valoran soluciones que optimicen el tiempo de atención, reduzcan hospitalizaciones y permitan consultas remotas.
+
+**Sustento estadístico:**
+
+- La Sociedad Peruana de Geriatría (2021) señala que un adulto mayor con enfermedades crónicas requiere en promedio 7 consultas médicas al año, lo que genera sobrecarga de seguimiento.
+
+- En Latinoamérica, el 42% del personal médico afirma que las herramientas digitales mejoran la capacidad de atención y seguimiento de pacientes crónicos (IDB, 2020)
+
+- **Personal de las casas de reposo**
+
+Cuidadores y personal administrativo de residencias geriátricas que tienen a su cargo el bienestar físico y emocional de los adultos mayores que viven en sus instalaciones. Necesitan herramientas que faciliten el monitoreo colectivo de múltiples pacientes a la vez.
+
+**Descripción:**
+
+**Características demográficas y comportamiento:**
+
+- Profesionales o técnicos en enfermería y cuidado de adultos mayores, entre 25 y 50 años.
+
+- Manejan simultáneamente la atención de 10 a 30 residentes por turno, lo que dificulta el seguimiento individualizado.
+
+- Requieren soluciones que automaticen alertas y centralicen la información de varios pacientes en un solo panel de control.
+
+- Valoran la reducción de riesgos y el respaldo tecnológico como garantía de calidad del servicio.
+
+**Sustento estadístico:**
+
+- En Perú, existen más de 1,200 casas de reposo registradas y la demanda crece un 20% anual debido al envejecimiento poblacional (Minsa, 2022).
+
+- Un estudio del Banco Mundial (2020) indica que el uso de tecnologías de monitoreo en residencias geriátricas puede reducir en un 35% los incidentes críticos no detectados en adultos mayores.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
