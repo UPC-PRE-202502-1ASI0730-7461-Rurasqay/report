@@ -202,6 +202,88 @@
 
 ### 2.2.1. Diseño de entrevistas
 
+### Preguntas dirigidas al primer segmento
+
+- ¿Cuál es tu edad, ocupación y lugar de residencia?
+
+- ¿Cuál es tu relación con el adulto mayor?
+
+- ¿Con qué frecuencia lo visitas o te comunicas con él/ella?
+
+- ¿Qué herramientas o dispositivos digitales sueles usar en tu día a día?
+
+- ¿Qué preocupaciones principales tienes sobre la salud y seguridad de tu familiar adulto mayor?
+
+- ¿Cómo sueles monitorear su estado de salud actualmente?
+
+- ¿Qué situaciones de riesgo has enfrentado que te hubiera gustado prevenir?
+
+- ¿Qué tipo de información en tiempo real consideras más valiosa recibir?
+
+- ¿Cómo reaccionas actualmente cuando ocurre una emergencia?
+
+- ¿Qué tan cómodo te sentirías usando una app para monitorear la salud de tu familiar?
+
+- ¿Qué funcionalidades serían imprescindibles para confiar en una solución como MediTrack?
+
+- ¿Qué barreras podrían impedirte adoptar una tecnología como esta?
+
+- ¿Qué tan dispuesto estarías a pagar por una solución que te brinde tranquilidad?
+
+### Preguntas dirigidas al segundo segmento
+
+- ¿Cuál es tu especialidad y experiencia en el cuidado de pacientes geriátricos?
+
+- ¿Cuántos pacientes adultos mayores atiendes en promedio a la semana?
+
+- ¿Qué herramientas digitales o sistemas de monitoreo utilizas actualmente en tu práctica médica?
+
+- ¿Qué dificultades enfrentas en el monitoreo de la salud de pacientes geriátricos?
+
+- ¿Con qué frecuencia recibes emergencias relacionadas con caídas, descompensaciones o crisis en pacientes mayores?
+
+- ¿Qué información en tiempo real te resultaría más útil para mejorar la atención y prevención?
+
+- ¿Cómo coordinas actualmente con familiares de los pacientes respecto a su estado de salud?
+
+- ¿Qué impacto tendría en tu labor clínica contar con reportes digitales y alertas inmediatas?
+
+- ¿Qué tan dispuesto estarías a implementar una herramienta como MediTrack en tu práctica?
+
+- ¿Qué características clínicas consideras imprescindibles para confiar en un sistema de monitoreo remoto?
+
+- ¿Qué obstáculos podrían dificultar la adopción en tu clínica (costos, capacitación, confianza en los datos)?
+
+- ¿Consideras que deberían cubrir parte del costo de una solución como esta?
+
+### Preguntas dirigidas al tercer segmento
+
+- ¿Qué cargo ocupas en la casa de reposo?
+
+- ¿Cuántos residentes adultos mayores tienes bajo tu supervisión diaria?
+
+- ¿Qué herramientas o protocolos utilizas actualmente para monitorear su estado de salud?
+
+- ¿Qué canales usas para comunicarte con las familias de los residentes?
+
+- ¿Qué problemas frecuentes enfrentas en el cuidado y supervisión de los adultos mayores?
+
+- ¿Cuáles son los eventos más críticos que suelen presentarse?
+
+- ¿Qué tan difícil resulta monitorear simultáneamente a varios residentes?
+
+- ¿Qué información en tiempo real te permitiría mejorar la atención y reducir riesgos?
+
+- ¿Cómo sueles actuar actualmente en casos de emergencia o deterioro repentino de la salud de un residente?
+
+- ¿Qué tan útil consideras que sería un parche inteligente como MediTrack para el cuidado diario de los residentes?
+
+- ¿Qué funcionalidades considerarías imprescindibles para implementarlo en tu institución?
+
+- ¿Qué obstáculos crees que existirían para adoptarlo (costo, capacitación del personal, confianza en los dispositivos)?
+
+- ¿Crees que los familiares estarían dispuestos a pagar un valor adicional por contar con esta tecnología en la casa de reposo?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
