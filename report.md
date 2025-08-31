@@ -194,7 +194,33 @@
 
 ## 2.1. Competidores
 
+En esta sección analizaremos a los que consideramos los principales competidores de nuestra solución, que son los siguientes:
+
+- ### VitalConnect
+VitalConnect es una empresa de salud digital que ofrece el VitalPatch, un parche biométrico desechable que monitorea en tiempo real signos vitales y actividad del paciente, usado principalmente en hospitales y telemedicina para seguimiento continuo y prevención de reingresos.
+- ### BioSticker
+BioIntelliSense es la empresa creadora del BioSticker, un parche portátil que se coloca en el torso y permite el monitoreo continuo y pasivo de signos vitales y síntomas (frecuencia cardíaca, respiratoria, temperatura, actividad), enfocado en la detección temprana de complicaciones médicas y en el seguimiento remoto de pacientes crónicos y adultos mayores.
+- ### CarePredict
+CarePredict es una empresa enfocada en el cuidado de adultos mayores que desarrolla un wearable en forma de pulsera, capaz de registrar movilidad, patrones de sueño, alimentación y actividades diarias, utilizando inteligencia artificial para detectar cambios de comportamiento y riesgo de caídas, facilitando la prevención y la comunicación con familiares y cuidadores.
+
 ### 2.1.1. Análisis competitivo
+
+#### ¿Por qué llevar a cabo este análisis?
+Realizar un análisis competitivo de MediTrack es importante para identificar las fortalezas y debilidades de los principales rivales, así como resaltar los diferenciales únicos de la solución.
+
+|                      | | MediTrack                                                                                                                             | ![VitalConnect (1).png](assets%2Fchapter2%2FVitalConnect%20%281%29.png) <br/> VitalConnect | ![BioIntelliSense (1).jpeg](assets%2Fchapter2%2FBioIntelliSense%20%281%29.jpeg) <br/> BioIntelliSense | ![CarePredict (1).jpeg](assets%2Fchapter2%2FCarePredict%20%281%29.jpeg)<br/>CarePredict |
+|----------------------|---|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---|
+| **Perfil**           | Overview                                              | Parches inteligentes y dashboard que integran signos vitales, movilidad y alertas en tiempo real para adultos mayores.                |Parche biométrico para monitoreo hospitalario y remoto de signos vitales.|Parche portátil para monitoreo continuo y detección temprana en crónicos.|Pulsera para adultos mayores que usa IA para prevenir caídas y cambios de conducta.|
+|                      | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Combina mapa de movilidad y métricas de salud en un solo sistema, con un modelo flexible.                                             |Seguimiento clínico preciso y continuo en hospitales y post-alta|Monitoreo pasivo y detección temprana de complicaciones.|Prevención de caídas y cambios de salud mediante IA en adultos mayores.|
+| **Perfil de Marketing** | Mercado objetivo                                      | Adultos mayores en el hogar, familias, clínicas y casas de reposo en Latinoamérica.                                                   |Hospitales y clínicas para monitoreo hospitalario y post-alta.|Pacientes crónicos y adultos mayores en seguimiento remoto.|Adultos mayores en hogares y residencias geriátricas.|
+|                      | Estrategias de marketing                              | Pruebas piloto gratuitas, descuentos por volumen, reposición de parches y paneles personalizados para instituciones.                  |Alianzas con hospitales y proveedores de salud.|Enfoque en telemedicina y seguros de salud.|Venta directa a familias y residencias geriátricas.|
+| **Perfil de Producto** | Productos & Servicios                                 | Parches inteligentes, app y dashboard web con métricas, historial, reportes y alertas en tiempo real.                                 |Parche VitalPatch y plataforma de monitoreo clínico.|BioSticker y BioButton con servicios de monitoreo remoto.|Pulsera Tempo y app con alertas basadas en IA.|
+|                      | Precios & Costos                                      | Modelo Freemium–Premium para usuarios individuales y plan Enterprise para instituciones; costos escalables según número de pacientes. |Modelo B2B con costos por dispositivo y servicio hospitalario.|Suscripción mensual con dispositivos incluidos.|Dispositivo con pago inicial y suscripción para servicios y alertas.|
+|                      | Canales de distribución                               | Descarga directa de la app, venta online de dispositivos y alianzas con clínicas y casas de reposo.                                   |Distribución a través de hospitales y sistemas de salud.|Venta mediante proveedores de salud y aseguradoras.|Comercialización online y alianzas con residencias geriátricas.|
+| **Análisis SWOT**    | Fortalezas                                            | Integración única de movilidad y salud, escalabilidad de B2C a B2B y modelo de negocio adaptable.                                     |Alta precisión clínica y validación hospitalaria.|Monitoreo pasivo y amplio rango de parámetros.|IA predictiva y enfoque específico en adultos mayores.|
+|                      | Debilidades                                           | Requiere validación clínica y adopción tecnológica por parte de adultos mayores y cuidadores.                                         |Enfoque limitado al entorno hospitalario, poco accesible al usuario final.|Dependencia de suscripción y costos elevados.|Cobertura restringida a rutinas y movilidad, menos datos clínicos.|
+|                      | Oportunidades                                         | Creciente demanda de telemedicina y monitoreo geriátrico en Latinoamérica, con baja oferta especializada.                             |Expansión al cuidado domiciliario y programas de telemedicina.|Creciente demanda de monitoreo remoto en pacientes crónicos.|Mayor necesidad de prevención de caídas en adultos mayores independientes.|
+|                      | Amenazas                                              | Competencia de wearables globales (Apple, Fitbit) y startups especializadas (VitalConnect, BioSticker, CarePredict).                  |Competencia de wearables más accesibles como Apple Watch o Fitbit|Regulaciones estrictas y adopción lenta por parte de sistemas de salud.|Avances de competidores con dispositivos multiparámetro más completos.|
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
