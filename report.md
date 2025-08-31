@@ -321,7 +321,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 | **Aspecto**             | **Detalles**                                                                                                                       |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Nombre**              | Dr. Ricardo Salazar                                                                                                                |
-| **Foto**                | ![doctor](/assets/chapter1/doctor.jpg)                                                                                             |
+| **Foto**                | ![doctor](/assets/chapter2/doctor.jpg)                                                                                             |
 | **Edad**                | 45 años                                                                                                                            |
 | **Ocupación**           | Médico cardiólogo en clínica privada                                                                                               |
 | **Ubicación**           | Lima, Perú                                                                                                                         |
@@ -341,7 +341,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 | **Aspecto**             | **Detalles**                                                                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Nombre**              | Don Manuel Rojas                                                                                                           |
-| **Foto**                | ![adulto](/assets/chapter1/adulto.jpeg)                                                                                    |
+| **Foto**                | ![adulto](/assets/chapter2/adulto.jpeg)                                                                                    |
 | **Edad**                | 72 años                                                                                                                    |
 | **Ocupación**           | Jubilado                                                                                                                   |
 | **Ubicación**           | Cusco, Perú                                                                                                                |
@@ -361,7 +361,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 | **Aspecto**             | **Detalles**                                                                                                                |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **Nombre**              | Lic. Carla Fernández                                                                                                        |
-| **Foto**                | ![enfermera](/assets/chapter1/enfermera.jpg)                                                                                |
+| **Foto**                | ![enfermera](/assets/chapter2/enfermera.jpg)                                                                                |
 | **Edad**                | 32 años                                                                                                                     |
 | **Ocupación**           | Enfermera en clínica privada                                                                                                |
 | **Ubicación**           | Arequipa, Perú                                                                                                              |
