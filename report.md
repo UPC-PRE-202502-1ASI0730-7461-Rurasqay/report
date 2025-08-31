@@ -336,25 +336,25 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 | **Tecnologías**         | Laptop con software médico <br> Tablet para consultas <br> Dashboard clínico MediTrack                                             |
 | **Canales**             | Email profesional <br> WhatsApp corporativo <br> Plataforma de la clínica                                                          |
 
-### User Persona – Paciente Adulto Mayor
+### User Persona – Allegado de Adulto Mayor
 
-| **Aspecto**             | **Detalles**                                                                                                               |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Nombre**              | Don Manuel Rojas                                                                                                           |
-| **Foto**                | ![adulto](/assets/chapter2/adulto.jpeg)                                                                                    |
-| **Edad**                | 72 años                                                                                                                    |
-| **Ocupación**           | Jubilado                                                                                                                   |
-| **Ubicación**           | Cusco, Perú                                                                                                                |
-| **Estado civil**        | Casado                                                                                                                     |
-| **Demografía**          | Adulto mayor jubilado, vive con su esposa, hijos en otras ciudades preocupados por su seguridad                            |
-| **Fondo**               | Hipertenso con historial de caídas; hospitalizado varias veces; busca tranquilidad y soluciones simples                    |
-| **Metas**               | - Mantenerse seguro en casa <br> - Recibir ayuda inmediata en emergencias <br> - Facilitar acceso de su familia a su salud |
-| **Cita representativa** | _"Lo que más quiero es sentirme seguro en mi casa, sin preocupar a mis hijos todo el tiempo."_                             |
-| **Motivaciones**        | - Seguridad personal y familiar <br> - Atención médica rápida <br> - Evitar hospitalizaciones                              |
-| **Frustraciones**       | - Miedo a caídas sin asistencia <br> - Ansiedad al no entender signos vitales <br> - Desconfianza en nuevas tecnologías    |
-| **Habilidades**         | Uso de celular básico: 40/100 <br> Manejo de apps simples: 60/100 <br> Familiaridad con wearables: 20/100                  |
-| **Tecnologías**         | Parche inteligente MediTrack <br> Smartphone básico                                                                        |
-| **Canales**             | WhatsApp familiar <br> Llamadas directas <br> Dashboard compartido con familiares                                          |
+| **Aspecto**         | **Detalles**                                                                                                                                              |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre**           | Ana Rojas                                                                                                                                                 |
+| **Foto**             | ![allegado](/assets/chapter1/allegado.jpg)                                                                                                                |
+| **Edad**             | 42 años                                                                                                                                                   |
+| **Ocupación**        | Ingeniera de sistemas, trabaja en oficina y desde casa                                                                                                    |
+| **Ubicación**        | Lima, Perú                                                                                                                                                |
+| **Estado civil**     | Casada, con dos hijos adolescentes                                                                                                                        |
+| **Demografía**       | Hija de un adulto mayor (Don Manuel), se preocupa por la salud de su padre a distancia, quiere tranquilidad y control remoto                              |
+| **Fondo**            | Su padre ha sido hospitalizado varias veces, lo cual le genera ansiedad; busca soluciones digitales para prevenir emergencias                             |
+| **Metas**            | - Asegurar el bienestar de su padre <br> - Recibir notificaciones inmediatas ante emergencias <br> - Poder monitorear desde su celular en cualquier lugar |
+| **Cita representativa** | *"Necesito estar tranquila sabiendo que mi papá está bien, incluso cuando estoy trabajando."*                                                             |
+| **Motivaciones**     | - Seguridad y salud de su padre <br> - Rapidez en la atención médica <br> - Tranquilidad al estar informada en tiempo real                                |
+| **Frustraciones**    | - No poder estar físicamente siempre con su padre <br> - Información poco clara o tardía <br> - Estrés al coordinar con hospitales                        |
+| **Habilidades**      | Uso de apps móviles: 90/100 <br> Manejo de dashboards digitales: 80/100 <br> Comunicación digital: 95/100                                                 |
+| **Tecnologías**      | Smartphone avanzado (Android/iOS) <br> Dashboard web MediTrack <br> Aplicaciones de mensajería                                                            |
+| **Canales**          | WhatsApp <br> Email <br> Notificaciones push en el dashboard MediTrack                                                                                    |
 
 ### User Persona – Enfermera
 
