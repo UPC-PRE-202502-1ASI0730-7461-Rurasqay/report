@@ -1,3 +1,4 @@
+<div align="center">
 <img src="assets/caratula/logo-upc.png" alt="logo-upc" style="width:300px; height:auto;"/>
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -55,6 +56,7 @@
 
 ## AGOSTO - 2025
 
+</div>
 # Registro de Versiones del Informe
 
 # Project Report Collaboration Insights
