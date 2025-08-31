@@ -507,6 +507,88 @@ Cuidadores y personal administrativo de residencias geriátricas que tienen a su
 
 ### 2.2.1. Diseño de entrevistas
 
+### Preguntas dirigidas al primer segmento
+
+- ¿Cuál es tu edad, ocupación y lugar de residencia?
+
+- ¿Cuál es tu relación con el adulto mayor?
+
+- ¿Con qué frecuencia lo visitas o te comunicas con él/ella?
+
+- ¿Qué herramientas o dispositivos digitales sueles usar en tu día a día?
+
+- ¿Qué preocupaciones principales tienes sobre la salud y seguridad de tu familiar adulto mayor?
+
+- ¿Cómo sueles monitorear su estado de salud actualmente?
+
+- ¿Qué situaciones de riesgo has enfrentado que te hubiera gustado prevenir?
+
+- ¿Qué tipo de información en tiempo real consideras más valiosa recibir?
+
+- ¿Cómo reaccionas actualmente cuando ocurre una emergencia?
+
+- ¿Qué tan cómodo te sentirías usando una app para monitorear la salud de tu familiar?
+
+- ¿Qué funcionalidades serían imprescindibles para confiar en una solución como MediTrack?
+
+- ¿Qué barreras podrían impedirte adoptar una tecnología como esta?
+
+- ¿Qué tan dispuesto estarías a pagar por una solución que te brinde tranquilidad?
+
+### Preguntas dirigidas al segundo segmento
+
+- ¿Cuál es tu especialidad y experiencia en el cuidado de pacientes geriátricos?
+
+- ¿Cuántos pacientes adultos mayores atiendes en promedio a la semana?
+
+- ¿Qué herramientas digitales o sistemas de monitoreo utilizas actualmente en tu práctica médica?
+
+- ¿Qué dificultades enfrentas en el monitoreo de la salud de pacientes geriátricos?
+
+- ¿Con qué frecuencia recibes emergencias relacionadas con caídas, descompensaciones o crisis en pacientes mayores?
+
+- ¿Qué información en tiempo real te resultaría más útil para mejorar la atención y prevención?
+
+- ¿Cómo coordinas actualmente con familiares de los pacientes respecto a su estado de salud?
+
+- ¿Qué impacto tendría en tu labor clínica contar con reportes digitales y alertas inmediatas?
+
+- ¿Qué tan dispuesto estarías a implementar una herramienta como MediTrack en tu práctica?
+
+- ¿Qué características clínicas consideras imprescindibles para confiar en un sistema de monitoreo remoto?
+
+- ¿Qué obstáculos podrían dificultar la adopción en tu clínica (costos, capacitación, confianza en los datos)?
+
+- ¿Consideras que deberían cubrir parte del costo de una solución como esta?
+
+### Preguntas dirigidas al tercer segmento
+
+- ¿Qué cargo ocupas en la casa de reposo?
+
+- ¿Cuántos residentes adultos mayores tienes bajo tu supervisión diaria?
+
+- ¿Qué herramientas o protocolos utilizas actualmente para monitorear su estado de salud?
+
+- ¿Qué canales usas para comunicarte con las familias de los residentes?
+
+- ¿Qué problemas frecuentes enfrentas en el cuidado y supervisión de los adultos mayores?
+
+- ¿Cuáles son los eventos más críticos que suelen presentarse?
+
+- ¿Qué tan difícil resulta monitorear simultáneamente a varios residentes?
+
+- ¿Qué información en tiempo real te permitiría mejorar la atención y reducir riesgos?
+
+- ¿Cómo sueles actuar actualmente en casos de emergencia o deterioro repentino de la salud de un residente?
+
+- ¿Qué tan útil consideras que sería un parche inteligente como MediTrack para el cuidado diario de los residentes?
+
+- ¿Qué funcionalidades considerarías imprescindibles para implementarlo en tu institución?
+
+- ¿Qué obstáculos crees que existirían para adoptarlo (costo, capacitación del personal, confianza en los dispositivos)?
+
+- ¿Crees que los familiares estarían dispuestos a pagar un valor adicional por contar con esta tecnología en la casa de reposo?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
@@ -516,6 +598,32 @@ Cuidadores y personal administrativo de residencias geriátricas que tienen a su
 ### 2.3.1. User Personas
 
 ### 2.3.2. User Task Matrix
+
+En esta sección se presentan los User Task Matrix correspondientes a los segmentos objetivos del proyecto (allegados, personal medico y casas de reposo).
+A continuación, se detallan las tareas que realizan.
+
+| TASK                                                                  | Allegados – FREQUENCY | Allegados – IMPORTANCE | Personal médico – FREQUENCY | Personal médico – IMPORTANCE | Casas de reposo – FREQUENCY | Casas de reposo – IMPORTANCE |
+| --------------------------------------------------------------------- | --------------------- | ---------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- |
+| Recibir notificaciones en tiempo real sobre cambios en signos vitales | Always                | High                   | Always                      | High                         | Always                      | High                         |
+| Consultar historial de salud del paciente                             | Often                 | High                   | Often                       | High                         | Often                       | High                         |
+| Configurar alertas personalizadas (umbrales de signos vitales)        | Sometimes             | High                   | Often                       | High                         | Often                       | High                         |
+| Contactar al médico o cuidador a través de la plataforma              | Often                 | High                   | Sometimes                   | Medium                       | Sometimes                   | Medium                       |
+| Autorizar acceso a datos médicos para nuevos profesionales            | Rarely                | High                   | Sometimes                   | High                         | Sometimes                   | High                         |
+| Revisar reportes mensuales de evolución de la salud                   | Sometimes             | Medium                 | Sometimes                   | High                         | Often                       | Medium                       |
+| Actualizar información básica del paciente (medicación, alergias)     | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Monitorear en tiempo real los signos vitales de varios pacientes      | Rarely                | Medium                 | Always                      | High                         | Always                      | High                         |
+| Configurar planes de monitoreo individualizados                       | Never                 | Low                    | Often                       | High                         | Often                       | High                         |
+| Acceder a reportes detallados para decisiones clínicas                | Rarely                | Medium                 | Often                       | High                         | Sometimes                   | Medium                       |
+| Recibir alertas tempranas de riesgo crítico (caídas, arritmias, etc.) | Often                 | High                   | Always                      | High                         | Always                      | High                         |
+| Coordinar teleconsultas con pacientes y familiares                    | Sometimes             | Medium                 | Often                       | High                         | Rarely                      | Medium                       |
+| Integrar datos al historial clínico electrónico existente             | Never                 | Low                    | Sometimes                   | High                         | Sometimes                   | Medium                       |
+| Gestionar permisos de acceso de terceros (familiares, aseguradoras)   | Sometimes             | Medium                 | Sometimes                   | Medium                       | Rarely                      | Medium                       |
+| Supervisar múltiples pacientes desde un panel centralizado            | Never                 | Low                    | Sometimes                   | Medium                       | Always                      | High                         |
+| Priorizar alertas colectivas según criticidad                         | Rarely                | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
+| Registrar cambios en el estado de los residentes (medicación, dieta)  | Sometimes             | Medium                 | Often                       | Medium                       | Always                      | High                         |
+| Generar reportes diarios para la administración y familiares          | Sometimes             | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
+| Asignar responsables por turno para seguimiento de alertas            | Never                 | Low                    | Rarely                      | Medium                       | Often                       | Medium                       |
+| Capacitar nuevo personal en el uso de la plataforma MediTrack         | Never                 | Low                    | Rarely                      | Medium                       | Sometimes                   | Medium                       |
 
 ### 2.3.3. User Journey Mapping
 
