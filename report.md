@@ -341,7 +341,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 | **Aspecto**         | **Detalles**                                                                                                                                              |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nombre**           | Ana Rojas                                                                                                                                                 |
-| **Foto**             | ![allegado](/assets/chapter1/allegado.jpg)                                                                                                                |
+| **Foto**             | ![allegado](/assets/chapter2/allegado.jpg)                                                                                                                |
 | **Edad**             | 42 años                                                                                                                                                   |
 | **Ocupación**        | Ingeniera de sistemas, trabaja en oficina y desde casa                                                                                                    |
 | **Ubicación**        | Lima, Perú                                                                                                                                                |
