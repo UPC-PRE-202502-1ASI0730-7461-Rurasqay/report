@@ -189,7 +189,7 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 | Foto                                     | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                        |
 | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![]()                                    | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                            |
-| ![]()                                    | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Liderazgo, competitividad y organización.                                                                                                                                          |
+| ![](/assets/chapter1/gabriel.jpg)                                    | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.                                                                                                                                         |
 | ![]()                                    | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                    |
 | ![]()                                    | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
 | ![marcelo](/assets/chapter1/marcelo.png) | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                             |
@@ -289,11 +289,124 @@ La implementación de MediTrack requiere una inversión inicial destinada al des
 
 ### 1.2.2. Lean UX Process
 
+El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el desarrollo de nuestro producto, enfocándose en principios fundamentales como la validación continua, el pensamiento crítico y la acción rápida. A partir de esta filosofía, hemos estructurado nuestro propio enfoque Lean UX, basado en cuatro componentes esenciales: definición de problemas, formulación de suposiciones, creación de hipótesis y desarrollo de un lienzo estratégico.
+
 #### 1.2.2.1. Lean UX Problem Statement.
+
+El propósito de MediTrack es transformar el cuidado geriátrico al ofrecer una solución tecnológica integral que permita a pacientes, familias y centros de salud monitorear la salud de los adultos mayores de forma remota, segura y eficiente. Nuestro objetivo es garantizar un cuidado preventivo y personalizado, mejorando la calidad de vida y la tranquilidad de todos los involucrados.
+
+El problema se presenta cuando los pacientes geriátricos, sus familias y las instituciones de salud enfrentan desafíos significativos en el monitoreo constante de la salud del adulto mayor. Los familiares se preocupan por la falta de información en tiempo real, mientras que las clínicas y casas de reposo luchan por gestionar a múltiples residentes de manera eficiente sin herramientas modernas. La falta de datos históricos y el acceso limitado a la información clave en tiempo real impiden la prevención temprana de complicaciones médicas.
+
+Hemos observado que esta situación genera incertidumbre y estrés en las familias, un manejo ineficiente de pacientes en las instituciones de salud y un aumento en los riesgos por falta de monitoreo continuo. La ausencia de una solución que integre métricas de salud con información de movilidad, y que sea accesible y escalable para diferentes entornos (hogares, clínicas, casas de reposo), limita la capacidad de brindar un cuidado de alta calidad, preventivo y proactivo.
+
+Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos crear una solución de monitoreo digital que brinde seguridad y eficiencia en el cuidado de los adultos mayores, integrando la gestión de datos de salud en tiempo real con herramientas intuitivas y accesibles para pacientes, familias e instituciones de salud?
+
+**Domain:** Salud digital, cuidado geriátrico, tecnología portátil (wearables).
+
+**Customer Segments:**
+- Familiares de pacientes geriátrico
+- Personal médico de clínicas.
+- Personal de las casas de reposo
+
+**Pain Points:**
+
+- Incertidumbre y preocupación familiar por la salud del adulto mayor.
+- Ineficiencia en el monitoreo de múltiples pacientes en clínicas y casas de reposo.
+- Riesgo de caídas y la falta de alertas en tiempo real.
+- Falta de datos históricos para la prevención médica.
+
+**Gap:** No existe una solución en el mercado que combine un monitoreo integral de signos vitales y movilidad con una plataforma visual y escalable, adaptada tanto para el uso individual en el hogar como para la gestión institucional.
+
+**Vision/Strategy:** Ser la empresa líder en soluciones de salud digital para adultos mayores en Latinoamérica, mejorando la calidad de vida y previniendo riesgos mediante una innovación tecnológica accesible y escalable.
+
+**Initial Segment:** Familias con adultos mayores en Lima Metropolitana que tienen acceso a dispositivos móviles y buscan una forma más segura de monitorear la salud de sus seres queridos.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+Business Assumptions
+
+1. Creemos que los usuarios tienen la necesidad de monitorear de forma continua y precisa la salud de los adultos mayores, ya sea para un familiar o para un grupo de pacientes en una institución.
+
+2. Esta necesidad se puede satisfacer con una solución digital integral que combine un dispositivo portátil (parches inteligentes) con una plataforma visual (dashboard web y app móvil) que muestre datos en tiempo real.
+
+3. Nuestros clientes iniciales serán familias con adultos mayores en casa que busquen tranquilidad y seguridad en el cuidado, y clínicas o casas de reposo pequeñas que necesiten una herramienta para optimizar la gestión de sus residentes.
+
+4. El valor más importante que un cliente quiere de nuestros servicios es la tranquilidad y la seguridad de saber que la salud del adulto mayor está siendo monitoreada, lo que permite la prevención de riesgos y la atención oportuna.
+
+5. El cliente también obtendrá información en tiempo real, acceso a un historial de salud para consultas médicas, alertas automáticas y una gestión más eficiente de múltiples pacientes en el caso de las instituciones.
+
+6. Vamos a obtener la mayoría de los clientes mediante canales digitales (Google Ads, Facebook/Instagram Ads), alianzas con clínicas y centros de salud especializados en geriatría, y marketing de contenidos enfocado en el cuidado del adulto mayor.
+
+7. Vamos a obtener ingresos a través de un modelo Freemium para usuarios B2C (pacientes y familias) y un modelo de suscripción Enterprise para clientes B2B (clínicas y casas de reposo).
+
+8. Nuestra competencia en el mercado serán soluciones de monitoreo médico más tradicionales o dispositivos wearables que no ofrecen una integración completa de signos vitales y movilidad, o que no están diseñados específicamente para el cuidado geriátrico.
+
+9. Vamos a tener una ventaja competitiva al ser la única solución que integra un mapa visual de movilidad con métricas de salud y un modelo de negocio flexible que se adapta a distintos segmentos, desde el cuidado individual en casa hasta la gestión institucional.
+
+10. El mayor riesgo del servicio es la resistencia de los usuarios a la tecnología o la falta de confianza en la precisión de los datos del dispositivo.
+
+11. Lo resolveremos con pruebas piloto gratuitas, demostraciones claras del producto, testimonios de clientes satisfechos y certificaciones que validan la precisión de nuestros parches inteligentes.
+
+12. Otro riesgo que debemos considerar es el costo de los parches y la logística para el reemplazo, lo que podría desincentivar a los usuarios B2C. Lo resolveremos con un modelo de suscripción que incluya el reemplazo y descuentos por volumen.
+
+User Assumptions
+
+¿Quién es el usuario?
+- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
+- Clínicas y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
+
+¿Dónde encaja nuestro producto en su vida?
+- Para los allegados: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
+- Para las clínicas y casas de reposo: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
+
+¿Qué problemas resuelve nuestro producto?
+- Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
+- Falta de monitoreo continuo: La solución permite un seguimiento constante de signos vitales y movilidad, incluso a distancia.
+- Ineficiencia en la gestión: Las instituciones pueden monitorear a múltiples residentes de forma simultánea, recibiendo alertas automáticas que les permiten reaccionar rápidamente ante emergencias.
+- Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
+
+¿Cuándo y cómo se usa nuestro producto?
+- Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
+- Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
+
+¿Qué características son importantes?
+- Alertas en tiempo real: Por caídas, cambios bruscos en signos vitales o anomalías en el patrón de movilidad.
+- Dashboard visual: Una interfaz clara con gráficos y un mapa de movilidad.
+- Historial de datos: La capacidad de ver métricas de salud a lo largo del tiempo.
+- Reportes descargables: Para consultas médicas o comunicación con familiares.
+- Notificaciones personalizables: Permite a los usuarios elegir qué tipo de alertas quieren recibir.
+
+¿Cómo debería lucir y comportarse el producto?
+Debe ser intuitivo, sencillo y confiable. Los colores deben ser calmados (sin alarmar al usuario con rojo o naranjas, a menos que sea una alerta crítica), con una tipografía clara y botones grandes. El comportamiento debe ser rápido y responsivo, sin retrasos en la entrega de datos, y debe inspirar confianza y seguridad en el usuario.
+
+Feature Assumptions
+
+Creemos que la plataforma debe contar con un dashboard visual y amigable que permita a los familiares y al personal de las instituciones monitorear los datos de salud de los adultos mayores de forma clara y sin necesidad de conocimientos médicos avanzados.
+
+Creemos que la aplicación debe proporcionar notificaciones automáticas y personalizables que alertarán a los usuarios sobre anomalías en los signos vitales, caídas o cambios inesperados en los patrones de movilidad. Esto es crucial para garantizar una respuesta rápida ante cualquier emergencia.
+
+Creemos que la aplicación debe contar con un historial de salud detallado donde se almacenen los datos de monitoreo a largo plazo. Esto permitirá a los médicos y familiares identificar tendencias, evaluar la efectividad de tratamientos y tener información valiosa para las consultas médicas.
+
+Creemos que la aplicación debe ofrecer una sección de reportes descargables para que las familias o instituciones puedan compartir fácilmente la información de salud con profesionales médicos o tener un registro físico del progreso del paciente.
+
+Creemos que la aplicación debe permitir la gestión de múltiples pacientes de forma sencilla para las instituciones. Esto incluye la posibilidad de ver un resumen del estado de todos los residentes en un solo panel y acceder rápidamente a los detalles de cada uno.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Hypothesis Statement 01
+Creemos que los familiares de adultos mayores estarán dispuestos a adoptar la solución de MediTrack (parches y app) para monitorear la salud de sus seres queridos y así obtener tranquilidad y seguridad en el cuidado.
+Sabremos que hemos tenido éxito
+Cuando al menos el 80% de los usuarios B2C (familiares) que realicen la prueba gratuita mantengan la suscripción premium durante el primer mes de uso.
+
+Hypothesis Statement 02
+Creemos que la plataforma de monitoreo de MediTrack mejorará la eficiencia y la seguridad del personal de clínicas y casas de reposo al proporcionar datos en tiempo real y alertas automáticas.
+Sabremos que hemos tenido éxito
+Cuando al menos el 70% de las instituciones B2B (clínicas/casas de reposo) que contraten el servicio piloto lo mantengan de forma permanente y reporten una reducción de al menos el 20% en el tiempo de respuesta ante emergencias de pacientes.
+
+Hypothesis Statement 03
+Creemos que las funcionalidades de monitoreo de movilidad y signos vitales de MediTrack facilitarán la prevención de riesgos y la toma de decisiones médicas más informadas.
+Sabremos que hemos tenido éxito
+Cuando el 75% de los profesionales de la salud encuestados indiquen que el historial de datos y las alertas de la plataforma fueron útiles para prevenir complicaciones o para mejorar el plan de cuidado de un paciente.
 
 #### 1.2.2.4. Lean UX Canvas
 
