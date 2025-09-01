@@ -317,65 +317,11 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 ### 2.3.1. User Personas
 
 ### User Persona – Doctor
-
-| **Aspecto**             | **Detalles**                                                                                                                       |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Nombre**              | Dr. Ricardo Salazar                                                                                                                |
-| **Foto**                | ![doctor](/assets/chapter2/doctor.jpg)                                                                                             |
-| **Edad**                | 45 años                                                                                                                            |
-| **Ocupación**           | Médico cardiólogo en clínica privada                                                                                               |
-| **Ubicación**           | Lima, Perú                                                                                                                         |
-| **Estado civil**        | Casado                                                                                                                             |
-| **Demografía**          | Profesional de nivel socioeconómico medio-alto, atiende a pacientes crónicos en clínica privada                                    |
-| **Fondo**               | Busca soluciones digitales para monitorear pacientes a distancia; ha tenido pérdidas por emergencias no detectadas                 |
-| **Metas**               | - Monitorear pacientes crónicos <br> - Reducir emergencias y hospitalizaciones <br> - Diferenciar su clínica con servicios premium |
-| **Cita representativa** | _"Necesito una herramienta confiable que me permita monitorear a mis pacientes sin estar pegado al teléfono 24/7."_                |
-| **Motivaciones**        | - Fidelizar pacientes <br> - Optimizar tiempo sin perder calidad <br> - Reforzar reputación de la clínica                          |
-| **Frustraciones**       | - Pérdida de tiempo revisando múltiples fuentes <br> - Falta de datos en tiempo real <br> - Sobrecarga de pacientes                |
-| **Habilidades**         | Diagnóstico clínico: 95/100 <br> Manejo de software médico: 70/100 <br> Gestión de pacientes: 90/100                               |
-| **Tecnologías**         | Laptop con software médico <br> Tablet para consultas <br> Dashboard clínico MediTrack                                             |
-| **Canales**             | Email profesional <br> WhatsApp corporativo <br> Plataforma de la clínica                                                          |
-
+![Doctor](/assets/chapter2/Doctor.png)
 ### User Persona – Allegado de Adulto Mayor
-
-| **Aspecto**         | **Detalles**                                                                                                                                              |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre**           | Ana Rojas                                                                                                                                                 |
-| **Foto**             | ![allegado](/assets/chapter2/allegado.jpg)                                                                                                                |
-| **Edad**             | 42 años                                                                                                                                                   |
-| **Ocupación**        | Ingeniera de sistemas, trabaja en oficina y desde casa                                                                                                    |
-| **Ubicación**        | Lima, Perú                                                                                                                                                |
-| **Estado civil**     | Casada, con dos hijos adolescentes                                                                                                                        |
-| **Demografía**       | Hija de un adulto mayor (Don Manuel), se preocupa por la salud de su padre a distancia, quiere tranquilidad y control remoto                              |
-| **Fondo**            | Su padre ha sido hospitalizado varias veces, lo cual le genera ansiedad; busca soluciones digitales para prevenir emergencias                             |
-| **Metas**            | - Asegurar el bienestar de su padre <br> - Recibir notificaciones inmediatas ante emergencias <br> - Poder monitorear desde su celular en cualquier lugar |
-| **Cita representativa** | *"Necesito estar tranquila sabiendo que mi papá está bien, incluso cuando estoy trabajando."*                                                             |
-| **Motivaciones**     | - Seguridad y salud de su padre <br> - Rapidez en la atención médica <br> - Tranquilidad al estar informada en tiempo real                                |
-| **Frustraciones**    | - No poder estar físicamente siempre con su padre <br> - Información poco clara o tardía <br> - Estrés al coordinar con hospitales                        |
-| **Habilidades**      | Uso de apps móviles: 90/100 <br> Manejo de dashboards digitales: 80/100 <br> Comunicación digital: 95/100                                                 |
-| **Tecnologías**      | Smartphone avanzado (Android/iOS) <br> Dashboard web MediTrack <br> Aplicaciones de mensajería                                                            |
-| **Canales**          | WhatsApp <br> Email <br> Notificaciones push en el dashboard MediTrack                                                                                    |
-
+![Allegado](/assets/chapter2/AnaRojas.png)
 ### User Persona – Enfermera
-
-| **Aspecto**             | **Detalles**                                                                                                                |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Nombre**              | Lic. Carla Fernández                                                                                                        |
-| **Foto**                | ![enfermera](/assets/chapter2/enfermera.jpg)                                                                                |
-| **Edad**                | 32 años                                                                                                                     |
-| **Ocupación**           | Enfermera en clínica privada                                                                                                |
-| **Ubicación**           | Arequipa, Perú                                                                                                              |
-| **Estado civil**        | Soltera                                                                                                                     |
-| **Demografía**          | Profesional de salud de nivel medio, alta carga laboral, trabaja en clínica privada                                         |
-| **Fondo**               | Apoya a médicos en monitoreo de pacientes crónicos; antes dependía de llamadas y reportes manuales                          |
-| **Metas**               | - Detectar emergencias a tiempo <br> - Reducir llamadas y visitas innecesarias <br> - Mejorar coordinación clínica-paciente |
-| **Cita representativa** | _"Con una alerta clara, puedo actuar de inmediato sin esperar a que el paciente me llame."_                                 |
-| **Motivaciones**        | - Ofrecer atención humana y rápida <br> - Reducir carga laboral <br> - Usar tecnología como aliada                          |
-| **Frustraciones**       | - Exceso de pacientes sin apoyo digital <br> - Emergencias detectadas tarde <br> - Sistemas médicos poco integrados         |
-| **Habilidades**         | Atención al paciente: 90/100 <br> Manejo de equipos médicos: 80/100 <br> Uso de dashboards digitales: 65/100                |
-| **Tecnologías**         | Plataforma MediTrack <br> Tablet de la clínica <br> Notificaciones móviles                                                  |
-| **Canales**             | Notificaciones de la app <br> WhatsApp interno <br> Correo institucional                                                    |
-
+![Enfermera](/assets/chapter2/CarlaFernandez.png)
 ### 2.3.2. User Task Matrix
 
 En esta sección se presentan los User Task Matrix correspondientes a los segmentos objetivos del proyecto (allegados, personal medico y casas de reposo).
