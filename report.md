@@ -394,19 +394,24 @@ Creemos que la aplicación debe permitir la gestión de múltiples pacientes de 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 Hypothesis Statement 01
-Creemos que los familiares de adultos mayores estarán dispuestos a adoptar la solución de MediTrack (parches y app) para monitorear la salud de sus seres queridos y así obtener tranquilidad y seguridad en el cuidado.
-Sabremos que hemos tenido éxito
-Cuando al menos el 80% de los usuarios B2C (familiares) que realicen la prueba gratuita mantengan la suscripción premium durante el primer mes de uso.
+**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
+**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
 
 Hypothesis Statement 02
-Creemos que la plataforma de monitoreo de MediTrack mejorará la eficiencia y la seguridad del personal de clínicas y casas de reposo al proporcionar datos en tiempo real y alertas automáticas.
-Sabremos que hemos tenido éxito
-Cuando al menos el 70% de las instituciones B2B (clínicas/casas de reposo) que contraten el servicio piloto lo mantengan de forma permanente y reporten una reducción de al menos el 20% en el tiempo de respuesta ante emergencias de pacientes.
+**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
+**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
 
 Hypothesis Statement 03
-Creemos que las funcionalidades de monitoreo de movilidad y signos vitales de MediTrack facilitarán la prevención de riesgos y la toma de decisiones médicas más informadas.
-Sabremos que hemos tenido éxito
-Cuando el 75% de los profesionales de la salud encuestados indiquen que el historial de datos y las alertas de la plataforma fueron útiles para prevenir complicaciones o para mejorar el plan de cuidado de un paciente.
+**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
+**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+
+Hypothesis Statement 04
+**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
+**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+
+Hypothesis Statement 05
+**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
+**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
 
 #### 1.2.2.4. Lean UX Canvas
 
