@@ -129,6 +129,7 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -149,11 +150,13 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -206,7 +209,7 @@ En esta sección analizaremos a los que consideramos los principales competidore
 
 Realizar un análisis competitivo de MediTrack es importante para identificar las fortalezas y debilidades de los principales rivales, así como resaltar los diferenciales únicos de la solución.
 
-|                         |                                                       | ![MediTrack logo.png](assets%2Fchapter2%2FMediTrack%20logo.png)<br/>MediTrack                                                                                                                             | ![VitalConnect (1).png](assets%2Fchapter2%2FVitalConnect%20%281%29.png) <br/> VitalConnect | ![BioIntelliSense (1).jpeg](assets%2Fchapter2%2FBioIntelliSense%20%281%29.jpeg) <br/> BioIntelliSense | ![CarePredict (1).jpeg](assets%2Fchapter2%2FCarePredict%20%281%29.jpeg)<br/>CarePredict |
+|                         |                                                       | ![MediTrack logo.png](assets%2Fchapter2%2FMediTrack%20logo.png)<br/>MediTrack                                                         | ![VitalConnect (1).png](assets%2Fchapter2%2FVitalConnect%20%281%29.png) <br/> VitalConnect | ![BioIntelliSense (1).jpeg](assets%2Fchapter2%2FBioIntelliSense%20%281%29.jpeg) <br/> BioIntelliSense | ![CarePredict (1).jpeg](assets%2Fchapter2%2FCarePredict%20%281%29.jpeg)<br/>CarePredict |
 | ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | **Perfil**              | Overview                                              | Parches inteligentes y dashboard que integran signos vitales, movilidad y alertas en tiempo real para adultos mayores.                | Parche biométrico para monitoreo hospitalario y remoto de signos vitales.                  | Parche portátil para monitoreo continuo y detección temprana en crónicos.                             | Pulsera para adultos mayores que usa IA para prevenir caídas y cambios de conducta.     |
 |                         | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Combina mapa de movilidad y métricas de salud en un solo sistema, con un modelo flexible.                                             | Seguimiento clínico preciso y continuo en hospitales y post-alta                           | Monitoreo pasivo y detección temprana de complicaciones.                                              | Prevención de caídas y cambios de salud mediante IA en adultos mayores.                 |
@@ -222,8 +225,6 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-
-
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -236,7 +237,11 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Con qué frecuencia lo visitas o te comunicas con él/ella?
 
-- ¿Qué herramientas o dispositivos digitales sueles usar en tu día a día?
+- ¿Qué dispositivo usas más para comunicarte con tu familiar o cuidador?
+
+- ¿Qué apps o canales usas con más frecuencia?
+
+- ¿Qué navegador usas más en tu día a día?
 
 - ¿Qué preocupaciones principales tienes sobre la salud y seguridad de tu familiar adulto mayor?
 
@@ -262,7 +267,13 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Cuántos pacientes adultos mayores atiendes en promedio a la semana?
 
-- ¿Qué herramientas digitales o sistemas de monitoreo utilizas actualmente en tu práctica médica?
+- ¿Qué dispositivo usas más para tu trabajo?
+
+- ¿Qué canales digitales utilizas con pacientes y familiares?
+
+- ¿Qué navegador usas con frecuencia en el trabajo?
+
+- ¿Qué sistema de monitoreo de pacientes utilizas en tus prácticas médicas?
 
 - ¿Qué dificultades enfrentas en el monitoreo de la salud de pacientes geriátricos?
 
@@ -278,7 +289,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Qué características clínicas consideras imprescindibles para confiar en un sistema de monitoreo remoto?
 
-- ¿Qué obstáculos podrían dificultar la adopción en tu clínica (costos, capacitación, confianza en los datos)?
+- ¿Qué obstáculos podrían dificultar la adopción en tu clínica?
 
 - ¿Consideras que deberían cubrir parte del costo de una solución como esta?
 
@@ -291,6 +302,10 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 - ¿Qué herramientas o protocolos utilizas actualmente para monitorear su estado de salud?
 
 - ¿Qué canales usas para comunicarte con las familias de los residentes?
+
+- ¿Qué navegadores usan en los equipos de la residencia?
+
+- ¿Qué sistemas de monitoreo utilizas para saber el estado de salud actual de los asistidos?
 
 - ¿Qué problemas frecuentes enfrentas en el cuidado y supervisión de los adultos mayores?
 
@@ -306,7 +321,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Qué funcionalidades considerarías imprescindibles para implementarlo en tu institución?
 
-- ¿Qué obstáculos crees que existirían para adoptarlo (costo, capacitación del personal, confianza en los dispositivos)?
+- ¿Qué obstáculos crees que existirían para adoptarlo?
 
 - ¿Crees que los familiares estarían dispuestos a pagar un valor adicional por contar con esta tecnología en la casa de reposo?
 
@@ -319,11 +334,17 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 ### 2.3.1. User Personas
 
 ### User Persona – Doctor
+
 ![Doctor](/assets/chapter2/Doctor.png)
+
 ### User Persona – Allegado de Adulto Mayor
+
 ![Allegado](/assets/chapter2/AnaRojas.png)
+
 ### User Persona – Enfermera
+
 ![Enfermera](/assets/chapter2/CarlaFernandez.png)
+
 ### 2.3.2. User Task Matrix
 
 En esta sección se presentan los User Task Matrix correspondientes a los segmentos objetivos del proyecto (allegados, personal medico y casas de reposo).
@@ -367,7 +388,6 @@ A continuación, se detallan las tareas que realizan.
 ### Empathy Mapping – Enfermera
 
 ![Carla Fernández Empathy.png](assets%2Fchapter2%2FCarla%20Fern%C3%A1ndez%20Empathy.png)
-
 
 ### 2.3.2. User Task Matrix
 
