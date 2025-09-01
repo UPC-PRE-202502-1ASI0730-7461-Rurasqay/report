@@ -222,6 +222,8 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -353,6 +355,21 @@ A continuación, se detallan las tareas que realizan.
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
+
+### Empathy Mapping – Doctor
+
+![Ricardo Salazar Empathy.png](assets%2Fchapter2%2FRicardo%20Salazar%20Empathy.png)
+
+### Empathy Mapping – Allegado de Adulto Mayor
+
+![Ana Rojas Empathy.png](assets%2Fchapter2%2FAna%20Rojas%20Empathy.png)
+
+### Empathy Mapping – Enfermera
+
+![Carla Fernández Empathy.png](assets%2Fchapter2%2FCarla%20Fern%C3%A1ndez%20Empathy.png)
+
+
+### 2.3.2. User Task Matrix
 
 ## 2.4. Big Picture EventStorming
 
