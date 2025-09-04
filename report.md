@@ -335,11 +335,11 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### User Persona – Doctor
 
-![Doctor](/assets/chapter2/Doctor.png)
+![Doctor](/assets/chapter2/LuisJimenez.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
-![Allegado](/assets/chapter2/AnaRojas.png)
+![Allegado](/assets/chapter2/ValeriaPancorbo.png)
 
 ### User Persona – Enfermera
 
