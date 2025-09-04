@@ -331,7 +331,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-  [video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+  ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 - Resumen:
 
   El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
@@ -353,7 +353,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-  [video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+  ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 - Resumen:
 
   La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
