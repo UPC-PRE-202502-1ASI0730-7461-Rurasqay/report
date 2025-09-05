@@ -225,6 +225,31 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+  Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) y CAME (Corregir, Afrontar, Mantener y Explotar) de nuestra solución MediTrack frente a los competidores analizados.
+
+# Matriz FODA
+
+| **Interno / Externo** | **Positivo**                                                         | **Negativo**                                                           |
+| --------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Interno**           | **Fortalezas (F):**                                                  | **Debilidades (D):**                                                   |
+|                       | - Integración única de movilidad + métricas de salud.                | - Requiere validación clínica para ganar confianza.                    |
+|                       | - Modelo de negocio flexible (Freemium, Premium, Enterprise).        | - Adopción tecnológica limitada en adultos mayores y cuidadores.       |
+|                       | - Escalabilidad de B2C (familias) a B2B (clínicas y casas de reposo)**. | - Recursos iniciales limitados frente a grandes competidores globales. |
+| **Externo**           | **Oportunidades (O):**                                               | **Amenazas (A):**                                                      |
+|                       | - Creciente demanda de telemedicina y monitoreo geriátrico en LatAm. | - Competencia fuerte de wearables globales (Apple, Fitbit).            |
+|                       | - Baja oferta de soluciones especializadas en adultos mayores en la región. | - Startups especializadas (VitalConnect, BioSticker, CarePredict).     |
+|                       | - Tendencia de gobiernos y aseguradoras a impulsar salud digital.    | - Regulaciones sanitarias estrictas para aprobación médica.            |
+
+# Matriz CAME
+
+| Estrategia                      | Acción                                                                                                                                                                                                                                                 |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **C (Corregir Debilidades):**   | - Validar clínicamente los parches inteligentes mediante pilotos en clínicas. <br> - Diseñar interfaces simples y capacitaciones para mejorar adopción por parte de adultos mayores y cuidadores.                                                      |
+| **A (Afrontar Amenazas):**      | - Diferenciarse de Apple/Fitbit con un enfoque 100% en geriatría. <br> - Reforzar la propuesta de valor con mapa de movilidad visual que los competidores no integran. <br> - Ajustar precios accesibles para el mercado latinoamericano.              |
+| **M (Mantener Fortalezas):**    | - Seguir potenciando la escalabilidad de uso individual a institucional. <br> - Mantener el modelo freemium-premium-enterprise como ventaja comercial. <br> - Continuar desarrollando el dashboard visual como punto de diferenciación.                |
+| **E (Explotar Oportunidades):** | - Expandir en Latinoamérica con alianzas con clínicas, casas de reposo y aseguradoras. <br> - Posicionarse como pionero en soluciones de monitoreo geriátrico digital en la región. <br> - Aprovechar incentivos y programas gubernamentales de salud digital. |
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
