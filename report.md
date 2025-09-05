@@ -447,15 +447,15 @@ A continuación, se detallan las tareas que realizan.
 
 ### Empathy Mapping – Doctor
 
-![Ricardo Salazar Empathy.png](assets%2Fchapter2%2FRicardo%20Salazar%20Empathy.png)
+![Luis Jimenez Empathy Map.png](assets/chapter2/Luis%20Jimenez%20Empathy%20Map.png)
 
 ### Empathy Mapping – Allegado de Adulto Mayor
 
-![Ana Rojas Empathy.png](assets%2Fchapter2%2FAna%20Rojas%20Empathy.png)
+![Valeria Pancorbo Empathy Map.png](assets/chapter2/Valeria%20Pancorbo%20Empathy%20Map.png)
 
 ### Empathy Mapping – Enfermera
 
-![Carla Fernández Empathy.png](assets%2Fchapter2%2FCarla%20Fern%C3%A1ndez%20Empathy.png)
+![Carla Fernandez Empathy Map.png](assets/chapter2/Carla%20Fernandez%20Empathy%20Map.png)
 
 ### 2.3.2. User Task Matrix
 
