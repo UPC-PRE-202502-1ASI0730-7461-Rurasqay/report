@@ -129,7 +129,6 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -150,13 +149,11 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -352,6 +349,52 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevistas segmento objectivo profesionales de la salud
+
+##### Doctor Medico General
+
+- Nombres: Vicente Alonso
+- Apellidos: Cuba Pareja
+- Distrito: Miraflores
+  ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+- Resumen:
+
+  El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
+
+  En cuanto a los dispositivos que utiliza en su labor, menciona principalmente la computadora del centro de salud como herramienta central para el registro de historias clínicas y consultas. Reconoce también el uso de sistemas digitales, en particular el ESSI (sistema de historias electrónicas de EsSalud), que le permite acceder a antecedentes médicos, exámenes previos y registrar nuevas atenciones. Para la comunicación con familiares de los pacientes recurre a canales más directos e informales, como WhatsApp, lo que sugiere flexibilidad y adaptación a las necesidades cotidianas.
+
+  Respecto a la navegación en internet, aclara que emplea Google Chrome como su navegador principal, tanto para acceder al sistema institucional como para realizar búsquedas de información médica en plataformas reconocidas como PubMed o UpToDate. Esto muestra que combina herramientas institucionales con fuentes externas de información actualizada, lo cual refleja interés en mantener la calidad de la atención.
+
+  En relación con el monitoreo de los pacientes, explica que depende del propio sistema ESSI para obtener información clínica. Sin embargo, cuando se trata de pacientes que requieren atención domiciliaria, el seguimiento recae en gran medida en los reportes que envían sus familiares, lo que evidencia una limitación en la disponibilidad de datos en tiempo real. Entre las dificultades más importantes que enfrenta, menciona precisamente la falta de alertas inmediatas sobre caídas, descompensaciones u otras emergencias en los adultos mayores, situaciones que se presentan con cierta frecuencia. Considera que contar con información en tiempo real sería de gran ayuda para mejorar la prevención y la toma de decisiones clínicas.
+
+  En cuanto a la coordinación con familiares, señala que esta se realiza principalmente de manera personal o mediante comunicación directa en situaciones específicas, pero reconoce que un sistema de reportes digitales y alertas inmediatas tendría un impacto positivo en su trabajo, facilitando la atención oportuna y reduciendo riesgos.
+
+  Sobre la posible implementación de una herramienta como MediTrack, se muestra dispuesto y abierto a considerarla, siempre que cumpla con ciertos criterios clínicos indispensables para garantizar confianza en los datos. Entre ellos menciona la precisión de la información, la capacidad de generar reportes confiables y la utilidad para la toma de decisiones. Sin embargo, identifica barreras importantes para la adopción, como los costos asociados, la necesidad de capacitación del personal y la confianza en la calidad de los datos. Ante la pregunta sobre la cobertura del costo, considera razonable que sea compartido, ya sea por las instituciones de salud o por los pacientes y sus familias, para facilitar la implementación.
+
+  En conjunto, el entrevistado transmite una visión realista y práctica de su labor en geriatría. Combina el uso de herramientas digitales institucionales con soluciones cotidianas como WhatsApp, muestra apertura hacia la innovación tecnológica, pero al mismo tiempo es consciente de las limitaciones del entorno clínico y de los retos económicos y de confianza que implica adoptar nuevas soluciones.
+
+##### Doctora Medico General
+
+- Nombres: Valentina
+- Apellidos: Pareja Centeno
+- Distrito: Surco
+  ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+- Resumen:
+
+  La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
+
+  En su labor diaria utiliza principalmente la laptop o la PC disponible en el consultorio para registrar la atención y gestionar la información clínica. En cuanto a la comunicación digital con pacientes y familiares, menciona que se emplea el correo electrónico con frecuencia y que, cada vez más, se está recurriendo a WhatsApp como un canal práctico y directo. Esto evidencia un perfil que combina el uso de canales formales con soluciones cotidianas para facilitar la interacción.
+
+  Respecto al monitoreo de los pacientes, indica que no existe un sistema especializado más allá de la atención en consulta, lo que limita la continuidad del seguimiento. Identifica como principal dificultad que los adultos mayores suelen depender de terceros para acudir a sus controles, lo que provoca que muchos lleguen tarde a sus evaluaciones o incluso se encuentren en situación de abandono. Esto se traduce en emergencias frecuentes, siendo las caídas, descompensaciones y crisis médicas los casos más habituales.
+
+  Considera que la información en tiempo real que más aportaría a su labor clínica está relacionada con el seguimiento de tratamientos, especialmente de las recetas médicas, ya que muchos pacientes no las cumplen correctamente o dejan los tratamientos inconclusos. Además, señala que sería de gran utilidad contar con alertas inmediatas sobre caídas y cambios en la estabilidad de los pacientes, ya que ello permitiría actuar de manera más preventiva.
+
+  En la coordinación con familiares, explica que la comunicación se realiza mayormente de manera escrita, ya sea mediante correo electrónico o mensajes. Sin embargo, reconoce que esta coordinación es limitada y que una herramienta que facilite reportes digitales y alertas inmediatas tendría un impacto significativo, mejorando la calidad y oportunidad de la atención.
+
+  Ante la posibilidad de implementar un sistema como MediTrack, la doctora muestra disposición, siempre y cuando se garantice la confiabilidad de los datos clínicos y la utilidad en la práctica médica. Sin embargo, identifica barreras como los costos de implementación, la capacitación necesaria y la resistencia al cambio por parte de algunos profesionales de la salud. Sobre el financiamiento, sugiere que los costos no deberían recaer únicamente en el profesional, sino compartirse entre instituciones y, eventualmente, los propios pacientes o sus familias.
+
+  En conjunto, la entrevistada transmite una perspectiva realista de la atención geriátrica: utiliza recursos tecnológicos básicos, combina canales formales con herramientas de comunicación cotidiana, es consciente de las dificultades en el seguimiento de los adultos mayores y reconoce el potencial de una solución digital, aunque también señala las limitaciones económicas y organizativas que podrían frenar su adopción.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -360,11 +403,11 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### User Persona – Doctor
 
-![Doctor](/assets/chapter2/Doctor.png)
+![Doctor](/assets/chapter2/LuisJimenez.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
-![Allegado](/assets/chapter2/AnaRojas.png)
+![Allegado](/assets/chapter2/ValeriaPancorbo.png)
 
 ### User Persona – Enfermera
 
