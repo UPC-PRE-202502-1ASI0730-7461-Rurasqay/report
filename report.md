@@ -359,10 +359,10 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Cocca
 - Edad: 19
 - Distrito: San Miguel
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 52:28
+- Fin: 1:01:53
 
 ![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
 
@@ -386,10 +386,10 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos:
 - Edad:
 - Distrito:
-- URL:
+- URL:[Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 45:08
+- Fin: 52:27
 
 ![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
@@ -401,10 +401,10 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Rioja
 - Edad: 25
 - Distrito: Puente Piedra
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 5:21
+- Fin: 9:55
 
 ![video screenshoot](/assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
 
@@ -428,11 +428,13 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Cuba Pareja
 - Edad:
 - Distrito: Miraflores
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 1:06:34
+- Fin: 1:19:06
+
   ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+
 - Resumen:
 
   El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
@@ -455,10 +457,10 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Pareja Centeno
 - Edad:
 - Distrito: Surco
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 1:01:54
+- Fin: 1:06:33
   ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 - Resumen:
 
@@ -482,10 +484,10 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos:
 - Edad:
 - Distrito:
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 1:19:07
+- Fin: 1:28:34
 
 ![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 1")
 
@@ -499,10 +501,10 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 20:17
+- Fin: 45:08
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
@@ -524,10 +526,10 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- URL:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
 - Timing:
-- Inicio:
-- Fin:
+- Inicio: 9:56
+- Fin: 20:16
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
@@ -549,10 +551,10 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos:
 - Edad:
 - Distrito:
-- URL:
-- Timing:
-- Inicio:
-- Fin:
+- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
+- Timing: 
+- Inicio: 0:00
+- Fin: 5:21
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
