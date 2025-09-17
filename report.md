@@ -353,7 +353,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 
 #### Entrevistas segmento objetivo allegados de adultos mayores
 
-##### Allegado Aulto Mayor
+##### Allegado Adulto Mayor
 
 - Nombres: Andres
 - Apellidos: Cocca
@@ -380,7 +380,7 @@ En relación con su disposición a utilizar nuevas soluciones como MediTrack, se
 
 En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el cuidado de adultos mayores. Combina sensibilidad personal con interés en herramientas digitales, identificando en la tecnología una aliada clave para mejorar la seguridad y el bienestar de las personas mayores, pese a que su experiencia se limita al ámbito familiar y no profesional.
 
-##### Allegado Aulto Mayor
+##### Allegado Adulto Mayor
 
 - Nombres:
 - Apellidos:
@@ -395,7 +395,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 
 - Resumen:
 
-##### Allegado Aulto Mayor
+##### Allegado Adulto Mayor
 
 - Nombres:
 - Apellidos:
