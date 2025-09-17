@@ -359,10 +359,8 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Cocca
 - Edad: 19
 - Distrito: San Miguel
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 52:28
-- Fin: 1:01:53
+- Timing: [Video Entrevista Andres](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=0HdnSi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC40Nn19)
+- Duración: 9 minutos con 25 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
 
@@ -382,14 +380,12 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 
 ##### Allegado Adulto Mayor
 
-- Nombres:
-- Apellidos:
+- Nombres: Teofilo
+- Apellidos: Beingolea
 - Edad:
 - Distrito:
-- URL:[Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 45:08
-- Fin: 52:27
+- Timing:[Video Entrevista Teofilo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=OtUOSL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4wM319)
+- Duración: 7 minutos con 19 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
@@ -401,10 +397,8 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Rioja
 - Edad: 25
 - Distrito: Puente Piedra
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 5:21
-- Fin: 9:55
+- Timing: [Video Entrevista Jorge](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=qyHon3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjk4fX0%3D)
+- Duración: 4 minutos con 34 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
 
@@ -428,11 +422,9 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Cuba Pareja
 - Edad:
 - Distrito: Miraflores
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 1:06:34
-- Fin: 1:19:06
-
+- Timing: [Video Entrevista Vicente](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=j37JcY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzk5NC44NH19)
+- Duración: 12 minutos con 32 segundos
+ 
   ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 
 - Resumen:
@@ -457,11 +449,11 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Pareja Centeno
 - Edad:
 - Distrito: Surco
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 1:01:54
-- Fin: 1:06:33
+- Timing: [Video Entrevista Valentina](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=gNmeci&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTMxNC44N319)
+- Duración: 4 minutos con 39 segundos
+
   ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+
 - Resumen:
 
   La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
@@ -484,12 +476,10 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos:
 - Edad:
 - Distrito:
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 1:19:07
-- Fin: 1:28:34
+- Timing: [Video Entrevista Racidez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dERiTe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDc0Ni45OH19)
+- Duración: 9 minutos con 27 segundos
 
-![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 1")
+![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
 
@@ -501,10 +491,8 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 20:17
-- Fin: 45:08
+- Timing: [Video Entrevista Ana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nG6Gl6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4zM319)
+- Duración: 24 minutos con 51 segundos
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
@@ -526,10 +514,8 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing:
-- Inicio: 9:56
-- Fin: 20:16
+- Timing: [Video Entrevistas Fanny](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=K8mpGh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk3LjYxfX0%3D)
+- Duración: 10 minutos con 20 segundos
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
@@ -551,10 +537,8 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos:
 - Edad:
 - Distrito:
-- URL: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vfxeFJ)
-- Timing: 
-- Inicio: 0:00
-- Fin: 5:21
+- Timing: [Video Entrevistas Judith](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=lDmG4K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Duración: 5 minutos con 21 segundos
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
