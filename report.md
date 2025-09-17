@@ -397,10 +397,10 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 
 ##### Allegado Adulto Mayor
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
+- Nombres: Jorge
+- Apellidos: Rioja
+- Edad: 25
+- Distrito: Puente Piedra
 - URL:
 - Timing:
 - Inicio:
@@ -409,6 +409,16 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 ![video screenshoot](/assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
 
 - Resumen:
+
+El entrevistado es Jorge, un joven de 25 años que actualmente se desempeña como practicante profesional en un banco y reside en Puente Piedra junto a su abuelo y el resto de su familia. Como nieto, su principal preocupación se centra en la salud de su abuelo, específicamente en el control de la presión arterial. Explica que el monitoreo con dispositivos tradicionales suele realizarse únicamente cuando aparecen síntomas como mareos o dolores de cabeza, lo que ya ha derivado en episodios de desmayo, generando gran preocupación en la familia.
+
+En cuanto a los dispositivos que utiliza, Jorge cuenta con un iPhone y emplea principalmente WhatsApp y llamadas para mantenerse en comunicación con sus familiares. Para la navegación en internet prefiere Google Chrome, lo que refleja un perfil digital práctico y habitual en su generación.
+
+Considera fundamental contar con información en tiempo real sobre el estado de su abuelo, en particular datos relacionados con ubicación, caídas y presión arterial. Reconoce que, en situaciones de emergencia, suele depender del apoyo de otros familiares para evaluar la situación y, de ser necesario, acudir rápidamente a un centro médico. En este sentido, identifica un alto valor en una solución como MediTrack, ya que la falta de tiempo de los familiares limita la vigilancia constante.
+
+Respecto a las funciones que más le interesan, destaca como imprescindibles la localización, la detección de caídas y el monitoreo de la presión arterial, al considerarlas claves para prevenir riesgos graves. Sin embargo, también menciona que su principal barrera es la confianza en la exactitud de los datos que ofrezca el sistema. Aun así, afirma estar dispuesto a pagar por una herramienta que garantice seguridad y tranquilidad en el cuidado de su abuelo.
+
+En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar de su familiar, con una alta disposición hacia el uso de soluciones tecnológicas. Reconoce las limitaciones del monitoreo actual y valora la posibilidad de contar con herramientas que permitan prevenir emergencias, reducir riesgos y facilitar la respuesta de la familia ante eventuales complicaciones.
 
 #### Entrevistas segmento objetivo profesionales de la salud
 
