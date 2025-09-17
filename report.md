@@ -382,14 +382,22 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 
 - Nombres: Teofilo
 - Apellidos: Beingolea
-- Edad:
-- Distrito:
-- Timing:[Video Entrevista Teofilo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=OtUOSL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4wM319)
+- Edad: 58
+- Distrito: Jesus Maria 
+- Timing: [Video Entrevista Teofilo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=OtUOSL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4wM319)
 - Duración: 7 minutos con 19 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
-- Resumen:
+- Resumen: Teófilo, de 58 años y residente en Lima, mantiene una relación cercana con el adulto mayor, a quien visita varias veces por semana y con la que se comunica casi a diario, principalmente a través del celular, usando llamadas y WhatsApp. En su vida cotidiana utiliza mayormente el navegador Google Chrome.
+
+Sus principales preocupaciones giran en torno a la salud y seguridad del adulto mayor, especialmente las caídas, los problemas de presión arterial y que pueda requerir ayuda estando sola. Actualmente la monitorea con llamadas frecuentes y consultas sobre su estado, además de los controles médicos regulares, aunque siente que estos métodos no siempre son suficientes.
+
+Ha vivido episodios de riesgo como mareos y una caída que no pudieron anticipar, lo cual le genera el deseo de contar con información en tiempo real. Considera especialmente valioso recibir alertas sobre caídas, ritmo cardíaco y recordatorios de medicación.
+
+En caso de emergencias, suele acudir personalmente o llamar a una ambulancia, pero reconoce la angustia de no tener información clara al instante. Teófilo se muestra abierto al uso de una aplicación como MediTrack, siempre que sea sencilla y confiable. Entre las funcionalidades que considera imprescindibles están: alertas inmediatas de emergencias, acceso al historial médico y conexión directa con servicios de salud.
+
+Aunque percibe como barreras la complejidad tecnológica y la falta de confianza en las plataformas digitales, asegura que estaría dispuesto a pagar por una solución que le brinde tranquilidad y garantice el bienestar del adulto mayor.
 
 ##### Allegado Adulto Mayor
 
