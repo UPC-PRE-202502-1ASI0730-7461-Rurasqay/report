@@ -554,6 +554,22 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 
 ### 2.2.3. Análisis de entrevistas
 
+ **Segmento 1: Allegados de adultos mayores**
+
+Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
+
+
+
+ **Segmento 2: Médicos**
+
+Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima, ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
+
+
+
+ **Segmento 3: Cuidadores en Casas de Reposo**
+
+Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
