@@ -304,6 +304,20 @@
 
 ## 3.2. Impact Mapping
 
+Impact Mapping es una técnica visual que facilita la definición clara de los objetivos que queremos alcanzar y cómo estos se relacionan con nuestros usuarios. Esta herramienta nos permite mantener el enfoque y orientar nuestros esfuerzos hacia el cumplimiento del objetivo principal. Al finalizar el mapa, se identifican las funcionalidades y acciones necesarias para desarrollar el proyecto de forma eficiente.
+
+Impact Map para el segmento de Personal casas de reposo:
+
+![impact map ](/assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
+
+Impact Map para el segmento de Doctores de clínicas:
+
+![impact map ](/assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
+
+Impact Map para el segmento de Familiares:
+
+![impact map ](/assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
+
 ## 3.3. Product Backlog
 
 | Nº | User Story ID | Título                                   | Descripción                                                                 | Story Points | Epic ID |
@@ -349,7 +363,8 @@
 | 39 | US05          | Ver Tecnologías que Salvan Vidas         | Como enfermero, quiero conocer los sensores y dispositivos.                 | 1            | EP01    |
 | 40 | US06          | Ver Nuestra Misión                       | Como familiar, quiero entender la misión de MediTrack.                      | 1            | EP01    |
 | 41 | US07          | Ver Nuestra Visión                       | Como médico, quiero conocer la visión a futuro de MediTrack.                | 1            | EP01    |
-| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idi
+| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idioma.                                     | 3            | EP05    |
+| 43 | US36          | Consultar la hora exacta                 | Como usuario, quiero ver la hora actualizada de mi zona.                    | 2            | EP05    |
 
 # Capítulo IV: Product Design
 
