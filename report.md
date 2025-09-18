@@ -1,3 +1,4 @@
+<div align="center">
 <img src="assets/caratula/logo-upc.png" alt="logo-upc" style="width:300px; height:auto;"/>
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -55,7 +56,26 @@
 
 ## AGOSTO - 2025
 
-# Registro de Versiones del Informe
+</div>
+
+# Control de versiones
+
+| Versión | Fecha    | Autor(es)                            | Descripción de cambios                                               |
+| ------- | -------- | ------------------------------------ | -------------------------------------------------------------------- |
+| 1.00    | 03/09/25 | Barrientos Quispe, Marcelo           | Definición de la estructura inicial del proyecto.                    |
+| 1.01    | 03/09/25 | Beingolea Montalvo, Sebastian Martin | Agregados los resultados esperados para los estudiantes.             |
+| 1.02    | 04/09/25 | Cuba Pareja, Joaquin Antonio         | Incorporación del Lean UX Canvas como herramienta base del proyecto. |
+| 1.03    | 04/09/25 | Cuba Pareja, Joaquin Antonio         | Actualización del perfil del equipo de trabajo.                      |
+| 1.04    | 05/09/25 | Barrientos Quispe, Marcelo           | Implementación de control de versiones con Git.                      |
+| 1.05    | 08/09/25 | Beingolea Montalvo, Sebastian Martin | Integración de la rama con el capítulo 1 (introducción).             |
+| 1.06    | 09/09/25 | Barrientos Quispe, Marcelo           | Creación del capítulo 2 del proyecto.                                |
+| 1.07    | 09/09/25 | Rioja Nuñez, Franco Diego            | Inclusión de preguntas para entrevistas con usuarios.                |
+| 1.08    | 10/09/25 | Barrientos Quispe, Marcelo           | Elaboración e incorporación del análisis de la competencia.          |
+| 1.09    | 10/09/25 | Beingolea Montalvo, Sebastian Martin | Definición del recorrido del usuario basado en el user persona.      |
+| 1.10    | 11/09/25 | Rivera Ayala, Gabriel Alejandro      | Adición del mapa de empatía al capítulo 2.                           |
+| 1.11    | 12/09/25 | Rivera Ayala, Gabriel Alejandro      | Corrección y refinamiento del arquetipo de usuario.                  |
+| 1.12    | 15/09/25 | Barrientos Quispe, Marcelo           | Inclusión de contenido detallado en el análisis de entrevistas.      |
+| 1.13    | 15/09/25 | Rioja Nuñez, Franco Diego            | Agregados resúmenes estructurados de las entrevistas.                |
 
 # Project Report Collaboration Insights
 
@@ -129,7 +149,6 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -150,13 +169,11 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -170,10 +187,10 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                         | Conclusiones |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Morbi vel tortor id eros dictum venenatis id ut dui. <br>                                                                  |              |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. <br> Vestibulum in nunc quis elit suscipit sollicitudin. <br> |              |
+| Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Morbi vel tortor id eros dictum venenatis id ut dui. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/>                                                                  | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Morbi vel tortor id eros dictum venenatis id ut dui. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br>Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br/>                                            |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. <br> Vestibulum in nunc quis elit suscipit sollicitudin. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> | **Barrientos Quispe, Marcelo** <br> **TB1** <br> Morbi vel tortor id eros dictum venenatis id ut dui. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> |
 
 # Capítulo I: Introducción
 
@@ -195,13 +212,13 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                  | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![]()                                                                 | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                                                                                                                                                                                                                                                     |
-| ![gabriel](/assets/chapter1/Gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
-| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
-| ![]()                                                                 | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
-| ![marcelo](/assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
+| Foto                                                                            | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sebastian](/assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
+| ![gabriel](/assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
+| ![Diego.jpeg](assets/chapter1/Diego.jpeg)                                       | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
+| ![marcelo](/assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
 
 ## 1.2. Solution Profile
 
@@ -212,7 +229,7 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 **What(Qué)?** <br>
 ¿Cuál es el problema?
 
-El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la OPS (Organización Panamericana de la Salud, s. f.), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
 
 **When(Cuando)?** <br>
 ¿Cuándo sucede el problema?
@@ -409,19 +426,24 @@ Creemos que la aplicación debe permitir la gestión de múltiples pacientes de 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 Hypothesis Statement 01
-Creemos que los familiares de adultos mayores estarán dispuestos a adoptar la solución de MediTrack (parches y app) para monitorear la salud de sus seres queridos y así obtener tranquilidad y seguridad en el cuidado.
-Sabremos que hemos tenido éxito
-Cuando al menos el 80% de los usuarios B2C (familiares) que realicen la prueba gratuita mantengan la suscripción premium durante el primer mes de uso.
+**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
+**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
 
 Hypothesis Statement 02
-Creemos que la plataforma de monitoreo de MediTrack mejorará la eficiencia y la seguridad del personal de clínicas y casas de reposo al proporcionar datos en tiempo real y alertas automáticas.
-Sabremos que hemos tenido éxito
-Cuando al menos el 70% de las instituciones B2B (clínicas/casas de reposo) que contraten el servicio piloto lo mantengan de forma permanente y reporten una reducción de al menos el 20% en el tiempo de respuesta ante emergencias de pacientes.
+**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
+**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
 
 Hypothesis Statement 03
-Creemos que las funcionalidades de monitoreo de movilidad y signos vitales de MediTrack facilitarán la prevención de riesgos y la toma de decisiones médicas más informadas.
-Sabremos que hemos tenido éxito
-Cuando el 75% de los profesionales de la salud encuestados indiquen que el historial de datos y las alertas de la plataforma fueron útiles para prevenir complicaciones o para mejorar el plan de cuidado de un paciente.
+**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
+**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+
+Hypothesis Statement 04
+**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
+**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+
+Hypothesis Statement 05
+**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
+**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -449,7 +471,7 @@ Son familiares o cuidadores cercanos de adultos mayores que requieren atención 
 
 - Según la OMS (2022), más del 60% de adultos mayores en América Latina dependen del apoyo directo de familiares para su cuidado.
 
-- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2021), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
+- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2023), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
 
 - **Personal medíco de clínicas**
 
