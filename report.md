@@ -211,7 +211,7 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 **What(Qué)?** <br>
 ¿Cuál es el problema?
 
-El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la OPS (Organización Panamericana de la Salud, s. f.), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
 
 **When(Cuando)?** <br>
 ¿Cuándo sucede el problema?
@@ -453,7 +453,7 @@ Son familiares o cuidadores cercanos de adultos mayores que requieren atención 
 
 - Según la OMS (2022), más del 60% de adultos mayores en América Latina dependen del apoyo directo de familiares para su cuidado.
 
-- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2021), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
+- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2023), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
 
 - **Personal medíco de clínicas**
 
