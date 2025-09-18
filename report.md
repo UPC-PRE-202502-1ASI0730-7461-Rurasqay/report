@@ -349,7 +349,8 @@
 | 39 | US05          | Ver Tecnologías que Salvan Vidas         | Como enfermero, quiero conocer los sensores y dispositivos.                 | 1            | EP01    |
 | 40 | US06          | Ver Nuestra Misión                       | Como familiar, quiero entender la misión de MediTrack.                      | 1            | EP01    |
 | 41 | US07          | Ver Nuestra Visión                       | Como médico, quiero conocer la visión a futuro de MediTrack.                | 1            | EP01    |
-| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idi
+| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idioma.                                     | 3            | EP05    |
+| 43 | US36          | Consultar la hora exacta                 | Como usuario, quiero ver la hora actualizada de mi zona.                    | 2            | EP05    |
 
 # Capítulo IV: Product Design
 
