@@ -304,7 +304,52 @@
 
 ## 3.2. Impact Mapping
 
-## 3.4. Product Backlog
+## 3.3. Product Backlog
+
+| Nº | User Story ID | Título                                   | Descripción                                                                 | Story Points | Epic ID |
+|----|---------------|------------------------------------------|-----------------------------------------------------------------------------|--------------|---------|
+| 1  | US16          | Registrarse en MediTrack                 | Como nuevo usuario, quiero completar formulario de registro.                | 5            | EP01    |
+| 2  | US14          | Iniciar Sesión en MediTrack              | Como usuario registrado, quiero iniciar sesión con credenciales.            | 3            | EP01    |
+| 3  | US17          | Adaptar Dashboard según Plan             | Como usuario registrado, quiero que el dashboard se adapte al plan.         | 5            | EP01    |
+| 4  | US18          | Registro de clínica                      | Como representante, quiero registrar a mi clínica.                          | 5            | EP02    |
+| 5  | US19          | Creación automática del rol de admin     | Como admin, quiero recibir credenciales únicas.                             | 3            | EP02    |
+| 6  | US20          | Acceso inicial del administrador         | Como admin, quiero iniciar sesión con credenciales válidas.                 | 3            | EP02    |
+| 7  | US37          | Añadir adulto mayor en clínica           | Como admin, quiero añadir adulto mayor con datos.                           | 3            | EP02    |
+| 8  | US38          | Añadir doctor en clínica                 | Como admin, quiero agregar doctor para asignar paciente.                    | 3            | EP02    |
+| 9  | US39          | Asignar adulto mayor a un doctor         | Como admin, quiero asignar adulto mayor a un doctor.                        | 3            | EP02    |
+| 10 | US21          | Registro de adultos mayores              | Como admin, quiero registrar adultos mayores.                               | 3            | EP02    |
+| 11 | US22          | Añadir doctor                            | Como admin, quiero registrar doctores.                                      | 3            | EP02    |
+| 12 | US25          | Recibir alertas críticas en clínica      | Como doctor, quiero recibir alertas de cambios críticos.                    | 5            | EP02    |
+| 13 | US24          | Visualizar información clínica en clínica| Como doctor, quiero ver información clínica.                                | 3            | EP02    |
+| 14 | US23          | Ver lista de adultos mayores asignados   | Como doctor, quiero ver lista de adultos mayores asignados.                 | 2            | EP02    |
+| 15 | US40          | Añadir adulto mayor en casa de reposo    | Como admin, quiero añadir adulto mayor con datos.                           | 3            | EP03    |
+| 16 | US43          | Añadir cuidador                          | Como admin, quiero registrar cuidadores.                                    | 3            | EP03    |
+| 17 | US41          | Añadir cuidador en casa de reposo        | Como admin, quiero añadir un cuidador.                                      | 3            | EP03    |
+| 18 | US42          | Asignar adulto mayor a un cuidador       | Como admin, quiero asignar adulto mayor a un cuidador.                      | 3            | EP03    |
+| 19 | US32          | Recibir alertas críticas en casa reposo  | Como cuidador, quiero recibir alertas críticas.                             | 5            | EP03    |
+| 20 | US33          | Visualizar información clínica en reposo | Como cuidador, quiero visualizar información clínica básica.                | 3            | EP03    |
+| 21 | US34          | Ver lista de adultos mayores en reposo   | Como admin, quiero ver la lista de adultos mayores bajo cuidado.            | 2            | EP03    |
+| 22 | US26          | Acceso al dashboard                      | Como allegado, quiero acceder al dashboard.                                 | 2            | EP04    |
+| 23 | US29          | Recibir alertas de caídas                | Como familiar, quiero recibir alertas de caídas.                            | 5            | EP04    |
+| 24 | US30          | Recibir alertas de salud                 | Como usuario, quiero recibir alertas de cambios importantes.                | 5            | EP04    |
+| 25 | US28          | Visualizar signos vitales premium        | Como allegado, quiero ver datos extra como temperatura.                     | 5            | EP04    |
+| 26 | US27          | Visualizar signos vitales básicos        | Como usuario no premium, quiero ver signos vitales básicos.                 | 3            | EP04    |
+| 27 | US31          | Acceso a soporte                         | Como usuario, quiero acceder a soporte desde dashboard.                     | 2            | EP04    |
+| 28 | US01          | Visualización de la Landing Page         | Como visitante, quiero acceder a la landing page para conocer la solución.  | 2            | EP01    |
+| 29 | US15          | Visualizar Planes Disponibles            | Como visitante, quiero ver los planes al no tener cuenta.                   | 2            | EP01    |
+| 30 | US13          | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de login.                      | 1            | EP01    |
+| 31 | US11          | Acceder al Formulario de Contacto        | Como visitante, quiero llenar un formulario.                                | 3            | EP01    |
+| 32 | US12          | Información de Contacto Alternativa      | Como médico, quiero ver datos de contacto directo.                          | 1            | EP01    |
+| 33 | US08          | Consultar Plan Gratuito                  | Como visitante, quiero ver el plan gratuito.                                | 2            | EP01    |
+| 34 | US09          | Consultar Plan Premium                   | Como allegado, quiero ver el plan premium.                                  | 2            | EP01    |
+| 35 | US10          | Consultar Plan Enterprise                | Como médico o institución, quiero ver el plan enterprise.                   | 2            | EP01    |
+| 36 | US02          | Visualizar Problemas Actuales            | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico.  | 1            | EP01    |
+| 37 | US03          | Visualizar Soluciones Propuestas         | Como médico, quiero ver las soluciones tecnológicas de MediTrack.           | 1            | EP01    |
+| 38 | US04          | Visualizar Impacto en Cifras             | Como visitante, quiero ver indicadores de impacto.                          | 1            | EP01    |
+| 39 | US05          | Ver Tecnologías que Salvan Vidas         | Como enfermero, quiero conocer los sensores y dispositivos.                 | 1            | EP01    |
+| 40 | US06          | Ver Nuestra Misión                       | Como familiar, quiero entender la misión de MediTrack.                      | 1            | EP01    |
+| 41 | US07          | Ver Nuestra Visión                       | Como médico, quiero conocer la visión a futuro de MediTrack.                | 1            | EP01    |
+| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idi
 
 # Capítulo IV: Product Design
 
