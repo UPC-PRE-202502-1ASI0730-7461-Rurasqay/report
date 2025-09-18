@@ -129,7 +129,6 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -150,13 +149,11 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -383,7 +380,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Nombres: Teofilo
 - Apellidos: Beingolea
 - Edad: 58
-- Distrito: Jesus Maria 
+- Distrito: Jesus Maria
 - Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3)
 - Duración: 7 minutos con 19 segundos
 
@@ -432,7 +429,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Distrito: Miraflores
 - Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb)
 - Duración: 12 minutos con 32 segundos
- 
+
   ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 
 - Resumen:
@@ -572,19 +569,15 @@ Sin embargo, identifica posibles obstáculos para su adopción, como el costo y 
 
 ### 2.2.3. Análisis de entrevistas
 
- **Segmento 1: Allegados de adultos mayores**
+**Segmento 1: Allegados de adultos mayores**
 
 Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
 
-
-
- **Segmento 2: Médicos**
+**Segmento 2: Médicos**
 
 Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
 
-
-
- **Segmento 3: Cuidadores en Casas de Reposo**
+**Segmento 3: Cuidadores en Casas de Reposo**
 
 Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
 
@@ -618,7 +611,7 @@ A continuación, se detallan las tareas que realizan.
 | Recibir alertas tempranas de riesgo crítico (caídas, arritmias, etc.) | Often                 | High                   | Always                      | High                         | Always                      | High                         |
 | Supervisar múltiples pacientes desde un panel centralizado            | Never                 | Low                    | Sometimes                   | Medium                       | Always                      | High                         |
 | Priorizar alertas colectivas según criticidad                         | Rarely                | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
-| Asignar responsables por turno para seguimiento de adultos mayores            | Never                 | Low                    | Rarely                      | Medium                       | Often                       | Medium                       |
+| Asignar responsables por turno para seguimiento de adultos mayores    | Never                 | Low                    | Rarely                      | Medium                       | Often                       | Medium                       |
 | Capacitar nuevo personal en el uso de la plataforma MediTrack         | Never                 | Low                    | Rarely                      | Medium                       | Sometimes                   | Medium                       |
 
 ### 2.3.3. User Journey Mapping
@@ -640,6 +633,47 @@ A continuación, se detallan las tareas que realizan.
 ### 2.3.2. User Task Matrix
 
 ## 2.4. Big Picture EventStorming
+
+El equipo llevó a cabo una sesión colaborativa de Big Picture Event Storming (BPES) con el propósito de comprender de manera integral el dominio del negocio de MediTrack. Esta dinámica permitió identificar los eventos significativos del sistema, sus relaciones y dependencias, construyendo así una visión de alto nivel sobre los procesos clave. El ejercicio no solo buscó mapear el landscape del negocio, sino también detectar oportunidades de mejora, riesgos potenciales y áreas críticas para la futura implementación tecnológica.
+
+### Resumen del proceso:
+
+La sesión se desarrolló siguiendo la guía de pasos recomendada en BPES Step-by-Step Guide
+, adaptándola al contexto de MediTrack. El flujo de trabajo incluyó:
+
+Exploración inicial del dominio: Cada integrante aportó conocimiento desde su rol, identificando interacciones entre usuarios principales (adultos mayores, médicos, cuidadores, administradores de clínica y familiares).
+
+Identificación de eventos clave: Se mapearon eventos de negocio como “Usuario registrado”, “Agregado miembro de familia”, “Dispositivo IoT registrado”, “Dato de presión arterial registrado” o “Se envió alerta crítica”
+
+Agrupación en bounded contexts: Los eventos se organizaron en agregados y bounded contexts tales como:
+
+User Management
+
+Device Management
+
+Dashboard & Analytics
+
+Relationship Management
+
+Report Management
+
+Identity & Access Management
+
+Detección de políticas y reglas de negocio: Se documentaron políticas asociadas, como la necesidad de validación de datos, gestión de usuarios premium/enterprise y generación de reportes automatizados
+
+### Capturas y explicación de etapas
+
+En la siguiente imagen del mapa de eventos se visualizan los eventos distribuidos en tarjetas (post-its), conectados con agregados y bounded contexts:
+
+<img src="assets/chapter2/BigPictureEventStormig-MediTrack.jpg" alt="Big Picture EventStorming" width="100%">
+
+Zona de Registro y Validación: Incluye eventos como creación de cuenta, validación de credenciales y asociación de familiares. Esta sección refleja la importancia de la seguridad y la confiabilidad de datos de los adultos mayores.
+
+Zona de Monitoreo y Dispositivos IoT: Representa los registros de signos vitales (frecuencia cardíaca, presión arterial, saturación de oxígeno, temperatura) y la generación automática de alertas críticas. Se evidencia la integración con dispositivos de salud como un punto central del dominio
+
+Zona de Relación y Gestión Médica: Destaca la asignación de adultos mayores a médicos o cuidadores, mostrando la necesidad de coordinación multi-actor.
+
+Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reportes de actividad y analítica para clínicas y familiares, revelando la orientación a trazabilidad y toma de decisiones.
 
 ## 2.5. Ubiquitous Language
 
