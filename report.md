@@ -480,16 +480,24 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 
 ##### Doctor Medico General
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
-- Timing: [Video Entrevista Racidez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dERiTe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDc0Ni45OH19)
-- Duración: 9 minutos con 27 segundos
+- Nombres: Alcides Gustavo
+- Apellidos: Rivera Chipana
+- Edad: 56
+- Distrito: Pueblo Libre
 
 ![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
+
+El entrevistado es Alcides Rivera, un geriatra con más de 15 años de experiencia en medicina preventiva. En promedio, atiende entre 30 y 40 pacientes adultos mayores a la semana. Su labor diaria se apoya principalmente en una laptop y un smartphone , y para la comunicación digital con pacientes y familiares utiliza llamadas, correos electrónicos y WhatsApp. Para el monitoreo de pacientes, se basa en expedientes médicos digitales y mediciones manuales durante las consultas.
+
+El geriatra señala que una de las principales dificultades que enfrenta en el monitoreo es la falta de datos continuos, ya que la información disponible es solo del momento de la consulta. Esto se relaciona con la alta frecuencia de emergencias, recibiendo al menos una o dos llamadas de emergencia a la semana, relacionadas con caídas, descompensaciones o crisis en pacientes mayores.
+
+Considera que la información en tiempo real que le sería más útil para mejorar la atención es la de signos vitales, patrones de actividad y alertas de eventos de riesgo. Actualmente, la coordinación con los familiares se realiza por teléfono o correo electrónico para dar actualizaciones y coordinar citas.
+
+El entrevistado cree que contar con reportes digitales y alertas inmediatas en su labor clínica facilitaría la detección temprana de problemas y mejoraría la toma de decisiones. Ante la posibilidad de implementar una herramienta como MediTrack, se muestra muy dispuesto, siempre y cuando demuestre ser una herramienta clínica confiable. Las características que considera imprescindibles para confiar en un sistema de monitoreo remoto son la precisión de los datos, alertas personalizables y acceso al historial médico completo.
+
+Sin embargo, identifica posibles obstáculos para la adopción en su clínica: el costo, la integración con su sistema actual y la curva de aprendizaje para el personal. Además, opina que el costo de una solución como esta debería ser compartido tanto por los pacientes como por las instituciones de salud.
 
 #### Entrevistas segmento objetivo personal de las casas de reposo
 
@@ -541,16 +549,26 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 
 ##### Cuidadores Casas De Reposo
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
-- Timing: [Video Entrevistas Judith](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=lDmG4K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Nombres: Judith Jesus
+- Apellidos: Ayala Maurtua
+- Edad: 56
+- Distrito: Pueblo Libre
 - Duración: 5 minutos con 21 segundos
+- Timing: [Video Entrevistas Judith](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=lDmG4K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
 - Resumen:
+
+La entrevistada es Judith Ayala y ocupa el cargo de enfermera de turno rotativo en una casa de reposo. Está a cargo de la supervisión diaria de entre 18 y 20 residentes. Para su trabajo, utiliza principalmente smartphones y computadoras para actualizar datos, y se comunica con familiares y médicos a través de llamadas semanales y WhatsApp.
+
+Para el monitoreo del estado de salud de los residentes, se realizan rondas cada hora especialmente para los pacientes más criticos. Identifica como dificultad principal la complejidad y lo tedioso que resulta monitorear a todos los residentes simultáneamente debido a la falta de personal y equipos. Los eventos críticos más comunes que se presentan son urgencias médicas como desniveles en la presión sanguínea, falta de oxígeno o aceleraciones cardíacas.
+
+Considera que la información en tiempo real que más ayudaría a su labor sería la ubicación, los malestares generales y alertas si un residente sufre un accidente o presenta alguna variación en su salud. En caso de emergencia, la acción actual es comunicarse de inmediato con el hospital más cercano mientras se aplican primeros auxilios.
+
+La enfermera considera que un parche inteligente como MediTrack sería muy útil para obtener datos en tiempo real y facilitar los chequeos médicos. Las funcionalidades que considera imprescindibles para implementarlo en su institución son la obtención de datos biométricos, alertas y un sistema o mapa de calor para detectar el movimiento diario.
+
+Sin embargo, identifica posibles obstáculos para su adopción, como el costo y la capacitación necesaria para todos los cuidadores del centro. Opina que los familiares estarían dispuestos a pagar un valor adicional por el servicio, ya que les brindaría tranquilidad y más seguridad sobre la salud de sus seres queridos.
 
 ### 2.2.3. Análisis de entrevistas
 
