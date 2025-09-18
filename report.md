@@ -288,11 +288,168 @@
 
 ### 5.1.1. Software Development Environment Configuration
 
+#### Gestión de Proyecto (Project Management)
+
+**GitHub Pages**: Servicio en línea que permite publicar sitios web directamente desde un repositorio de GitHub. Brinda una manera sencilla de compartir documentación y proyectos, favoreciendo la colaboración y el acceso público o privado a los contenidos.  
+**Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
+#### Gestión de Requisitos (Requirements Management)
+
+**Trello**: Herramienta en línea que permite organizar actividades, asignar tareas y dar seguimiento al progreso del equipo. Se usará para coordinar las responsabilidades y controlar el avance de sprints e historias de usuario.  
+**Ruta de acceso:** [https://trello.com/es](https://trello.com/es)
+
+---
+
+#### Diseño de UX/UI del Producto (Product UX/UI Design)
+
+**Figma**: Plataforma colaborativa para diseñar interfaces y prototipos gráficos. Se utilizará para crear las versiones Desktop y Mobile de la aplicación.  
+**Ruta de acceso:** [https://www.figma.com/login](https://www.figma.com/login)
+
+**Overflow**: Aplicación especializada en la creación de diagramas de flujo y wireflows, útil para representar la experiencia del usuario en el sistema.  
+**Ruta de acceso:** [https://overflow.io](https://overflow.io)
+
+---
+
+#### Desarrollo de Software (Software Development)
+
+**Visual Studio Code**: Editor de código versátil empleado para programar y compilar, gracias a su compatibilidad con múltiples lenguajes y extensiones.  
+**Ruta de acceso:** [https://code.visualstudio.com](https://code.visualstudio.com)
+
+**IntelliJ IDEA**: Entorno de desarrollo avanzado diseñado para proyectos en Java y Kotlin, fundamental en la construcción de componentes del sistema.  
+**Ruta de acceso:** [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
+
+**HTML5**: Lenguaje de marcado utilizado para estructurar y dar forma al contenido web.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+**CSS**: Lenguaje de estilos para definir la presentación visual de las páginas web, garantizando una experiencia de usuario consistente.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**JavaScript**: Lenguaje de programación que habilita la interactividad en las interfaces web, esencial para la dinámica del sistema.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+#### Despliegue de Software (Software Deployment)
+
+**Git**: Sistema de control de versiones que permite registrar cambios en el código, colaborar en equipo y mantener un historial completo del proyecto.  
+**Ruta de acceso:** [https://git-scm.com](https://git-scm.com)
+
+---
+
+#### Documentación del Software (Software Documentation)
+
+**Markdown**: Sintaxis ligera de marcado que facilita la creación de documentación clara y legible, especialmente en repositorios colaborativos.  
+**Ruta de acceso:** [https://www.markdownguide.org](https://www.markdownguide.org)
+
+**GitHub Pages**: Herramienta integrada en GitHub que permite publicar documentación y sitios web directamente desde un repositorio, ofreciendo una forma sencilla y gratuita de compartir contenidos en línea.  
+**Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
 ### 5.1.2. Source Code Management
+
+GitHub será la herramienta principal para el control de versiones del proyecto. En este espacio se presentarán los enlaces a los repositorios correspondientes a la documentación, el informe y la página de aterrizaje (Landing Page).
+
+#### URL de Repositorios
+
+- **Documentación e Informe**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+- **Landing Page**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page)
+
+Cada repositorio contendrá todos los archivos relacionados con el proyecto.
+
+#### Modelo de GitFlow
+
+**GitFlow** se adoptará como la estrategia de ramificación del proyecto, garantizando una gestión ordenada de las ramas y una integración continua y eficiente entre los desarrolladores.
+
+![GitFlow](./assets/chapter5/gitflow.png)
+
+#### Ramas principales
+
+- **Master (`master`)**  
+  Rama principal del proyecto. Aquí siempre estará el código estable y listo para ser desplegado en producción.
+
+- **Desarrollo (`develop`)**  
+  Rama destinada al trabajo de desarrollo. Todas las mejoras y nuevas funcionalidades se integran primero aquí antes de pasar a `main`.
+
+- **Funcionalidades (`feature`)**  
+  Cada nueva característica se desarrolla en una rama independiente creada a partir de `develop`.  
+  Convención: `feature/nombre-de-la-funcionalidad`  
+  Ejemplo: `feature/ch1-target-segment`
+
+- **Liberaciones (`release`)**  
+  Se crean a partir de `develop` para preparar una nueva versión estable.  
+  En estas ramas se corrigen errores menores, se hacen pruebas finales y se documenta el código previo al lanzamiento.  
+  Convención: `release/version`  
+  Ejemplo: `release/v1.0.0`
+
+- **Correcciones urgentes (`hotfix`)**  
+  Usadas para solucionar errores críticos detectados en producción. Estas ramas parten de `main`.  
+  Convención: `hotfix/nombre-de-la-corrección`  
+  Ejemplo: `hotfix/imagen-bug`
+
+---
+
+#### Convenciones para Versiones
+
+Se utilizará **Semantic Versioning (SemVer)** para todas las versiones publicadas, siguiendo el formato:  
+`MAJOR.MINOR.PATCH` (por ejemplo: `1.0.0`).
+
+---
+
+#### Convenciones para Commits
+
+Se seguirá el estándar **Conventional Commits** para garantizar claridad y consistencia en los mensajes:
+
+- `feat`: Introducción de nuevas características.
+- `fix`: Solución de errores.
+- `docs`: Modificaciones en la documentación.
+- `style`: Cambios de formato sin afectar la lógica.
+- `refactor`: Reestructuración del código sin alterar su comportamiento.
+- `test`: Creación o modificación de pruebas.
+- `chore`: Tareas de mantenimiento.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+#### HTML
+Prácticas aplicadas en el desarrollo de la Landing Page estática:
+1. Uso de `href=#id` para permitir una navegación interna fluida.  
+2. Inclusión de atributos `alt` en todas las imágenes para mostrar texto alternativo en caso de error de carga.  
+   Ejemplo:  
+   ```html
+   <img src="images/image-hero.png" alt="Persona frente a computadora"/>
+3. Obtención de íconos en formato SVG desde Lucide.
+4. Uso de la convención kebab-case para nombrar id y clases.
+
+#### CSS
+  1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
+  2. Definición de colores en formato HEX.
+  3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
+
+#### JS
+  1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
+
+#### GERKHIN
+
+Se utilizó el lenguaje Gherkin para redactar escenarios de las User Stories, empleando palabras clave como:
+
+- Given
+
+- When
+
+- Then
+
+- And
+
 ### 5.1.4. Software Deployment Configuration
+
+#### Despliegue de la Landing Page
+
+El despliegue de la Landing Page se realizó utilizando **GitHub Pages**, aprovechando su simplicidad y accesibilidad.  
+El archivo `index.html` fue definido como el punto de entrada principal del sitio.
+
+![Landing Page Image](./assets/chapter5/landing-image.png)
+
+![Landing Page Settings](./assets/chapter5/landing-settings.png)
+
+- **Landing URL**: [https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/](https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -314,14 +471,6 @@
 
 #### 5.2.1.8. Team Collaboration Insigths during Sprint
 
-## 5.3. Validation Interviews
-
-### 5.3.1. Diseño de Entrevistas
-
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
-
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -330,15 +479,15 @@
 
 # Bibliografía
 
-- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú. 
+- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú. 
+- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión. 
+- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión.
 
-- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú. 
+- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú. 
+- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú.
 
 - Organización Panamericana de la Salud. (s. f.). Health in the Americas+ country profile: Peru [Perfil país]. OPS.
 
