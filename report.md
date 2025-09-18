@@ -778,7 +778,7 @@ Estadísticas del adulto mayor asignado
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+[Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
 
 #### User Goal: Registro Usuario
 
@@ -840,7 +840,7 @@ personal del cuidador y se confirma el registro correcto.
 User persona: Casa de reposo
 Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
 
-<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF-9.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Analisis de estado de paciente geriatrico
 
@@ -848,7 +848,7 @@ User persona: Casa de reposo
 Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
 un analisis estadistico en tiempo real para controlar los signos vitales.
 
-<img src="assets/chapter4/W" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
