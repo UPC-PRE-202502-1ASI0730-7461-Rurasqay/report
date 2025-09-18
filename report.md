@@ -455,7 +455,37 @@ El archivo `index.html` fue definido como el punto de entrada principal del siti
 
 ### 5.2.1. Sprint 1
 
+Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó en el diseño y desarrollo funcional de la Landing Page de la plataforma. Se implementaron las secciones principales como el mensaje de bienvenida, los botones de registro y navegación y la información de contacto. También se trabajó en aspectos de interacción, incluyendo la fijación del encabezado al hacer scroll y una presentación atractiva de la propuesta de valor. El equipo logró finalizar todas las tareas planificadas, priorizando siempre la navegación fluida, la accesibilidad y la claridad en la comunicación con los nuevos usuarios. RurasqaySoft implementó la totalidad de las funcionalidades de la Landing Page y realizó el diseño completo de la misma, incorporando llamados a la acción (CTA), diseño responsive, sección de planes, testimonios, preguntas frecuentes y una navegación optimizada y fluida, concluyendo con éxito todo lo necesario para garantizar una mejor experiencia de usuario.
+
 #### 5.2.1.1. Sprint Planning 1
+
+# Sprint 1
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+
+| **Sprint Planning Background** | |
+|--------------------------------|--------------------------------------------------------------------|
+| **Date**                       | 1 de septiembre del 2025                                           |
+| **Time**                       | 10:00 PM                                                          |
+| **Location**                   | Vía Discord                                                       |
+| **Prepared By**                | Barrientos Quispe Marcelo                                         |
+| **Attendees (to planning)**    | Franco Diego, Rioja Gabriel, Rivera Juaquin, Cuba Parejo, Sebastián Beingolea |
+
+---
+
+| **Sprint 1 – Review Summary**       | Se alcanzó la meta de desplegar la landing page |
+|-------------------------------------|-------------------------------------------------|
+| **Sprint 1 – Retrospective Summary** | Más coordinación y compromiso de trabajo        |
+
+---
+
+| **Sprint Goal & User Stories** | |
+|--------------------------------|-----------------------------------------------------------|
+| **Sprint 1 Goal**              | Desplegar y entregar la landing page con una alta fidelidad          |
+| **Sprint 1 Velocity**          | 21                                                         |
+| **Sum of Story Points**        |                                             |
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -464,6 +494,48 @@ El archivo `index.html` fue definido como el punto de entrada principal del siti
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 1 se logró implementar de manera satisfactoria la Landing Page del proyecto. Esta página incluye diferentes secciones orientadas a brindar a los usuarios información clara y completa acerca del producto y sus funcionalidades más relevantes.
+
+# Estructura de la Landing Page
+
+## 1. Hero Section
+Incluye nuestro **header**, que contiene tanto el **logo** como la **navegación** principal para recorrer la página web.
+
+![Landing Page Image](./assets/chapter5/landing-image.png)
+
+---
+
+## 2. Desafíos y Problemáticas
+Sección donde presentamos los **desafíos y problemáticas** que afrontamos, explicando el contexto y la importancia de la solución que ofrecemos.
+
+![Landing Page Image](./assets/chapter5/landing-desafio.png)
+
+---
+
+## 3. Sobre Nosotros
+Un apartado para dar a conocer **quiénes somos**, nuestra historia, valores y el propósito que nos impulsa.
+
+![Landing Page Image](./assets/chapter5/landing-mas.png)
+
+---
+
+## 4. Planes y Servicios
+Aquí mostramos los distintos **planes y servicios** que ofrecemos, detallando beneficios y opciones para nuestros usuarios.
+
+![Landing Page Image](./assets/chapter5/landing-planes.png)
+
+---
+
+## 5. Formulario y Footer
+Sección final con un **formulario de contacto** para interactuar con los usuarios y el **footer** que incluye enlaces útiles y redes sociales.
+
+![Landing Page Image](./assets/chapter5/landing-form-fotter.png)
+
+
+
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
