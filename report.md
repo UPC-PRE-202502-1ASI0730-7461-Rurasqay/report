@@ -1170,6 +1170,8 @@ Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama indepen
 
 ### 4.8.1. Database Diagrams
 
+![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
