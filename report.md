@@ -623,6 +623,18 @@ A continuación, se detallan las tareas que realizan.
 
 ### 2.3.3. User Journey Mapping
 
+### Journey Mapping – Doctor
+
+![Luis Jiménez Journey Map.png](assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
+
+### Journey Mapping – Allegado de Adulto Mayor
+
+![Valeria Pancorbo Journey Map.png](assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
+
+### Journey Mapping – Enfermera
+
+![Carla Fernández Journey Map.png](assets/chapter2/Carla%20Fern%C3%A1ndez%20Journey%20Map.png)
+
 ### 2.3.4. Empathy Mapping
 
 ### Empathy Mapping – Doctor
