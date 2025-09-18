@@ -359,7 +359,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Cocca
 - Edad: 19
 - Distrito: San Miguel
-- Timing: [Video Entrevista Andres](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=0HdnSi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC40Nn19)
+- Timing: [Video Entrevista Andres](https://tinyurl.com/2vfam72z)
 - Duración: 9 minutos con 25 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
@@ -382,14 +382,22 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 
 - Nombres: Teofilo
 - Apellidos: Beingolea
-- Edad:
-- Distrito:
-- Timing:[Video Entrevista Teofilo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=OtUOSL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4wM319)
+- Edad: 58
+- Distrito: Jesus Maria 
+- Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3)
 - Duración: 7 minutos con 19 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
-- Resumen:
+- Resumen: Teófilo, de 58 años y residente en Lima, mantiene una relación cercana con el adulto mayor, a quien visita varias veces por semana y con la que se comunica casi a diario, principalmente a través del celular, usando llamadas y WhatsApp. En su vida cotidiana utiliza mayormente el navegador Google Chrome.
+
+Sus principales preocupaciones giran en torno a la salud y seguridad del adulto mayor, especialmente las caídas, los problemas de presión arterial y que pueda requerir ayuda estando sola. Actualmente la monitorea con llamadas frecuentes y consultas sobre su estado, además de los controles médicos regulares, aunque siente que estos métodos no siempre son suficientes.
+
+Ha vivido episodios de riesgo como mareos y una caída que no pudieron anticipar, lo cual le genera el deseo de contar con información en tiempo real. Considera especialmente valioso recibir alertas sobre caídas, ritmo cardíaco y recordatorios de medicación.
+
+En caso de emergencias, suele acudir personalmente o llamar a una ambulancia, pero reconoce la angustia de no tener información clara al instante. Teófilo se muestra abierto al uso de una aplicación como MediTrack, siempre que sea sencilla y confiable. Entre las funcionalidades que considera imprescindibles están: alertas inmediatas de emergencias, acceso al historial médico y conexión directa con servicios de salud.
+
+Aunque percibe como barreras la complejidad tecnológica y la falta de confianza en las plataformas digitales, asegura que estaría dispuesto a pagar por una solución que le brinde tranquilidad y garantice el bienestar del adulto mayor.
 
 ##### Allegado Adulto Mayor
 
@@ -397,7 +405,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Rioja
 - Edad: 25
 - Distrito: Puente Piedra
-- Timing: [Video Entrevista Jorge](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=qyHon3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjk4fX0%3D)
+- Timing: [Video Entrevista Jorge](https://tinyurl.com/u3hky5fb)
 - Duración: 4 minutos con 34 segundos
 
 ![video screenshoot](/assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
@@ -422,7 +430,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Cuba Pareja
 - Edad:
 - Distrito: Miraflores
-- Timing: [Video Entrevista Vicente](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=j37JcY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzk5NC44NH19)
+- Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb)
 - Duración: 12 minutos con 32 segundos
  
   ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
@@ -449,7 +457,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Pareja Centeno
 - Edad:
 - Distrito: Surco
-- Timing: [Video Entrevista Valentina](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=gNmeci&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTMxNC44N319)
+- Timing: [Video Entrevista Valentina](https://shorturl.at/dWUuF)
 - Duración: 4 minutos con 39 segundos
 
   ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
@@ -472,16 +480,24 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 
 ##### Doctor Medico General
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
-- Timing: [Video Entrevista Racidez](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dERiTe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDc0Ni45OH19)
-- Duración: 9 minutos con 27 segundos
+- Nombres: Alcides Gustavo
+- Apellidos: Rivera Chipana
+- Edad: 56
+- Distrito: Pueblo Libre
 
 ![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
+
+El entrevistado es Alcides Rivera, un geriatra con más de 15 años de experiencia en medicina preventiva. En promedio, atiende entre 30 y 40 pacientes adultos mayores a la semana. Su labor diaria se apoya principalmente en una laptop y un smartphone , y para la comunicación digital con pacientes y familiares utiliza llamadas, correos electrónicos y WhatsApp. Para el monitoreo de pacientes, se basa en expedientes médicos digitales y mediciones manuales durante las consultas.
+
+El geriatra señala que una de las principales dificultades que enfrenta en el monitoreo es la falta de datos continuos, ya que la información disponible es solo del momento de la consulta. Esto se relaciona con la alta frecuencia de emergencias, recibiendo al menos una o dos llamadas de emergencia a la semana, relacionadas con caídas, descompensaciones o crisis en pacientes mayores.
+
+Considera que la información en tiempo real que le sería más útil para mejorar la atención es la de signos vitales, patrones de actividad y alertas de eventos de riesgo. Actualmente, la coordinación con los familiares se realiza por teléfono o correo electrónico para dar actualizaciones y coordinar citas.
+
+El entrevistado cree que contar con reportes digitales y alertas inmediatas en su labor clínica facilitaría la detección temprana de problemas y mejoraría la toma de decisiones. Ante la posibilidad de implementar una herramienta como MediTrack, se muestra muy dispuesto, siempre y cuando demuestre ser una herramienta clínica confiable. Las características que considera imprescindibles para confiar en un sistema de monitoreo remoto son la precisión de los datos, alertas personalizables y acceso al historial médico completo.
+
+Sin embargo, identifica posibles obstáculos para la adopción en su clínica: el costo, la integración con su sistema actual y la curva de aprendizaje para el personal. Además, opina que el costo de una solución como esta debería ser compartido tanto por los pacientes como por las instituciones de salud.
 
 #### Entrevistas segmento objetivo personal de las casas de reposo
 
@@ -491,7 +507,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- Timing: [Video Entrevista Ana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nG6Gl6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4zM319)
+- Timing: [Video Entrevista Ana](https://shorturl.at/uUxHd)
 - Duración: 24 minutos con 51 segundos
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
@@ -514,7 +530,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- Timing: [Video Entrevistas Fanny](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=K8mpGh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk3LjYxfX0%3D)
+- Timing: [Video Entrevistas Fanny](https://shorturl.at/9G9rZ)
 - Duración: 10 minutos con 20 segundos
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
@@ -533,18 +549,44 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 
 ##### Cuidadores Casas De Reposo
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
-- Timing: [Video Entrevistas Judith](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=lDmG4K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Nombres: Judith Jesus
+- Apellidos: Ayala Maurtua
+- Edad: 56
+- Distrito: Pueblo Libre
 - Duración: 5 minutos con 21 segundos
+- Timing: [Video Entrevistas Judith](https://shorturl.at/VvNz9)
 
 ![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
 - Resumen:
 
+La entrevistada es Judith Ayala y ocupa el cargo de enfermera de turno rotativo en una casa de reposo. Está a cargo de la supervisión diaria de entre 18 y 20 residentes. Para su trabajo, utiliza principalmente smartphones y computadoras para actualizar datos, y se comunica con familiares y médicos a través de llamadas semanales y WhatsApp.
+
+Para el monitoreo del estado de salud de los residentes, se realizan rondas cada hora especialmente para los pacientes más criticos. Identifica como dificultad principal la complejidad y lo tedioso que resulta monitorear a todos los residentes simultáneamente debido a la falta de personal y equipos. Los eventos críticos más comunes que se presentan son urgencias médicas como desniveles en la presión sanguínea, falta de oxígeno o aceleraciones cardíacas.
+
+Considera que la información en tiempo real que más ayudaría a su labor sería la ubicación, los malestares generales y alertas si un residente sufre un accidente o presenta alguna variación en su salud. En caso de emergencia, la acción actual es comunicarse de inmediato con el hospital más cercano mientras se aplican primeros auxilios.
+
+La enfermera considera que un parche inteligente como MediTrack sería muy útil para obtener datos en tiempo real y facilitar los chequeos médicos. Las funcionalidades que considera imprescindibles para implementarlo en su institución son la obtención de datos biométricos, alertas y un sistema o mapa de calor para detectar el movimiento diario.
+
+Sin embargo, identifica posibles obstáculos para su adopción, como el costo y la capacitación necesaria para todos los cuidadores del centro. Opina que los familiares estarían dispuestos a pagar un valor adicional por el servicio, ya que les brindaría tranquilidad y más seguridad sobre la salud de sus seres queridos.
+
 ### 2.2.3. Análisis de entrevistas
+
+ **Segmento 1: Allegados de adultos mayores**
+
+Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
+
+
+
+ **Segmento 2: Médicos**
+
+Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
+
+
+
+ **Segmento 3: Cuidadores en Casas de Reposo**
+
+Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
 
 ## 2.3. Needfinding
 
