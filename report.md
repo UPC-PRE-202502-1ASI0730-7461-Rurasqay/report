@@ -81,6 +81,8 @@
 
 Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
 
+https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report
+
 <img src="assets/chapter1/repo-commits.png" alt="Team Collaboration commits" width="100%">
 
 # Contenido
@@ -218,11 +220,11 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 
 | Foto                                                                            | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sebastian](/assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
-| ![gabriel](/assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
-| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
-| ![Diego.jpeg](assets/chapter1/Diego.jpeg)                                       | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
-| ![marcelo](/assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
+| ![sebastian](./assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
+| ![gabriel](./assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![joaquin](./assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
+| ![Diego.jpeg](./assets/chapter1/Diego.jpeg)                                       | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
+| ![marcelo](./assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
 
 ## 1.2. Solution Profile
 
@@ -693,7 +695,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Timing: [Video Entrevista Andres](https://tinyurl.com/2vfam72z)
 - Duración: 9 minutos con 25 segundos
 
-![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
+![video screenshoot](./assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
 
 - Resumen:
 
@@ -718,7 +720,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3)
 - Duración: 7 minutos con 19 segundos
 
-![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
+![video screenshoot](./assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
 - Resumen: Teófilo, de 58 años y residente en Lima, mantiene una relación cercana con el adulto mayor, a quien visita varias veces por semana y con la que se comunica casi a diario, principalmente a través del celular, usando llamadas y WhatsApp. En su vida cotidiana utiliza mayormente el navegador Google Chrome.
 
@@ -739,7 +741,7 @@ Aunque percibe como barreras la complejidad tecnológica y la falta de confianza
 - Timing: [Video Entrevista Jorge](https://tinyurl.com/u3hky5fb)
 - Duración: 4 minutos con 34 segundos
 
-![video screenshoot](/assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
+![video screenshoot](./assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
 
 - Resumen:
 
@@ -764,7 +766,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb)
 - Duración: 12 minutos con 32 segundos
 
-  ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+  ![video screenshoot](./assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 
 - Resumen:
 
@@ -791,7 +793,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Timing: [Video Entrevista Valentina](https://shorturl.at/dWUuF)
 - Duración: 4 minutos con 39 segundos
 
-  ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+  ![video screenshoot](./assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 
 - Resumen:
 
@@ -816,7 +818,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Edad: 56
 - Distrito: Pueblo Libre
 
-![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
+![video screenshoot](./assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
 
@@ -841,7 +843,7 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Timing: [Video Entrevista Ana](https://shorturl.at/uUxHd)
 - Duración: 24 minutos con 51 segundos
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
+![video screenshoot](./assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
 - Resumen:
 
@@ -864,7 +866,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Timing: [Video Entrevistas Fanny](https://shorturl.at/9G9rZ)
 - Duración: 10 minutos con 20 segundos
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
+![video screenshoot](./assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
 - Resumen:
 
@@ -887,7 +889,7 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Duración: 5 minutos con 21 segundos
 - Timing: [Video Entrevistas Judith](https://shorturl.at/VvNz9)
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
+![video screenshoot](./assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
 - Resumen:
 
@@ -921,15 +923,15 @@ Este segmento incluye cuidadores con experiencia directa en instituciones geriá
 
 ### User Persona – Doctor
 
-![Doctor](/assets/chapter2/LuisJimenez.png)
+![Doctor](./assets/chapter2/LuisJimenez.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
-![Allegado](/assets/chapter2/ValeriaPancorbo.png)
+![Allegado](./assets/chapter2/ValeriaPancorbo.png)
 
 ### User Persona – Enfermera
 
-![Enfermera](/assets/chapter2/CarlaFernandez.png)
+![Enfermera](./assets/chapter2/CarlaFernandez.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -952,11 +954,11 @@ A continuación, se detallan las tareas que realizan.
 
 ### Journey Mapping – Doctor
 
-![Luis Jiménez Journey Map.png](assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
+![Luis Jiménez Journey Map.png](./assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
 
 ### Journey Mapping – Allegado de Adulto Mayor
 
-![Valeria Pancorbo Journey Map.png](assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
+![Valeria Pancorbo Journey Map.png](./assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
 
 ### Journey Mapping – Enfermera
 
@@ -1111,15 +1113,15 @@ Impact Mapping es una técnica visual que facilita la definición clara de los o
 
 Impact Map para el segmento de Personal casas de reposo:
 
-![impact map ](/assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
+![impact map ](./assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
 
 Impact Map para el segmento de Doctores de clínicas:
 
-![impact map ](/assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
+![impact map ](./assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
 
 Impact Map para el segmento de Familiares:
 
-![impact map ](/assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
+![impact map ](./assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
 
 ## 3.3. Product Backlog
 
@@ -1177,9 +1179,9 @@ Impact Map para el segmento de Familiares:
 
 ### Branding
 
-![logo-write](/assets/chapter4/logo-write.png)
+![logo-write](./assets/chapter4/logo-write.png)
 
-![logo-transparent](/assets/chapter4/logo-transparent.png)
+![logo-transparent](./assets/chapter4/logo-transparent.png)
 
 Contamos con dos versiones de nuestro logo: una con fondo transparente y otra con fondo blanco. Esto se hizo con fines de diseño, para asegurar su correcta visibilidad y resaltar mejor según el contexto en el que se utilice
 
@@ -1187,16 +1189,16 @@ Contamos con dos versiones de nuestro logo: una con fondo transparente y otra co
 
 Elegimos **Inter** como tipografía para nuestra aplicación médica porque está optimizada para pantallas digitales, ofreciendo una lectura clara y fluida en móviles y computadoras. Su estilo moderno, sobrio y profesional transmite confianza, mientras que su versatilidad en pesos permite jerarquizar la información de forma sencilla, asegurando una experiencia visual coherente y accesible para los usuarios.
 
-![typography.png](/assets/chapter4/typography.png)
+![typography.png](./assets/chapter4/typography.png)
 Elegimos **Noto Sans** porque es una tipografía moderna, limpia y altamente legible en todo tipo de pantallas. Su diseño neutral y profesional transmite seriedad y confianza, cualidades esenciales en una aplicación médica. Además, ofrece una gran versatilidad y compatibilidad multilingüe, lo que garantiza accesibilidad y coherencia visual para todos los usuarios.
 
-![typographysoon.png](/assets/chapter4/typographysoon.png)
+![typographysoon.png](./assets/chapter4/typographysoon.png)
 
 ### Colors
 
 La paleta de colores seleccionada combina tonos **azules** como primarios, transmitiendo confianza, calma y profesionalismo, valores clave en el ámbito médico. El **naranja secundario** aporta energía y vitalidad como acento, mientras que los **tonos rojos** se reservan para alertas o advertencias, asegurando que los mensajes críticos resalten con claridad. Los fondos claros y las variantes suaves refuerzan la legibilidad y la accesibilidad, garantizando una experiencia visual equilibrada y coherente en la aplicación.
 
-![colors.png](/assets/chapter4/colors.png)
+![colors.png](./assets/chapter4/colors.png)
 
 ### Spacing
 
@@ -1454,7 +1456,7 @@ La barra de navegación situada en el _header_ contiene estos botones principale
 
 Esta estructura clara permite una navegación **simple e intuitiva**, facilitando que el usuario explore la información de forma organizada.
 
-![bar.png](/assets/chapter4/bar.png)
+![bar.png](./assets/chapter4/bar.png)
 
 ## 4.3. Landing Page UI Design
 
@@ -1539,6 +1541,7 @@ Se incorpora el lenguaje ingles en la landing page para mobile.
 ### 4.4.1. Web Applications Wireframes
 
 Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
+https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1
 
 **Web Application para Desktop Web Browser**
 
@@ -1548,19 +1551,19 @@ Los siguientes Wireframes fueron para ser base a los muck-ups proximos a present
 
 Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
 
-![Seleccionar Usuario](/assets/chapter4/wireframe-1.png)
+![Seleccionar Usuario](./assets/chapter4/wireframe-1.png)
 
 - Inicio de Sesión
 
 Permite al usuario iniciar sesión a través de sus credenciales.
 
-![Inicio de Sesión](/assets/chapter4/wireframe-2.png)
+![Inicio de Sesión](./assets/chapter4/wireframe-2.png)
 
 - Escoger un plan
 
 Permite a un nuevo usuario escoger un plan previo al registro.
 
-![Escoger plan](/assets/chapter4/wireframe-3.png)
+![Escoger plan](./assets/chapter4/wireframe-3.png)
 
 - Registro
 
@@ -1568,21 +1571,21 @@ Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus d
 
 Registro allegado con el plan freemium:
 
-![Registro nuevo usuario freemium](/assets/chapter4/wireframe-4.png)
+![Registro nuevo usuario freemium](./assets/chapter4/wireframe-4.png)
 
 Registro allegado con el plan premium:
 
-![Registro nuevo usuario premium](/assets/chapter4/wireframe-6.png)
+![Registro nuevo usuario premium](./assets/chapter4/wireframe-6.png)
 
 Registro de una entidad:
 
-![Registro de una entidad](/assets/chapter4/wireframe-7.png)
+![Registro de una entidad](./assets/chapter4/wireframe-7.png)
 
 - Registro de Adulto Mayor
 
 Posterior al registro del allegado se permite registrar al adulto mayor
 
-![Registro de un adulto mayor](/assets/chapter4/wireframe-5.png)
+![Registro de un adulto mayor](./assets/chapter4/wireframe-5.png)
 
 - Dashboard Allegado Freemium y Premium
 
@@ -1592,15 +1595,15 @@ Dashboard Freemium
 
 Perfil Adulto Mayor
 
-![Perfil freemium](/assets/chapter4/wireframe-8.png)
+![Perfil freemium](./assets/chapter4/wireframe-8.png)
 
 Estadísticas
 
-![Estadísticas freemium](/assets/chapter4/wireframe-9.png)
+![Estadísticas freemium](./assets/chapter4/wireframe-9.png)
 
 Alertas
 
-![Alertas freemium](/assets/chapter4/wireframe-10.png)
+![Alertas freemium](./assets/chapter4/wireframe-10.png)
 
 Dashboard Premium
 
@@ -1610,15 +1613,15 @@ Perfil Adulto Mayor
 
 Estadísticas
 
-![Estadísticas premium](/assets/chapter4/w-premium-2.png)
+![Estadísticas premium](./assets/chapter4/w-premium-2.png)
 
 Alertas
 
-![Alertas premium](/assets/chapter4/w-premium-3.png)
+![Alertas premium](./assets/chapter4/w-premium-3.png)
 
 Soporte
 
-![Soporte premium](/assets/chapter4/wireframe-14.png)
+![Soporte premium](./assets/chapter4/wireframe-14.png)
 
 - Dashboard Personal de Clínica - Administrador
 
@@ -1626,49 +1629,49 @@ Se visualiza el dashboard donde el administrador encargado de una clínica ejecu
 
 Dashboard del administrador sin doctores
 
-![Dashboard del administrador sin doctores](/assets/chapter4/w-15.png)
+![Dashboard del administrador sin doctores](./assets/chapter4/w-15.png)
 
 Formulario para agregar a un doctor
 
-![Formulario para agregar a un doctor](/assets/chapter4/w-16.png)
+![Formulario para agregar a un doctor](./assets/chapter4/w-16.png)
 
 Doctor visible en el dashboard
 
-![Doctor visible en el dashboard](/assets/chapter4/w-17.png)
+![Doctor visible en el dashboard](./assets/chapter4/w-17.png)
 
 Asignació de un adulto mayor para el doctor
 
-![Asignació de un adulto mayor para el doctor](/assets/chapter4/w-18.png)
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/w-18.png)
 
 Formulario para agregar a un adulto mayor
 
-![Formulario para agregar a un adulto mayor](/assets/chapter4/w-19.png)
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-19.png)
 
 Adulto mayor visible en el dashboard
 
-![Adulto mayor visible en el dashboard](/assets/chapter4/w-20.png)
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-20.png)
 
 Formulario de soporte
 
-![Formulario de soporte](/assets/chapter4/w-21.png)
+![Formulario de soporte](./assets/chapter4/w-21.png)
 
 - Dashboard Personal de Clínica - Doctor
 
 Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
 
-![Formulario de soporte](/assets/chapter4/w-22.png)
+![Formulario de soporte](./assets/chapter4/w-22.png)
 
 Perfil del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-23.png)
+![Formulario de soporte](./assets/chapter4/w-23.png)
 
 Alertas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-24.png)
+![Formulario de soporte](./assets/chapter4/w-24.png)
 
 Estadísticas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-25.png)
+![Formulario de soporte](./assets/chapter4/w-25.png)
 
 - Dashboard Personal de Casas de Reposo - Administrador
 
@@ -1676,53 +1679,54 @@ Se visualiza el dashboard donde el administrador encargado de una casa de reposo
 
 Dashboard del administrador sin cuidadores
 
-![Dashboard del administrador sin cuidadores](/assets/chapter4/w-26.png)
+![Dashboard del administrador sin cuidadores](./assets/chapter4/w-26.png)
 
 Formulario para agregar a un cuidador
 
-![Formulario para agregar a un cuidador](/assets/chapter4/w-27.png)
+![Formulario para agregar a un cuidador](./assets/chapter4/w-27.png)
 
 Cuidador visible en el dashboard
 
-![Cuidador visible en el dashboard](/assets/chapter4/w-28.png)
+![Cuidador visible en el dashboard](./assets/chapter4/w-28.png)
 
 Asignació de un adulto mayor para el cuidador
 
-![Asignació de un adulto mayor para el cuidador](/assets/chapter4/w-29.png)
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/w-29.png)
 
 Formulario para agregar a un adulto mayor
 
-![Formulario para agregar a un adulto mayor](/assets/chapter4/w-30.png)
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-30.png)
 
 Adulto mayor visible en el dashboard
 
-![Adulto mayor visible en el dashboard](/assets/chapter4/w-31.png)
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-31.png)
 
 Formulario de soporte
 
-![Formulario de soporte](/assets/chapter4/w-32.png)
+![Formulario de soporte](./assets/chapter4/w-32.png)
 
 - Dashboard Personal de Casas de Reposo - Cuidador
 
 Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
 
-![Formulario de soporte](/assets/chapter4/w-33.png)
+![Formulario de soporte](./assets/chapter4/w-33.png)
 
 Perfil del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-34.png)
+![Formulario de soporte](./assets/chapter4/w-34.png)
 
 Alertas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-35.png)
+![Formulario de soporte](./assets/chapter4/w-35.png)
 
 Estadísticas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/w-36.png)
+![Formulario de soporte](./assets/chapter4/w-36.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 [Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
+https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6
 
 #### User Goal: Registro Usuario
 
@@ -1802,19 +1806,19 @@ Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados c
 
 Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
 
-![Seleccionar Usuario](/assets/chapter4/seleccionar-segmento.png)
+![Seleccionar Usuario](./assets/chapter4/seleccionar-segmento.png)
 
 - Inicio de Sesión
 
 Permite al usuario iniciar sesión a través de sus credenciales.
 
-![Inicio de Sesión](/assets/chapter4/login.png)
+![Inicio de Sesión](./assets/chapter4/login.png)
 
 - Escoger un plan
 
 Permite a un nuevo usuario escoger un plan previo al registro.
 
-![Escoger plan](/assets/chapter4/seleccionar-plan.png)
+![Escoger plan](./assets/chapter4/seleccionar-plan.png)
 
 - Registro
 
@@ -1822,21 +1826,21 @@ Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus d
 
 Registro allegado con el plan freemium:
 
-![Registro nuevo usuario freemium](/assets/chapter4/crear-cuenta-free.png)
+![Registro nuevo usuario freemium](./assets/chapter4/crear-cuenta-free.png)
 
 Registro allegado con el plan premium:
 
-![Registro nuevo usuario premium](/assets/chapter4/crear-cuenta-free.png)
+![Registro nuevo usuario premium](./assets/chapter4/crear-cuenta-free.png)
 
 Registro de una entidad:
 
-![Registro de una entidad](/assets/chapter4/crear-cuenta-enterprise.png)
+![Registro de una entidad](./assets/chapter4/crear-cuenta-enterprise.png)
 
 - Registro de Adulto Mayor
 
 Posterior al registro del allegado se permite registrar al adulto mayor
 
-![Registro de un adulto mayor](/assets/chapter4/agregar-adulto-allegado.png)
+![Registro de un adulto mayor](./assets/chapter4/agregar-adulto-allegado.png)
 
 - Dashboard Allegado Freemium y Premium
 
@@ -1846,33 +1850,33 @@ Dashboard Freemium
 
 Perfil Adulto Mayor
 
-![Perfil freemium](/assets/chapter4/prefil-free.png)
+![Perfil freemium](./assets/chapter4/prefil-free.png)
 
 Estadísticas
 
-![Estadísticas freemium](/assets/chapter4/estadisticas-free.png)
+![Estadísticas freemium](./assets/chapter4/estadisticas-free.png)
 
 Alertas
 
-![Alertas freemium](/assets/chapter4/alertas-free.png)
+![Alertas freemium](./assets/chapter4/alertas-free.png)
 
 Dashboard Premium
 
 Perfil Adulto Mayor
 
-![Perfil premium](/assets/chapter4/perfil-prem.png)
+![Perfil premium](./assets/chapter4/perfil-prem.png)
 
 Estadísticas
 
-![Estadísticas premium](/assets/chapter4/estadisticas-pre.png)
+![Estadísticas premium](./assets/chapter4/estadisticas-pre.png)
 
 Alertas
 
-![Alertas premium](/assets/chapter4/alertas-pre.png)
+![Alertas premium](./assets/chapter4/alertas-pre.png)
 
 Soporte
 
-![Soporte premium](/assets/chapter4/soporte-pre.png)
+![Soporte premium](./assets/chapter4/soporte-pre.png)
 
 - Dashboard Personal de Clínica - Administrador
 
@@ -1880,49 +1884,49 @@ Se visualiza el dashboard donde el administrador encargado de una clínica ejecu
 
 Dashboard del administrador sin doctores
 
-![Dashboard del administrador sin doctores](/assets/chapter4/admin-clinica-1.png)
+![Dashboard del administrador sin doctores](./assets/chapter4/admin-clinica-1.png)
 
 Formulario para agregar a un doctor
 
-![Formulario para agregar a un doctor](/assets/chapter4/admin-clinica-2.png)
+![Formulario para agregar a un doctor](./assets/chapter4/admin-clinica-2.png)
 
 Doctor visible en el dashboard
 
-![Doctor visible en el dashboard](/assets/chapter4/admin-clinica-3.png)
+![Doctor visible en el dashboard](./assets/chapter4/admin-clinica-3.png)
 
 Asignació de un adulto mayor para el doctor
 
-![Asignació de un adulto mayor para el doctor](/assets/chapter4/admin-clinica-4.png)
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/admin-clinica-4.png)
 
 Formulario para agregar a un adulto mayor
 
-![Formulario para agregar a un adulto mayor](/assets/chapter4/admin-clinica-5.png)
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-clinica-5.png)
 
 Adulto mayor visible en el dashboard
 
-![Adulto mayor visible en el dashboard](/assets/chapter4/admin-clinica-6.png)
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-clinica-6.png)
 
 Formulario de soporte
 
-![Formulario de soporte](/assets/chapter4/admin-clinica-7.png)
+![Formulario de soporte](./assets/chapter4/admin-clinica-7.png)
 
 - Dashboard Personal de Clínica - Doctor
 
 Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
 
-![Formulario de soporte](/assets/chapter4/dasboard-doctor-1.png)
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-1.png)
 
 Perfil del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/dasboard-doctor-2.png)
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-2.png)
 
 Alertas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/dasboard-doctor-3.png)
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-3.png)
 
 Estadísticas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/dasboard-doctor-4.png)
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-4.png)
 
 - Dashboard Personal de Casas de Reposo - Administrador
 
@@ -1930,53 +1934,55 @@ Se visualiza el dashboard donde el administrador encargado de una casa de reposo
 
 Dashboard del administrador sin cuidadores
 
-![Dashboard del administrador sin cuidadores](/assets/chapter4/admin-casa-1.png)
+![Dashboard del administrador sin cuidadores](./assets/chapter4/admin-casa-1.png)
 
 Formulario para agregar a un cuidador
 
-![Formulario para agregar a un cuidador](/assets/chapter4/admin-casa-2.png)
+![Formulario para agregar a un cuidador](./assets/chapter4/admin-casa-2.png)
 
 Cuidador visible en el dashboard
 
-![Cuidador visible en el dashboard](/assets/chapter4/admin-casa-3.png)
+![Cuidador visible en el dashboard](./assets/chapter4/admin-casa-3.png)
 
 Asignació de un adulto mayor para el cuidador
 
-![Asignació de un adulto mayor para el cuidador](/assets/chapter4/admin-casa-6.png)
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/admin-casa-6.png)
 
 Formulario para agregar a un adulto mayor
 
-![Formulario para agregar a un adulto mayor](/assets/chapter4/admin-casa-4.png)
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-casa-4.png)
 
 Adulto mayor visible en el dashboard
 
-![Adulto mayor visible en el dashboard](/assets/chapter4/admin-casa-5.png)
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-casa-5.png)
 
 Formulario de soporte
 
-![Formulario de soporte](/assets/chapter4/admin-casa-7.png)
+![Formulario de soporte](./assets/chapter4/admin-casa-7.png)
 
 - Dashboard Personal de Casas de Reposo - Cuidador
 
 Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
 
-![Formulario de soporte](/assets/chapter4/cuidador-1.png)
+![Formulario de soporte](./assets/chapter4/cuidador-1.png)
 
 Perfil del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/cuidador-2.png)
+![Formulario de soporte](./assets/chapter4/cuidador-2.png)
 
 Alertas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/cuidador-3.png)
+![Formulario de soporte](./assets/chapter4/cuidador-3.png)
 
 Estadísticas del adulto mayor asignado
 
-![Formulario de soporte](/assets/chapter4/cuidador-4.png)
+![Formulario de soporte](./assets/chapter4/cuidador-4.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+
+https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105
 
 #### User Goal: Registro Usuario
 
@@ -2185,7 +2191,13 @@ GitHub será la herramienta principal para el control de versiones del proyecto.
 #### URL de Repositorios
 
 - **Documentación e Informe**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+
+https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report
+
+
 - **Landing Page**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page)
+
+https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page
 
 Cada repositorio contendrá todos los archivos relacionados con el proyecto.
 
@@ -2284,6 +2296,8 @@ El archivo `index.html` fue definido como el punto de entrada principal del siti
 ![Landing Page Settings](./assets/chapter5/landing-settings.png)
 
 - **Landing URL**: [https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/](https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/)
+
+https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
