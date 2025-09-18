@@ -57,7 +57,27 @@
 ## AGOSTO - 2025
 
 </div>
-# Registro de Versiones del Informe
+
+# Control de versiones 
+
+| Versión | Fecha    | Autor(es) | Descripción de cambios                                               |
+| ------- | -------- |----------| -------------------------------------------------------------------- |
+| 1.00    | 03/09/25 | Barrientos Quispe, Marcelo | Definición de la estructura inicial del proyecto.                    |
+| 1.01    | 03/09/25 | Beingolea Montalvo, Sebastian Martin | Agregados los resultados esperados para los estudiantes.             |
+| 1.02    | 04/09/25 | Cuba Pareja, Joaquin Antonio  | Incorporación del Lean UX Canvas como herramienta base del proyecto. |
+| 1.03    | 04/09/25 | Cuba Pareja, Joaquin Antonio | Actualización del perfil del equipo de trabajo.                      |
+| 1.04    | 05/09/25 | Barrientos Quispe, Marcelo   | Implementación de control de versiones con Git.                      |
+| 1.05    | 08/09/25 | Beingolea Montalvo, Sebastian Martin | Integración de la rama con el capítulo 1 (introducción).             |
+| 1.06    | 09/09/25 | Barrientos Quispe, Marcelo | Creación del capítulo 2 del proyecto.                                |
+| 1.07    | 09/09/25 | Rioja Nuñez, Franco Diego   | Inclusión de preguntas para entrevistas con usuarios.                |
+| 1.08    | 10/09/25 | Barrientos Quispe, Marcelo  | Elaboración e incorporación del análisis de la competencia.          |
+| 1.09    | 10/09/25 | Beingolea Montalvo, Sebastian Martin | Definición del recorrido del usuario basado en el user persona.      |
+| 1.10    | 11/09/25 | Rivera Ayala, Gabriel Alejandro | Adición del mapa de empatía al capítulo 2.                           |
+| 1.11    | 12/09/25 | Rivera Ayala, Gabriel Alejandro | Corrección y refinamiento del arquetipo de usuario.                  |
+| 1.12    | 15/09/25 | Barrientos Quispe, Marcelo | Inclusión de contenido detallado en el análisis de entrevistas.      |
+| 1.13    | 15/09/25 | Rioja Nuñez, Franco Diego   | Agregados resúmenes estructurados de las entrevistas.                |
+
+
 
 # Project Report Collaboration Insights
 
