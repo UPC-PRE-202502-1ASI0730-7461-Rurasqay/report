@@ -330,16 +330,16 @@
 
 # Bibliografía
 
-- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú. 
 
-- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú. 
 
-- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión. 
 
-- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú. 
 
-- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú. 
 
-- Organización Panamericana de la Salud. (s. f.). Health in the Americas+ country profile: Peru [Perfil país]. OPS. https://www.ingles.com/traductor/si%20est%C3%A1%20disponible.
+- Organización Panamericana de la Salud. (s. f.). Health in the Americas+ country profile: Peru [Perfil país]. OPS.
 
 # Anexos
