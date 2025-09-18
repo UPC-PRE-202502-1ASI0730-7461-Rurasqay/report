@@ -778,6 +778,78 @@ Estadísticas del adulto mayor asignado
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/WF-3.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/WF-4.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/WF-5.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/WF-7.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/W" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
 ### 4.4.3. Web Applications Mock-ups
 
 Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados con anteoridad. Representan con fidelidad lo que nuestros usuarios van a visualizar en nuestra aplicación web.
