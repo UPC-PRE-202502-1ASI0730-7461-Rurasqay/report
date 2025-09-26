@@ -692,7 +692,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Cocca
 - Edad: 19
 - Distrito: San Miguel
-- Timing: [Video Entrevista Andres](https://tinyurl.com/2vfam72z)
+- Timing: [Video Entrevista Andres](https://tinyurl.com/2vfam72z) https://tinyurl.com/2vfam72z
 - Duración: 9 minutos con 25 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
@@ -717,7 +717,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Beingolea
 - Edad: 58
 - Distrito: Jesus Maria
-- Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3)
+- Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3) https://tinyurl.com/387p6aj3
 - Duración: 7 minutos con 19 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
@@ -738,7 +738,7 @@ Aunque percibe como barreras la complejidad tecnológica y la falta de confianza
 - Apellidos: Rioja
 - Edad: 25
 - Distrito: Puente Piedra
-- Timing: [Video Entrevista Jorge](https://tinyurl.com/u3hky5fb)
+- Timing: [Video Entrevista Jorge](https://tinyurl.com/u3hky5fb) https://tinyurl.com/u3hky5fb
 - Duración: 4 minutos con 34 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
@@ -763,7 +763,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Cuba Pareja
 - Edad:
 - Distrito: Miraflores
-- Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb)
+- Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb) https://tinyurl.com/mrmmt9jb
 - Duración: 12 minutos con 32 segundos
 
   ![video screenshoot](./assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
@@ -790,7 +790,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Pareja Centeno
 - Edad:
 - Distrito: Surco
-- Timing: [Video Entrevista Valentina](https://shorturl.at/dWUuF)
+- Timing: [Video Entrevista Valentina](https://shorturl.at/dWUuF) https://shorturl.at/dWUuF
 - Duración: 4 minutos con 39 segundos
 
   ![video screenshoot](./assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
@@ -817,6 +817,7 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
+- Timing: [Video Entrevista Alcides](https://tinyurl.com/4rjk5pyx) https://tinyurl.com/4rjk5pyx
 
 ![video screenshoot](./assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
@@ -840,7 +841,7 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- Timing: [Video Entrevista Ana](https://shorturl.at/uUxHd)
+- Timing: [Video Entrevista Ana](https://shorturl.at/uUxHd) https://shorturl.at/uUxHd
 - Duración: 24 minutos con 51 segundos
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
@@ -863,7 +864,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- Timing: [Video Entrevistas Fanny](https://shorturl.at/9G9rZ)
+- Timing: [Video Entrevistas Fanny](https://shorturl.at/9G9rZ) https://shorturl.at/9G9rZ
 - Duración: 10 minutos con 20 segundos
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
@@ -887,7 +888,7 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Edad: 56
 - Distrito: Pueblo Libre
 - Duración: 5 minutos con 21 segundos
-- Timing: [Video Entrevistas Judith](https://shorturl.at/VvNz9)
+- Timing: [Video Entrevistas Judith](https://shorturl.at/VvNz9) https://shorturl.at/VvNz9
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
