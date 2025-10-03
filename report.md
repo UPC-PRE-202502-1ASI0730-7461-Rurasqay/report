@@ -429,27 +429,59 @@ Creemos que la aplicación debe ofrecer una sección de reportes descargables pa
 
 Creemos que la aplicación debe permitir la gestión de múltiples pacientes de forma sencilla para las instituciones. Esto incluye la posibilidad de ver un resumen del estado de todos los residentes en un solo panel y acceder rápidamente a los detalles de cada uno.
 
+Business Outcomes Assumptions:
+
+- Tasa de retención de la suscripción premium/Enterprise superior al 80% después del primer trimestre.
+
+- Aumento del 70% en la adquisición de nuevos centros de reposo o clínicas anualmente.
+
+- Disminución del 25% en el tiempo de respuesta del personal ante una alerta crítica.
+
+- 75% de los profesionales de la salud encuestados que recomiendan activamente la plataforma.
+
+User Outcomes Assumptions:
+
+- Reducción de la ansiedad o preocupación relacionada con el estado de salud del familiar (p. ej., disminución de las llamadas no esenciales para verificar el estado).
+
+- El personal puede identificar y actuar ante una anomalía o caída antes de que se convierta en una emergencia grave, gracias a las alertas.
+
+- Las consultas son más eficientes y precisas porque el médico tiene acceso a datos históricos y tendencias de salud, en lugar de solo información puntual.
+
+- El personal gasta menos tiempo en rondas manuales y puede centrarse en la atención directa, gracias a la eficiencia del monitoreo simultáneo.
+
+- El paciente se siente seguro sabiendo que está siendo monitoreado de forma discreta, lo que puede incentivar una mayor actividad o movilidad.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Hypothesis Statement 01
-**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
-**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
+- Hypothesis Statement 1:
+Creemos que lograremos una Tasa de retención de la suscripción premium/Enterprise superior al 80% después del primer trimestre,
+Si los Familiares de adultos mayores 
+Obtienen una Reducción de la ansiedad o preocupación relacionada con el estado de salud del familiar, 
+Con el Dashboard visual y amigable que muestra los datos de forma clara y continua.
 
-Hypothesis Statement 02
-**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
-**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
+- Hypothesis Statement 2:
+Creemos que lograremos una Disminución del 25% en el tiempo de respuesta del personal ante una alerta crítica
+Si el Personal de clínicas y casas de reposo 
+Puede identificar y actuar ante una anomalía o caída antes de que se convierta en una emergencia grave,
+Con las Notificaciones automáticas y personalizables sobre anomalías en signos vitales o movilidad.
 
-Hypothesis Statement 03
-**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
-**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+- Hypothesis Statement 3:
+Creemos que lograremos que el 75% de los profesionales de la salud encuestados recomienden activamente la plataforma, 
+Si los Médicos 
+Observan que las consultas son más eficientes y precisas, 
+Con el Historial de salud detallado donde se almacenan los datos de monitoreo a largo plazo.
 
-Hypothesis Statement 04
-**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
-**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+- Hypothesis Statement 4:
+Creemos que lograremos un Aumento del 70% en la adquisición de nuevos centros de reposo o clínicas anualmente, 
+Si las Instituciones 
+Logran que su Personal gaste menos tiempo en rondas manuales, 
+Con la funcionalidad de Gestión de múltiples pacientes en un solo panel.
 
-Hypothesis Statement 05
-**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
-**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
+- Hypothesis Statement 5:
+Creemos que lograremos la Tasa de retención de la suscripción premium superior al 80%, 
+Si los Familiares 
+Experimentan una Mejora en la calidad de la consulta médica, 
+Con la opción de Reportes descargables para compartir fácilmente la información de salud.
 
 #### 1.2.2.4. Lean UX Canvas
 
