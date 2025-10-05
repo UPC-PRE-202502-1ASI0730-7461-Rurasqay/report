@@ -298,8 +298,6 @@
 **Trello**: Herramienta en línea que permite organizar actividades, asignar tareas y dar seguimiento al progreso del equipo. Se usará para coordinar las responsabilidades y controlar el avance de sprints e historias de usuario.  
 **Ruta de acceso:** [https://trello.com/es](https://trello.com/es)
 
----
-
 #### Diseño de UX/UI del Producto (Product UX/UI Design)
 
 **Figma**: Plataforma colaborativa para diseñar interfaces y prototipos gráficos. Se utilizará para crear las versiones Desktop y Mobile de la aplicación.  
@@ -315,6 +313,9 @@
 **Visual Studio Code**: Editor de código versátil empleado para programar y compilar, gracias a su compatibilidad con múltiples lenguajes y extensiones.  
 **Ruta de acceso:** [https://code.visualstudio.com](https://code.visualstudio.com)
 
+**WebStorm**: IDE para desarrollo en JavaScript y TypeScript, que ofrece potentes herramientas de refactorización y navegación.  
+**Ruta de acceso:** [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)
+
 **IntelliJ IDEA**: Entorno de desarrollo avanzado diseñado para proyectos en Java y Kotlin, fundamental en la construcción de componentes del sistema.  
 **Ruta de acceso:** [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
 
@@ -326,6 +327,15 @@
 
 **JavaScript**: Lenguaje de programación que habilita la interactividad en las interfaces web, esencial para la dinámica del sistema.  
 **Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Vue.js**: Framework progresivo de JavaScript para construir interfaces de usuario interactivas y aplicaciones de una sola página.  
+**Ruta de acceso**: [https://vuejs.org](https://vuejs.org)
+
+**C#**: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado para crear aplicaciones modernas, seguras y escalables en diferentes plataformas.  
+**Ruta de acceso**: [https://learn.microsoft.com/dotnet/csharp](https://learn.microsoft.com/dotnet/csharp)
+
+**.NET**: Framework de desarrollo multiplataforma de Microsoft que permite construir aplicaciones web, de escritorio, móviles, servicios en la nube y más.  
+**Ruta de acceso**: [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
 
 ---
 
@@ -409,22 +419,27 @@ Se seguirá el estándar **Conventional Commits** para garantizar claridad y con
 ### 5.1.3. Source Code Style Guide & Conventions
 
 #### HTML
+
 Prácticas aplicadas en el desarrollo de la Landing Page estática:
-1. Uso de `href=#id` para permitir una navegación interna fluida.  
+
+1. Uso de `href=#id` para permitir una navegación interna fluida.
 2. Inclusión de atributos `alt` en todas las imágenes para mostrar texto alternativo en caso de error de carga.  
-   Ejemplo:  
+   Ejemplo:
    ```html
-   <img src="images/image-hero.png" alt="Persona frente a computadora"/>
+   <img src="images/image-hero.png" alt="Persona frente a computadora" />
+   ```
 3. Obtención de íconos en formato SVG desde Lucide.
 4. Uso de la convención kebab-case para nombrar id y clases.
 
 #### CSS
-  1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
-  2. Definición de colores en formato HEX.
-  3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
+
+1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
+2. Definición de colores en formato HEX.
+3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
 
 #### JS
-  1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
+
+1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
 
 #### GERKHIN
 
@@ -462,36 +477,93 @@ Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó
 # Sprint 1
 
 | **Sprint #** | Sprint 1 |
-|--------------|----------|
+| ------------ | -------- |
 
-| **Sprint Planning Background** | |
-|--------------------------------|--------------------------------------------------------------------|
-| **Date**                       | 1 de septiembre del 2025                                           |
-| **Time**                       | 10:00 PM                                                          |
-| **Location**                   | Vía Discord                                                       |
-| **Prepared By**                | Barrientos Quispe Marcelo                                         |
+| **Sprint Planning Background** |                                                                               |
+| ------------------------------ | ----------------------------------------------------------------------------- |
+| **Date**                       | 1 de septiembre del 2025                                                      |
+| **Time**                       | 10:00 PM                                                                      |
+| **Location**                   | Vía Discord                                                                   |
+| **Prepared By**                | Barrientos Quispe Marcelo                                                     |
 | **Attendees (to planning)**    | Franco Diego, Rioja Gabriel, Rivera Juaquin, Cuba Parejo, Sebastián Beingolea |
 
 ---
 
-| **Sprint 1 – Review Summary**       | Se alcanzó la meta de desplegar la landing page |
-|-------------------------------------|-------------------------------------------------|
-| **Sprint 1 – Retrospective Summary** | Más coordinación y compromiso de trabajo        |
+| **Sprint 1 – Review Summary**        | El equipo logró publicar la primera versión de la **Landing Page de MediTrack** en GitHub Pages, incluyendo las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Se alcanzó la meta de contar con un entorno de despliegue operativo que permite validar la propuesta de valor y facilita la interacción inicial con los usuarios. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 1 – Retrospective Summary** | El equipo identificó como fortaleza la capacidad de entrega en el tiempo planificado y el compromiso demostrado en el desarrollo de la landing. Sin embargo, se reconoció la necesidad de mejorar la coordinación en la integración de cambios y reforzar la comunicación interna para optimizar la colaboración en próximos sprints.                                                         |
 
 ---
 
-| **Sprint Goal & User Stories** | |
-|--------------------------------|-----------------------------------------------------------|
-| **Sprint 1 Goal**              | Desplegar y entregar la landing page con una alta fidelidad          |
-| **Sprint 1 Velocity**          | 21                                                         |
-| **Sum of Story Points**        |                                             |
-
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint 1 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la Landing Page de MediTrack con una experiencia visual clara, navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial y brindar a los usuarios un acceso confiable a la información principal de la plataforma. |
+| **Sprint 1 Velocity**          | 18                                                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**        | 18                                                                                                                                                                                                                                                                                                           |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+| Nombre             | GitHub User  | Crear landing page principal | Mostrar problemas de geriatría | Mostrar soluciones tecnológicas | Mostrar indicadores de impacto | Mostrar lista de tecnologías | Mostrar misión institucional | Mostrar visión a futuro | Crear sección plan gratuito | Crear sección plan premium | Crear sección plan enterprise | Crear formulario de contacto | Mostrar información de contacto |
+| ------------------ | ------------ | ---------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | ---------------------------- | ---------------------------- | ----------------------- | --------------------------- | -------------------------- | ----------------------------- | ---------------------------- | ------------------------------- |
+| Joaquín Cuba       | joacuba      | L                            | L                              | L                               | L                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | C                               |
+| Marcelo Barrientos | MarceBq      | C                            | C                              | C                               | C                              | L                            | L                            | L                       | C                           | C                          | C                             | C                            | C                               |
+| Sebastian Montalvo | sebaxchen    | C                            | C                              | C                               | C                              | C                            | C                            | C                       | L                           | L                          | C                             | C                            | C                               |
+| Gabriel Rivera     | guestwhoo    | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | L                             | L                            | C                               |
+| Diego Rioja        | FrancoDiegoR | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | L                               |
+
 #### 5.2.1.3. Sprint Backlog 1
 
+Durante el primer sprint backlog, el equipo de MediTrack tuvo como objetivo principal diseñar y completar la Landing Page. Para la organización y gestión de los miembros se utilizó Trello, lo que permitió dividir las user stories en tareas manejables y asignarlas a cada integrante según sus habilidades. El propósito de este sprint fue construir en su totalidad la landing page, asegurando que fuera atractiva, funcional y alineada con la propuesta de valor de MediTrack.
+
+![Landing Page Settings](./assets/chapter5/medi-trello-sp1.png)
+
+Enlace del Panel de Trello: [https://trello.com/invite/b/68ce4ba3a9cf2239270c2cd3/ATTI8d7ced15e22c90258829bd96cb36bae55FF3F4E7/1asi0729-7394-meditrack](https://trello.com/invite/b/68ce4ba3a9cf2239270c2cd3/ATTI8d7ced15e22c90258829bd96cb36bae55FF3F4E7/1asi0729-7394-meditrack)
+
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+
+| US-ID | Title                               | ID   | Title                           | Description                                                                | Estimation (Hours) | Assigned To        | Status |
+| ----- | ----------------------------------- | ---- | ------------------------------- | -------------------------------------------------------------------------- | ------------------ | ------------------ | ------ |
+| US01  | Visualización de la Landing Page    | UT01 | Crear landing page principal    | Como visitante, quiero acceder a la landing page para conocer la solución. | 6                  | Joaquín Cuba       | Done   |
+| US02  | Visualizar Problemas Actuales       | UT02 | Mostrar problemas de geriatría  | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | 5                  | Joaquín Cuba       | Done   |
+| US03  | Visualizar Soluciones Propuestas    | UT03 | Mostrar soluciones tecnológicas | Como médico, quiero ver las soluciones tecnológicas de MediTrack.          | 7                  | Joaquín Cuba       | Done   |
+| US04  | Visualizar Impacto en Cifras        | UT04 | Mostrar indicadores de impacto  | Como visitante, quiero ver indicadores de impacto.                         | 4                  | Joaquín Cuba       | Done   |
+| US05  | Ver Tecnologías que Salvan Vidas    | UT05 | Mostrar lista de tecnologías    | Como enfermero, quiero conocer los sensores y dispositivos.                | 8                  | Marcelo Barrientos | Done   |
+| US06  | Ver Nuestra Misión                  | UT06 | Mostrar misión institucional    | Como familiar, quiero entender la misión de MediTrack.                     | 3                  | Marcelo Barrientos | Done   |
+| US07  | Ver Nuestra Visión                  | UT07 | Mostrar visión a futuro         | Como médico, quiero conocer la visión a futuro de MediTrack.               | 4                  | Marcelo Barrientos | Done   |
+| US08  | Consultar Plan Gratuito             | UT08 | Crear sección plan gratuito     | Como visitante, quiero ver el plan gratuito.                               | 5                  | Carlos Fernandez   | Done   |
+| US09  | Consultar Plan Premium              | UT09 | Crear sección plan premium      | Como allegado, quiero ver el plan premium.                                 | 6                  | Sebastian Montalvo   | Done   |
+| US10  | Consultar Plan Enterprise           | UT10 | Crear sección plan enterprise   | Como médico o institución, quiero ver el plan enterprise.                  | 5                  | Sebastian Montalvo     | Done   |
+| US11  | Acceder al Formulario de Contacto   | UT11 | Crear formulario de contacto    | Como visitante, quiero llenar un formulario.                               | 6                  | Gabriel Rivera     | Done   |
+| US12  | Información de Contacto Alternativa | UT12 | Mostrar información de contacto | Como médico, quiero ver datos de contacto directo.                         | 3                  | Franco Rioja      | Done   |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch  | Commit Id | Commit Message                                                                                  | Commit Message Body                                | Committed on (Date) |
+| --------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------- |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 130fcc9   | chore: added .gitignore file                                                                    | chore: added .gitignore file                       | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 4a7ec75   | docs: add readme and license                                                                    | docs: add readme and license                       | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 1b2f145   | chore: added boostrap base file styles and assets                                               | chore: added boostrap base file styles and assets  | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 49ce789   | feat(hero): added hero section                                                                  | feat(hero): added hero section                     | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 05bcfad   | Merge pull request #1 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/hero-section           | First Merge                                        | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 13b2e61   | feat(services): added services section                                                          | feat(services): added services section             | 17/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | fb9e6b7   | Merge pull request #2 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/service-section        | Second Merge                                       | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 4c5682b   | feat(mission-vision): added mission vision section                                              | feat(mission-vision): added mission vision section | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | c888dbb   | Merge pull request #3 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/mission-vision-section | Third Merge                                        | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 2710bbe   | fix: fix premium printing cart                                                                  | Third Merge                                        | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 2710bbe   | feat(plans): added plans section                                                                | feat(plans): added plans section                   | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | e3f64de   | Merge pull request #4 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/plans-section          | Fourth Merge                                       | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 5a5be28   | feat(contact): added contact section                                                            | feat(contact): added contact section               | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | e53865d   | Merge pull request #5 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/contact-section        | Fifth                                              | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 4fb92cb   | feat(footer): added footer section                                                              | feat(footer): added footer section                 | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 2539286   | Merge pull request #6 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/footer-section         | Sixth Merge                                        | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 9c624ad   | feat(animations): added js animations                                                           | feat(animations): added js animations              | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 1965aae   | Merge pull request #7 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/animations             | Seventh Merge                                      | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 3e36c12   | feat: added button switcher in the ui                                                           | feat: added button switcher in the ui              | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 08b6b2e   | feat(i18n): add i18n support                                                                    | feat(i18n): add i18n support                       | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 29091cb   | fix(footer): fix copyrigth section transalation                                                 | fix(footer): fix copyrigth section transalation    | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | develop | 9ac0477   | fix: i18n typo errors                                                                           | fix: i18n typo errors                              | 18/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page | main    | 184c6d3   | Merge pull request #8 from UPC-PRE-202502-1ASI0730-7461-Rurasqay/feature/i18n                   | Eight Merge                                        | 18/09/25            |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -500,6 +572,7 @@ Durante el Sprint 1 se logró implementar de manera satisfactoria la Landing Pag
 # Estructura de la Landing Page
 
 ## 1. Hero Section
+
 Incluye nuestro **header**, que contiene tanto el **logo** como la **navegación** principal para recorrer la página web.
 
 ![Landing Page Image](./assets/chapter5/landing-image.png)
@@ -507,6 +580,7 @@ Incluye nuestro **header**, que contiene tanto el **logo** como la **navegación
 ---
 
 ## 2. Desafíos y Problemáticas
+
 Sección donde presentamos los **desafíos y problemáticas** que afrontamos, explicando el contexto y la importancia de la solución que ofrecemos.
 
 ![Landing Page Image](./assets/chapter5/landing-desafio.png)
@@ -514,6 +588,7 @@ Sección donde presentamos los **desafíos y problemáticas** que afrontamos, ex
 ---
 
 ## 3. Sobre Nosotros
+
 Un apartado para dar a conocer **quiénes somos**, nuestra historia, valores y el propósito que nos impulsa.
 
 ![Landing Page Image](./assets/chapter5/landing-mas.png)
@@ -521,6 +596,7 @@ Un apartado para dar a conocer **quiénes somos**, nuestra historia, valores y e
 ---
 
 ## 4. Planes y Servicios
+
 Aquí mostramos los distintos **planes y servicios** que ofrecemos, detallando beneficios y opciones para nuestros usuarios.
 
 ![Landing Page Image](./assets/chapter5/landing-planes.png)
@@ -528,20 +604,60 @@ Aquí mostramos los distintos **planes y servicios** que ofrecemos, detallando b
 ---
 
 ## 5. Formulario y Footer
+
 Sección final con un **formulario de contacto** para interactuar con los usuarios y el **footer** que incluye enlaces útiles y redes sociales.
 
 ![Landing Page Image](./assets/chapter5/landing-form-fotter.png)
 
-
-
-
-
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint no se vio una ejecutación de servicios.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+# Sprint 1 - MediTrack
+
+Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las primeras tareas de despliegue, centradas en la **publicación de la Landing Page**.
+
+#### Inicialización y preparación del proyecto de desarrollo
+
+- Se creó el **repositorio principal en GitHub**, estableciendo la rama **main** como línea base.
+- Se organizó la estructura del proyecto para la **Landing Page**.
+- Se definió el archivo `index.html` como punto de inicio principal.
+- Se definió la carpeta `assets` como fuente de acceso para el contenido multimedia utilizados.
+- Se definió la carpeta `css` como fuente de acceso para el contenido de estilos utilizados.
+- Se definió la carpeta `js` como fuente de acceso para el contenido scripts utilizados.
+
+#### Configuración del entorno de publicación
+
+- Se adoptó **GitHub Pages** como solución de hosting inicial para la Landing Page, debido a su simplicidad y rapidez de integración.
+- El repositorio quedó vinculado al entorno de despliegue.
+- Cada actualización enviada a la rama **main** se publica de forma automática y continua.
+
+#### Activación de GitHub Pages en el repositorio
+
+![Landing Page Image Settings](./assets/chapter5/landing-settings.png)
+
+#### Visualización activa del dominio temporal generado por GitHub Pages
+
+![Landing Page Image Domain](./assets/chapter5/landing-domain.png)
+
+Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/](https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/)
+
 #### 5.2.1.8. Team Collaboration Insigths during Sprint
+
+| Nombre             | GitHub User  | Actividades                                                                                                                   |
+| ------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Joaquín Cuba       | joacuba      | Crear landing page principal, Mostrar problemas de geriatría, Mostrar soluciones tecnológicas, Mostrar indicadores de impacto |
+| Marcelo Barrientos | MarceBq      | Mostrar lista de tecnologías, Mostrar misión institucional, Mostrar visión a futuro                                           |
+| Diego Rioja        | FrancoDiegoR | Crear sección plan gratuito, Crear sección plan premium                                                                       |
+| Gabriel Rivera     | guestwhoo    | Crear sección plan enterprise, Crear formulario de contacto                                                                   |
+| Sebastian Montalvo | sebaxchen    | Mostrar información de contacto                                                                                               |
+
+![Landing Page Image Domain](./assets/chapter5/landing-overview.png)
+
+> **Nota:**  
+> Para este repositorio se evidenció el trabajo colaborativo de los estudiantes. Sin embargo, la gráfica de GitHub muestra que un solo usuario realizó la mayoría de los cambios. Esto se debió a la falta de tiempo y a errores imprevistos que impidieron que los demás integrantes integraran sus aportes. Aun así, podemos asegurar que el trabajo fue realizado de manera colaborativa por todo el equipo.
 
 # Conclusiones
 
