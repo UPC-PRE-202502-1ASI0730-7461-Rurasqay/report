@@ -725,3 +725,36 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 - Organización Panamericana de la Salud. (s. f.). Health in the Americas+ country profile: Peru [Perfil país]. OPS.
 
 # Anexos
+
+### VIDEOS:
+
+| Título                  | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP1  | |  
+| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | |
+| Video de exposición TF  | Video explicativo de los avances de la entrega TF1  | |  
+| Needfinding interviews    | Video recopilatorio de todas las entrevistas | https://shorturl.at/VvNz9 |  
+| Validation interviews    | Video recopilatorio de todas las entrevistas |  |  
+| Video About the Product    | Video About the Product |  |  
+| Video About the Product - YouTube    | Video About the Product - YouTube |  |  
+| Validation interviews    | Video recopilatorio de todas las entrevistas |  |  
+| Video About the Team    | Video About the Team |  |  
+
+### UX/UI
+| Título | Descripción                                                                                                | Enlace                                                                                                 |
+|--------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Figma  | Proyecto de figma con el diseño planteado para la solución planteada. | https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1  | 
+
+### GITHUB
+
+| Título       | Descripción                            | Enlace                                             |
+|--------------|----------------------------------------|----------------------------------------------------|
+| Organización | Enlace a la organización      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay    |
+| Reporte      | Enlace al repositorio del reporte      |  https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report   |
+| Landing Page | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page |
+| Frontend     | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-frontend    |
+| Backend     | Enlace al repositorio del backend     |     |
+| Deployed Landing Page | Enlace del deploy del Landing Page | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/ |
+| Deployed Frontend     | Enlace del deploy del frontend     |     |
+| Deployed Backend     | Enlace del deploy del backend     |     |
