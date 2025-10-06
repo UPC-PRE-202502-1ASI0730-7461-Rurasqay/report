@@ -423,16 +423,132 @@ Se seguirá el estándar **Conventional Commits** para garantizar claridad y con
 
 #### HTML
 
-Prácticas aplicadas en el desarrollo de la Landing Page estática:
+**Estándares base**  
+Adoptamos **W3Schools – HTML5 Syntax** y la **Google HTML/CSS Style Guide** para garantizar legibilidad, consistencia y mantenibilidad del marcado. Estas pautas cubren estructura del documento, semántica, formato, atributos, accesibilidad y validación.
 
-1. Uso de `href=#id` para permitir una navegación interna fluida.
-2. Inclusión de atributos `alt` en todas las imágenes para mostrar texto alternativo en caso de error de carga.  
-   Ejemplo:
-   ```html
-   <img src="images/image-hero.png" alt="Persona frente a computadora" />
-   ```
-3. Obtención de íconos en formato SVG desde Lucide.
-4. Uso de la convención kebab-case para nombrar id y clases.
+**Formato y espacios**
+
+- **Indentación:** 2 espacios por nivel (no tabs).
+- **Líneas y ancho:** evitar superar ~**80–100** caracteres; divide atributos largos o listas de clases extensas.
+- **Espacios en etiquetas:** no incluir espacios antes de `>` ni entre el nombre de la etiqueta y `>`; deja un **espacio** entre el nombre de atributo y `=` y entre pares de atributos.
+  ```html
+  <!-- Correcto -->
+  <input type="email" name="userEmail" required />
+  <!-- Incorrecto -->
+  <input type="email" name="userEmail" required />
+  ```
+- **Mayúsculas/minúsculas:** etiquetas y atributos **en minúsculas**; valores literales consistentes (comillas dobles).
+
+**Sentencias y bloques**
+
+- **Estructura mínima válida:** `<!DOCTYPE html>`, `<html lang="...">`, `<head>`, `<meta charset="utf-8">`, `<meta name="viewport"...>`, `<title>`, `<body>`.
+- **Cierre de etiquetas:** cerrar correctamente todos los elementos no vacíos. No usar barra de cierre en elementos **void** (p. ej., `<img>`, `<br>`, `<hr>`, `<meta>`, `<link>`).
+  ```html
+  <!-- Correcto -->
+  <img src="avatar.png" alt="Foto de perfil" />
+  <!-- Incorrecto (XHTML autocierre no requerido en HTML5) -->
+  <img src="avatar.png" alt="Foto de perfil" />
+  ```
+- **Anidación:** seguir el orden semántico correcto; no superponer etiquetas.
+
+**Comentarios**
+
+- Comentar secciones lógicas del documento con claridad y sin exceso.
+  ```html
+  <!-- =======================================
+       Cabecera del sitio
+     ======================================= -->
+  ```
+- No comentar código muerto; elimínalo o justifica su permanencia.
+
+**Nomenclatura y declaraciones**
+
+- **Atributos booleanos** sin valor redundante: `required`, `disabled`, `checked` (no `required="required"`).
+- **Orden de atributos:** prioriza legibilidad; sugerido: `id`, `class`, `name`, `data-*`, `type`, `href/src`, `alt`, `aria-*`, `role`.
+- **Clases:** en minúsculas y con guiones (`.site-header`, `.hero-title`). Evita IDs salvo para anclas o integración con scripts.
+- **Rutas y archivos:** nombres en minúsculas, sin espacios; usa `-` para separar palabras: `about-us.html`, `user-profile.jpg`.
+
+**Strings y literales**
+
+- En atributos, usa **comillas dobles** y escapa correctamente entidades cuando incrustes texto en atributos (`&quot;`, `&amp;`).
+- Usa entidades para símbolos especiales cuando sea necesario (`&copy;`, `&nbsp;`, `&lt;`, `&gt;`).
+
+**Funciones y callbacks**
+
+- **Evita `onclick` y otros manejadores inline**. Separa el comportamiento en archivos JS y añade listeners desde el script.
+- No incrustes bloques de `<script>` largos en el HTML; referencia archivos externos y colócalos al final del `<body>` o con `defer`.
+
+**Bucles y condicionales**
+
+- (No aplican directamente al HTML). En motores de plantillas, mantén la lógica mínima y deja la presentación al HTML/CSS.
+
+**Etiquetas (estructura semántica)**
+
+- Emplea **etiquetas semánticas**: `header`, `nav`, `main`, `section`, `article`, `aside`, `footer`, `figure/figcaption`.
+- Usa `ul/ol` para listas, `dl` para definiciones, y tablas (`table`, `thead`, `tbody`, `th`, `td`, `caption`) **solo para datos tabulares**.
+- Para formularios, agrupa con `form`, `fieldset`, `legend`, y asocia etiquetas con `label for`/`id`.
+
+**Web APIs y seguridad**
+
+- Proveer **atributos `alt`** descriptivos en `img`. Si la imagen es decorativa, `alt=""`.
+- En enlaces externos, usa `rel="noopener noreferrer"` cuando apliques `target="_blank"`.
+- No incrustes HTML no confiable; sanitiza contenido dinámico del lado del servidor.
+
+**Accesibilidad (a11y)**
+
+- Añadir `lang` al elemento `<html>` y metadatos adecuados.
+- Mantener un **orden de encabezados** lógico (`h1`–`h6`) y un **único `h1`** por página.
+- Asegurar **foco visible**, etiquetas `label` asociadas y `aria-*` solo cuando sea necesario (no para sustituir semántica nativa).
+- Usar `title` descriptivo y `meta`/landmarks correctos para navegación asistida.
+
+**Ejemplo breve**
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mi página accesible</title>
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <!-- =======================================
+         Cabecera
+       ======================================= -->
+    <header class="site-header" role="banner">
+      <h1 class="site-title">Marca</h1>
+      <nav class="site-nav" aria-label="Principal">
+        <ul>
+          <li><a href="/">Inicio</a></li>
+          <li><a href="/productos.html">Productos</a></li>
+          <li><a href="/contacto.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main" class="site-main">
+      <article class="hero">
+        <h2 class="hero-title">Bienvenido</h2>
+        <p>Contenido introductorio.</p>
+        <figure>
+          <img
+            src="/assets/hero.jpg"
+            alt="Persona usando la app en un teléfono"
+          />
+          <figcaption>Tu compañía, en cualquier dispositivo.</figcaption>
+        </figure>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <p>&copy; 2025 Mi Compañía</p>
+    </footer>
+
+    <script src="/assets/app.js" defer></script>
+  </body>
+</html>
+```
 
 #### CSS
 
