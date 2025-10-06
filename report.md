@@ -442,7 +442,69 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
 
 #### JS
 
-1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
+**Estándares base**  
+Usamos las “JavaScript Coding Conventions” de W3Schools y las “Guidelines for writing JavaScript code examples” de MDN para asegurar legibilidad, consistencia y mantenibilidad del código. Estas guías cubren nombres, espacios en blanco, indentación, sentencias, comentarios y prácticas modernas del lenguaje.
+
+**Formato y espacios**
+
+- **Espacios alrededor de operadores y después de comas**.  
+  _Ej:_ `let total = a + b;` · `const cars = ["Volvo", "Saab", "Fiat"];`
+- **Indentación**: 2 espacios (no tabs).
+- **Longitud de línea**: evita superar **80** caracteres; si es necesario, divide tras coma u operador.
+- **Formateador**: para consistencia automática, adoptar **Prettier** con una configuración compartida del repositorio.
+
+**Sentencias y bloques**
+
+- **Punto y coma**: terminar **siempre** las sentencias simples con `;`.
+- **Llaves en compuestos**: llave de apertura al final de la primera línea (con un espacio antes) y cierre en línea nueva; no terminar el bloque con `;`.
+- **Control de flujo**: si un `if` termina con `return`, **omite** el `else` y continúa después.
+
+**Comentarios**
+
+- **Usa comentarios de línea** (`//`) y evita `/* ... */` para bloques; cada línea comentada debe iniciar con `//`. Añade un espacio tras `//` y escribe frases claras.
+- **Comentarios de salida**: cuando uses `console.log()` en ejemplos, puedes anotar el **resultado esperado** al final de la línea para facilitar la lectura.
+- **Elipsis**: si omites partes del ejemplo, marca con `// …` para mantener el código **válido** al copiar/pegar.
+
+**Nomenclatura y declaraciones**
+
+- **camelCase** para variables y funciones; evita guiones en identificadores; **UPPER_CASE** para constantes globales cuando aplique.
+- **Una variable por línea** para claridad y para evitar globals implícitas por asignaciones encadenadas.
+- **`const` y `let` en lugar de `var`**; prefiere `const` si no hay reasignación.
+- **Evita coerciones implícitas** como `+val` o `"" + val`; usa `Number(val)` y `String(val)`.
+
+**Strings y literales**
+
+- **Template literals** para interpolación y evitar errores de espaciado: `` `Hola, ${name}` ``.  
+  Si no hay sustituciones, usa string literal normal.
+
+**Funciones y callbacks**
+
+- **Prefiere declaraciones de función** sobre expresiones asignadas, cuando sea posible.
+- **Callbacks**: usa **arrow functions** cuando no necesites `this`. Prefiere **return implícito** si cabe en una expresión.
+- **Métodos/identificadores**: evita asignar funciones a identificadores con `=>` para métodos; usa `function` cuando definas métodos.
+
+**Bucles y condicionales**
+
+- Para iterar colecciones, **prefiere** `for...of` o `.forEach()` a `for(;;)`; declara el iterador con `const`/`let` correctamente.
+- **Atajos booleanos**: usa `if (x)` y `if (!x)` en lugar de comparar con `true`/`false`, salvo que manejes explícitamente truthy/falsy.
+
+**Objetos y arreglos**
+
+- **Objetos**: llave de apertura en la misma línea; `prop: valor` con un espacio tras `:`; sin coma final; cierra en línea nueva y termina con `;`. Los objetos cortos pueden ir en una sola línea si conservan espacios.
+- **Arreglos**: espacio después de cada coma.
+
+**Logs y diagnóstico**
+
+- Usa `console.log()` para mensajes y `console.error()` para errores; en ejemplos estáticos, anota la salida esperada como comentario de fin de línea.
+
+**Web APIs y seguridad (cuando se manipula DOM)**
+
+- **Evita `innerHTML`** para insertar **texto**; usa `textContent` para reducir riesgos XSS.
+- **Evita APIs obsoletas**; prefiere alternativas modernas (p.ej., `fetch()` sobre XHR).
+
+**Asincronía**
+
+- **Prefiere `async/await`** sobre Promesas encadenadas cuando sea posible; evita `top-level await` fuera de ES Modules.
 
 #### GERKHIN
 
@@ -762,4 +824,3 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/       |
 | Deployed Frontend     | Enlace del deploy del frontend         |                                                                             |
 | Deployed Backend      | Enlace del deploy del backend          |                                                                             |
-
