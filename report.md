@@ -129,7 +129,6 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -150,13 +149,11 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -353,6 +350,12 @@
 
 **GitHub Pages**: Herramienta integrada en GitHub que permite publicar documentación y sitios web directamente desde un repositorio, ofreciendo una forma sencilla y gratuita de compartir contenidos en línea.  
 **Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
+**Structurizr**: Modelado arquitectónico como código: Structurizr permite definir un modelo arquitectónico en un lenguaje de dominio específico (DSL) y luego generar múltiples diagramas (C4, contexto, contenedores, componentes) desde ese modelo único. Además, puede combinarse con documentación y registros de decisiones arquitectónicas embebidos.  
+**Ruta de acceso**: [https://structurizr.com](https://structurizr.com)
+
+**Lucidchart** Herramienta colaborativa basada en la web para la creación de diagramas técnicos (UML, ERD, procesos, arquitectura). Permite colaboración en tiempo real, importación de datos, plantillas para distintos tipos de diagramas y edición visual.  
+**Ruta de acceso**: [https://www.lucidchart.com](https://www.lucidchart.com)
 
 ### 5.1.2. Source Code Management
 
@@ -728,33 +731,35 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP1  | |  
-| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | |
-| Video de exposición TF  | Video explicativo de los avances de la entrega TF1  | |  
-| Needfinding interviews    | Video recopilatorio de todas las entrevistas | https://shorturl.at/VvNz9 |  
-| Validation interviews    | Video recopilatorio de todas las entrevistas |  |  
-| Video About the Product    | Video About the Product |  |  
-| Video About the Product - YouTube    | Video About the Product - YouTube |  |  
-| Video About the Team    | Video About the Team |  |  
-| Video About the Team - YouTube   | Video About the Team - YouTube |  |  
+| Título                            | Descripción                                        | Enlace                    |
+| --------------------------------- | -------------------------------------------------- | ------------------------- |
+| Video de exposición TB1           | Video explicativo de los avances de la entrega TB1 |                           |
+| Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                           |
+| Video de exposición TB2           | Video explicativo de los avances de la entrega TB2 |                           |
+| Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                           |
+| Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9 |
+| Validation interviews             | Video recopilatorio de todas las entrevistas       |                           |
+| Video About the Product           | Video About the Product                            |                           |
+| Video About the Product - YouTube | Video About the Product - YouTube                  |                           |
+| Video About the Team              | Video About the Team                               |                           |
+| Video About the Team - YouTube    | Video About the Team - YouTube                     |                           |
 
 ### UX/UI
-| Título | Descripción                                                                                                | Enlace                                                                                                 |
-|--------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Figma  | Proyecto de figma con el diseño planteado para la solución planteada. | https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1  | 
+
+| Título | Descripción                                                           | Enlace                                                                                          |
+| ------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Figma  | Proyecto de figma con el diseño planteado para la solución planteada. | https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1 |
 
 ### GITHUB
 
-| Título       | Descripción                            | Enlace                                             |
-|--------------|----------------------------------------|----------------------------------------------------|
-| Organización | Enlace a la organización      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay    |
-| Reporte      | Enlace al repositorio del reporte      |  https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report   |
-| Landing Page | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page |
-| Frontend     | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-frontend    |
-| Backend     | Enlace al repositorio del backend     |     |
-| Deployed Landing Page | Enlace del deploy del Landing Page | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/ |
-| Deployed Frontend     | Enlace del deploy del frontend     |     |
-| Deployed Backend     | Enlace del deploy del backend     |     |
+| Título                | Descripción                            | Enlace                                                                      |
+| --------------------- | -------------------------------------- | --------------------------------------------------------------------------- |
+| Organización          | Enlace a la organización               | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay                    |
+| Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report             |
+| Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page       |
+| Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-frontend |
+| Backend               | Enlace al repositorio del backend      |                                                                             |
+| Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/       |
+| Deployed Frontend     | Enlace del deploy del frontend         |                                                                             |
+| Deployed Backend      | Enlace del deploy del backend          |                                                                             |
+
