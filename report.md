@@ -436,9 +436,134 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
 
 #### CSS
 
-1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
-2. Definición de colores en formato HEX.
-3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
+**Estándares base**  
+Adoptamos la **Google HTML/CSS Style Guide** para asegurar legibilidad, consistencia y mantenibilidad del código CSS en el equipo. Estas pautas cubren formato, nomenclatura, organización, especificidad, modularidad y buenas prácticas para desarrollo web colaborativo.
+
+**Formato y espacios**
+
+- **Indentación:** 2 espacios por nivel de anidación (no tabs).
+- **Llaves y líneas:** llave de apertura en la misma línea del selector (con un espacio antes) y llave de cierre en línea nueva alineada con el selector.
+- **Una declaración por línea** y **un selector por línea** cuando se usen listas de selectores.
+- **Espacios:** un espacio después de `:` en cada propiedad y después de comas en funciones (`rgba(0, 0, 0, 0.5)`).
+- **Punto y coma final:** todas las declaraciones terminan con `;`, incluida la última.
+- **Separación visual:** dejar una línea en blanco entre bloques de reglas.
+- **Longitud de línea:** evitar superar ~**80–100** caracteres; dividir listas de selectores o valores largos.
+
+**Sentencias y bloques**
+
+- **Bloques de reglas:** agrupar propiedades relacionadas y mantener un **orden lógico** (posición/modelo de caja → tipografía → color/visual).
+- **Selectores múltiples:** separar con comas y colocar **cada selector en una línea** para legibilidad.
+- **Especificidad moderada:** evitar encadenamientos profundos; máximo **3 niveles**. Preferir clases sobre IDs.
+- **No usar `!important`** salvo excepciones documentadas y justificadas.
+- **Evitar estilos en línea**; centralizar estilos en hojas `.css`/`.scss`.
+
+**Comentarios**
+
+- Encabezar secciones con bloques delimitados, por ejemplo:
+  ```css
+  /* ==========================================================================
+     Componentes
+     ========================================================================== */
+  ```
+- Comentar decisiones no obvias (hacks, compatibilidad, razones de diseño).
+- Evitar comentarios superfluos; los nombres semánticos deben explicar el propósito.
+
+**Nomenclatura y declaraciones**
+
+- **Clases en minúsculas con guiones** (`.product-card`, `.main-header`). Evitar nombres genéricos (`.red`, `.center`).
+- **Convención recomendada:** **BEM** (Block**Element--Modifier), p. ej. `.card**title--highlighted`.
+- **Evitar IDs** como selectores en CSS para mejorar reutilización y reducir especificidad.
+- **Una regla por responsabilidad:** mantener componentes/modularidad; evitar reglas monolíticas.
+- **Importaciones:** usar `@import` (si aplica) o mejor un **bundler** (PostCSS/Sass) para concatenar/minificar en build.
+
+**Strings y literales**
+
+- **Comillas dobles** para strings: `content: "";` `font-family: "Roboto", sans-serif;`
+- **Colores:** hex en minúsculas (`#fff`), `rgb()/rgba()` o `hsl()/hsla()` cuando mejore la claridad. Preferir **variables CSS** `var(--color-primary)`.
+- **Unidades:** omitir unidades en cero (`0` en lugar de `0px`). Usar unidades **relativas** (`rem`, `em`, `%`) para tipografía y espaciado flexible.
+- **Shorthand:** usar abreviados solo si no se pierde intención (p. ej., `margin: 10px 0;`).
+
+**Funciones y callbacks**
+
+- **Funciones CSS:** usar `calc()`, `min()`, `max()`, `clamp()` con espacios alrededor de operadores para legibilidad (`calc(100% - 2rem)`).
+- **Variables (custom properties):** definir en ámbitos predecibles (`:root`) y documentar su propósito.
+- **Compatibilidad:** evitar prefijos manuales; usar **Autoprefixer** en la build.
+
+**Bucles y condicionales**
+
+- En **preprocesadores** (Sass/SCSS), limitar anidación a **máx. 3 niveles** y evitar lógica compleja. Mantener reglas simples y predecibles.
+- **Cascada y herencia:** diseñar pensando en la cascada; no depender de especificidad alta para “ganar” estilos.
+
+**Objetos y arreglos**
+
+- **Arquitectura de componentes:** separar **base**, **componentes**, **layout**, **utilidades**.
+- **Utilidades atómicas** (opcional): clases pequeñas y reutilizables (`.mt-2`, `.text-center`) si el equipo las adopta de forma consistente.
+- **Estructura recomendada del archivo/proyecto:**
+  1. Variables y tokens de diseño
+  2. Reset/Normalize
+  3. Elementos base (html, body, headings, links)
+  4. Layout (grid, contenedores)
+  5. Componentes (botones, cards, modales)
+  6. Utilidades y helpers
+
+**Logs y diagnóstico**
+
+- **Depuración visual:** usar `outline: 1px dashed` temporalmente para diagnosticar layout; **remover antes de producción**.
+- **Herramientas:** apoyarse en DevTools para auditoría de cascada y especificidad. Evitar dejar reglas “debug” en commits.
+
+**Web APIs y seguridad (cuando aplica)**
+
+- Evitar estilos embebidos por JavaScript que podrían introducir inconsistencias; preferir añadir/remover **clases** controladas.
+- Cuidar temas de **accesibilidad** (contraste, `prefers-reduced-motion`, tamaños relativos, estados `:focus` visibles).
+
+**Asincronía**
+
+- _No aplica directamente a CSS_. Si se cargan estilos de forma diferida, documentar el comportamiento (p. ej., `media="print"` + `onload`).
+
+**Ejemplo breve**
+
+```css
+/* Base */
+:root {
+  --color-primary: #0a84ff;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  color: #333;
+  background-color: #fff;
+  font-family:
+    "Inter",
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    sans-serif;
+}
+
+/* Componente */
+.button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 0;
+  border-radius: 4px;
+  background-color: var(--color-primary);
+  color: #fff;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #006edb;
+}
+.button:focus {
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+```
 
 #### JS
 
