@@ -763,8 +763,17 @@ Se utilizó el lenguaje Gherkin para redactar escenarios de las User Stories, em
 
 #### Despliegue de la Landing Page
 
-El despliegue de la Landing Page se realizó utilizando **GitHub Pages**, aprovechando su simplicidad y accesibilidad.  
-El archivo `index.html` fue definido como el punto de entrada principal del sitio.
+El despliegue de la Landing Page se realizó utilizando **GitHub Pages**, aprovechando su simplicidad y accesibilidad.
+
+Pasos seguidos para despliegue de una página estática en GitHub Pages
+
+1. **Abrir epositorio del Landing Page** en GitHub el archivo `index.html` es la raíz.
+2. Dirigirse a **Settings → Pages** (barra lateral izquierda).
+3. En **Build and deployment → Source**, se selecciona **Deploy from a branch**.
+4. En **Branch**, elige `main` y **/ (root)**. Luego hacemos clic en **Save**.
+5. Se espero entre **1 y 2 minutos**. GitHub generará la página y mostrará la URL:  
+   `https://<tu-usuario>.github.io/<tu-repo>/`
+6. Comprobar el funcionamiento de la URL para ver si el sitio esta funcionando.
 
 ![Landing Page Image](./assets/chapter5/landing-image.png)
 
