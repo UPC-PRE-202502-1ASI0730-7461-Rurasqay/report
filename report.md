@@ -749,13 +749,19 @@ Los Journey Maps permiten visualizar paso a paso la experiencia de cada usuario 
 
 ### Journey Mapping – Doctor
 
+El journey map de Luis Jiménez, médico geriatra en una casa de reposo, muestra cómo descubre en MediTrack una herramienta clave para mejorar la atención de sus pacientes mayores. A lo largo de su experiencia, pasa de enfrentar la falta de datos en tiempo real y la sobrecarga de trabajo a utilizar alertas y reportes automatizados que optimizan su diagnóstico y prevención, reflejando una evolución hacia una práctica médica más eficiente, conectada y confiable.
+
 ![Luis Jiménez Journey Map.png](assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
 
 ### Journey Mapping – Allegado de Adulto Mayor
 
+El journey map de Valeria Pancorbo, arquitecta e hija de una adulta mayor, refleja cómo encuentra en MediTrack una solución tecnológica para cuidar a su madre a distancia. Su experiencia pasa de la ansiedad y la incertidumbre por no poder estar presente todo el tiempo, a la tranquilidad de recibir alertas y monitorear signos vitales en tiempo real, lo que le permite equilibrar su vida laboral con el bienestar y seguridad de su madre.
+
 ![Valeria Pancorbo Journey Map.png](assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
 
 ### Journey Mapping – Enfermera
+
+El journey map de Carla Fernández, enfermera en una casa de reposo, refleja su transición de la frustración por no poder supervisar a todos los adultos mayores simultáneamente hacia la satisfacción de contar con MediTrack como apoyo tecnológico. Gracias al monitoreo en tiempo real y las alertas automáticas, Carla logra optimizar su trabajo, reducir el estrés y brindar una atención más segura y coordinada a sus residentes.
 
 ![Carla Fernández Journey Map.png](assets/chapter2/Carla%20Fern%C3%A1ndez%20Journey%20Map.png)
 
@@ -766,13 +772,19 @@ Los Empathy Maps ayudan a comprender las necesidades, preocupaciones, motivacion
 
 ### Empathy Mapping – Doctor
 
+El Dr. Luis Jiménez, médico geriatra en una casa de reposo, se siente frustrado por la sobrecarga de pacientes y la falta de información en tiempo real que le impide anticiparse a emergencias. Escucha a colegas y familiares demandar soluciones más confiables y observa la necesidad de herramientas digitales que mejoren el monitoreo y la coordinación. Busca brindar atención médica de calidad, reducir complicaciones y ofrecer tranquilidad a las familias mediante tecnología que respalde su labor clínica.
+
 ![Luis Jimenez Empathy Map.png](assets/chapter2/Luis%20Jimenez%20Empathy%20Map.png)
 
 ### Empathy Mapping – Allegado de Adulto Mayor
 
+El Empathy Map de Valeria Pancorbo muestra a una hija cuidadora que vive la ansiedad de no poder estar físicamente con su madre y el miedo a que algo ocurra sin que ella lo sepa. Busca una solución tecnológica confiable que le brinde tranquilidad, permitiéndole monitorear la salud de su madre a distancia y reaccionar ante emergencias. Valeria desea equilibrar su vida laboral con el cuidado familiar, reducir su carga emocional y sentirse segura de que su madre está protegida en todo momento.
+
 ![Valeria Pancorbo Empathy Map.png](assets/chapter2/Valeria%20Pancorbo%20Empathy%20Map.png)
 
 ### Empathy Mapping – Enfermera
+
+El Empathy Map de Carla Fernández refleja la realidad de una enfermera que enfrenta la presión de cuidar simultáneamente a numerosos adultos mayores con recursos limitados y sistemas poco integrados. Se siente preocupada por no poder atender a todos a tiempo, pero confía en que la tecnología puede ayudarla a reducir riesgos y mejorar la atención. Busca herramientas que automaticen alertas, faciliten la coordinación con médicos y familiares, y le brinden tranquilidad al disminuir su carga laboral y el estrés diario.
 
 ![Carla Fernandez Empathy Map.png](assets/chapter2/Carla%20Fernandez%20Empathy%20Map.png)
 
