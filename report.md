@@ -738,8 +738,8 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | Validation interviews    | Video recopilatorio de todas las entrevistas |  |  
 | Video About the Product    | Video About the Product |  |  
 | Video About the Product - YouTube    | Video About the Product - YouTube |  |  
-| Validation interviews    | Video recopilatorio de todas las entrevistas |  |  
 | Video About the Team    | Video About the Team |  |  
+| Video About the Team - YouTube   | Video About the Team - YouTube |  |  
 
 ### UX/UI
 | Título | Descripción                                                                                                | Enlace                                                                                                 |
