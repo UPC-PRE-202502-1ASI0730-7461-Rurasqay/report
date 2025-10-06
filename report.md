@@ -470,6 +470,30 @@ En esta sección se detallan los supuestos relacionados con las características
 
 5. Creemos que el **monitoreo de múltiples pacientes** en un solo panel mejorará la eficiencia de las instituciones.
 
+### User Outcome Assumptions
+
+- Aumento de la conexión emocional y la tranquilidad de los familiares (debido a la fácil comprensión del estado de salud).
+
+- Mejora en la capacidad de respuesta del personal de cuidado ante emergencias.
+
+- Uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+- Aumento del valor percibido de la plataforma entre los clientes B2B.
+
+- Mejora de la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+### Business Outcome Assumptions
+
+- Reducción del 70% en las llamadas de consulta rutinarias 
+
+- Reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos
+
+- Al menos el 60% de los usuarios activos consulta el historial de datos o reportes médicos al menos una vez al mes
+
+- Al menos el 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en la satisfacción laboral
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el *business outcome*, el *user outcome* y la *feature* correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
@@ -518,7 +542,7 @@ Los **Hypothesis Statements** constituyen una evolución de los Assumptions, tra
 
 El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimiento, los Assumptions y las Hypothesis Statements. Su propósito es proporcionar una visión integral y colaborativa del proyecto, ayudando al equipo a alinear la estrategia de producto, los objetivos de negocio y las métricas de validación. Este canvas se convierte en una herramienta esencial para guiar el aprendizaje continuo y priorizar las decisiones de diseño con base en evidencia.
 
-<img src="assets/chapter1/leanuxcanvas.svg" alt="Lean UX Canvas" width="100%">
+<img src="assets/chapter1/leanuxcanvas.png" alt="Lean UX Canvas" width="100%">
 
 ## 1.3. Segmentos objetivo
 
