@@ -1021,23 +1021,48 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 
 # Conclusiones
 
+En esta sección se enuncian las conclusiones sobre el trabajo, incluyendo los resultados a los que hemos llegado en relación a los Problem Statements especificados, los assumptions realizados frente al comportamiento real de los segmentos, los Hypotheses Statements establecidos y los criterios de éxito especificados en el proceso de Lean UX, en contraste con los resultados obtenidos de las validaciones.
+Igualmente se incluyen recomendaciones sobre los siguientes pasos en relación a Roadmap de los productos digitales que forman parte del alcance del modelo de negocio digital.
+
 ## Conclusiones y recomendaciones
+
+### Conclusiones
+
+La solución MediTrack ha logrado un alto nivel de alineación entre los objetivos iniciales del negocio (Lean UX) y la propuesta de diseño y arquitectura, la cual se sustenta en la validación temprana con los segmentos objetivo.
+
+Los problemas centrales identificados en el cuidado geriátrico como la falta de información en tiempo real, la incertidumbre familiar y la ineficiencia en la gestión multi-paciente por parte de las instituciones han sido abordados directamente por la propuesta de valor de MediTrack. El diseño del producto, basado en un parche inteligente IoT y un dashboard visual, resuelve los Pain Points identificados, al ofrecer alertas en tiempo real, datos históricos y una plataforma unificada de gestión.
+
+Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente validadas por los resultados cualitativos de las entrevistas con los segmentos objetivo (Familiares, Médicos y Cuidadores):
+
+- Validación de Necesidad y Valor: La suposición de que los usuarios necesitan monitoreo continuo y preciso y que el principal valor es la tranquilidad y la seguridad  fue confirmada. El segmento familiar se mostró proactivo y dispuesto a pagar por la seguridad , mientras que los médicos y cuidadores reconocieron que la solución mejoraría la prevención, la respuesta y reduciría el estrés operativo.
+
+- Disposición: Si bien la necesidad y la disposición fueron validadas, un desafío crítico identificado fue la desconfianza en la precisión de los datos digitales por parte del 66% de los familiares. Esto implica que la asunción sobre la confiabilidad del dispositivo debe ser demostrada mediante validación clínica y certificación, más allá de la usabilidad del software.
+
+### Recomendaciones
+
+- Validación en clínicas: Ejecutar formalmente las entrevistas de validación y obtener las métricas de éxito . Es crucial establecer una fase de prueba técnica (piloto B2B) para obtener datos reales que demuestren la confiabilidad del dispositivo (parche IoT) y así abordar la principal barrera de adopción identificada.
+
+- Desarrollo de Bounded Context Críticos: Concentrar el desarrollo en el Dashboard and Analytics Bounded Context, lo cual es valorado por los médicos para el seguimiento de los pacientes. Esto convertirá el producto de un monitor a una herramienta clínica de apoyo a la decisión.
+
+- Expansión del Roadmap B2B (Piloto): Implementar un programa piloto pagado en al menos una casa de reposo o clínica (modelo Enterprise de suscripción) para  validar la hipótesis de la reducción del 50% en el tiempo de respuesta y obtener case studies que sirvan como evidencia de valor para futuras alianzas comerciales.
+
+- Optimización de Canales Digitales: Implementar la estrategia de captación B2C (Google Ads, Marketing de Contenidos) y B2B (alianzas con clínicas)  una vez que se cuente con la evidencia cuantitativa de precisión (Paso 1). El enfoque de contenidos debe responder a la búsqueda de tranquilidad y seguridad por parte de los familiares.
 
 ## Video About-the-Product
 
 # Bibliografía
 
-- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú.
+- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42,2 % de los hogares del país tienen entre sus miembros a una persona de 60 años o más [Nota de prensa]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú.
+- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). La población de 60 años o más con algún problema de salud crónico alcanzó el 80,8 % [Informe técnico]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión.
+- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta la población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión.
 
-- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú.
+- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Hasta 2024 la población peruana alcanza los 34 millones 39 mil habitantes [Nota de prensa]. Gobierno del Perú.
 
-- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú.
+- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). El 42,0 % de los hogares del país tiene entre sus miembros al menos a una persona de 60 años o más [Nota de prensa]. Gobierno del Perú.
 
-- Organización Panamericana de la Salud. (s. f.). Health in the Americas+ country profile: Peru [Perfil país]. OPS.
+- Organización Panamericana de la Salud. (s. f.). Salud en las Américas+ perfil país: Perú [Perfil país]. OPS.
 
 # Anexos
 
