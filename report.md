@@ -302,49 +302,61 @@ Impact Map para el segmento de Familiares:
 
 El Product Backlog es una lista priorizada y dinámica de todas las funcionalidades pendientes de desarrollo. Está ordenado según la necesidad del negocio, comenzando por las historias que permiten la incorporación de nuevos usuarios (registro, inicio de sesión, visualización de planes), seguidas por la gestión interna (registro de clínicas, doctores, adultos mayores y cuidadores), y finalizando con funcionalidades de monitoreo y soporte.
 
-| Nº | User Story ID | Título                                   | Descripción                                                                 | Story Points | Epic ID |
-|----|---------------|------------------------------------------|-----------------------------------------------------------------------------|--------------|---------|
-| 1  | US19          | Registrarse en MediTrack                 | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma. | 5 | EP06 |
-| 2  | US17          | Iniciar Sesión en MediTrack              | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente. | 3 | EP01 |
-| 3  | US16          | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales. | 2 | EP02 |
-| 4  | US18          | Visualizar Planes Disponibles            | Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades. | 3 | EP02 |
-| 5  | US01          | Visualización de la Landing Page         | Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico. | 2 | EP01 |
-| 6  | US02          | Visualizar Problemas Actuales            | Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución. | 2 | EP01 |
-| 7  | US03          | Visualizar Soluciones Propuestas         | Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional. | 2 | EP01 |
-| 8  | US04          | Visualizar Impacto en Cifras             | Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución. | 2 | EP01 |
-| 9  | US05          | Ver Tecnologías que Salvan Vidas         | Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad. | 2 | EP01 |
-| 10 | US07          | Ver Nuestra Misión                       | Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa. | 1 | EP01 |
-| 11 | US08          | Ver Nuestra Visión                       | Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado. | 1 | EP01 |
-| 12 | US09          | Consultar Plan Gratuito                  | Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso. | 2 | EP01 |
-| 13 | US10          | Consultar Plan Premium                   | Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir. | 2 | EP01 |
-| 14 | US11          | Consultar Plan Enterprise                | Como visitante, quiero ver el plan Enterprise para soluciones a gran escala. | 2 | EP01 |
-| 15 | US12          | Acceder al Formulario de Contacto        | Como visitante, quiero llenar un formulario para recibir más información personalizada. | 3 | EP01 |
-| 16 | US15          | Información de Contacto Alternativa      | Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario. | 1 | EP01 |
-| 17 | US20          | Adaptar Dashboard según Plan             | Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción. | 3 | EP01 |
-| 18 | US21          | Registro de clínica                        | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal. | 5 | EP03 |
-| 19 | US22          | Creación automática del rol de administrador | Como administrador de una clínica, quiero recibir un correo con las credenciales del administrador único, para gestionar doctores, adultos mayores y allegados desde un solo panel. | 3 | EP02 |
-| 20 | US23          | Acceso inicial del administrador sin cambio obligatorio | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica. | 3 | EP03 |
-| 21 | US24          | Registro de adultos mayores              | Como administrador de la clínica quiero registrar adultos mayores para que puedan ser monitoreados dentro del sistema. | 5 | EP03 |
-| 22 | US25          | Añadir doctor                              | Como administrador de la clínica quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores. | 5 | EP03 |
-| 23 | US26          | Ver lista de adultos mayores asignados en clínica | Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado. | 2 | EP03 |
-| 24 | US41          | Añadir un adulto mayor junto a sus datos en la clínica | Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor. | 5 | EP03 |
-| 25 | US42          | Añadir doctor para asignar adulto mayor en la clínica | Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor. | 3 | EP03 |
-| 26 | US43          | Asignar adulto mayor a un doctor en la clínica | Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor. | 3 | EP04 |
-| 27 | US44          | Añadir un adulto mayor junto a sus datos en la casa de reposo | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador. | 5 | EP04 |
-| 28 | US45          | Añadir cuidador para asignar adulto mayor en la casa de reposo | Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor. | 3 | EP04 |
-| 29 | US46          | Asignar adulto mayor a un cuidador en la casa de reposo | Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador. | 3 | EP04 |
-| 30 | US47          | Añadir cuidador                            | Como administrador de la casa de reposo quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores. | 5 | EP04 |
-| 31 | US29          | Acceso al dashboard MediTrack            | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor. | 3 | EP05 |
-| 32 | US30          | Visualizar signos vitales básicos        | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 3 | EP05 |
-| 33 | US31          | Visualizar signos vitales premium        | Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas. | 2 | EP05 |
-| 34 | US32          | Recibir alertas de caídas                | Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente. | 5 | EP05 |
-| 35 | US33          | Recibir alertas de salud                 | Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor. | 5 | EP06 |
-| 36 | US34          | Acceso a soporte desde el dashboard      | Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente. | 2 | EP04 |
-| 37 | US36          | Recibir alertas críticas de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico. | 5 | EP04 |
-| 38 | US37          | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente. | 3 | EP04 |
-| 39 | US38          | Ver lista de adultos mayores asignados en casa de reposo | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información. | 2 | EP06 |
-| 40 | US39          | Selección de idioma                      | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera. | 2 | EP06 |
-| 41 | US40          | Consultar la hora exacta                 | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta. | 1 | EP03 |
+| Puntos | Nivel de esfuerzo | Características                                                       |
+| ------ | ----------------- | --------------------------------------------------------------------- |
+| **1**  | Muy bajo          | Pantallas estáticas, sin lógica ni backend                            |
+| **2**  | Bajo              | Funcionalidades simples con validaciones básicas                      |
+| **3**  | Medio             | Flujo con interacción con backend o estados                           |
+| **4**  | Alto              | Lógica condicional, comunicación con sensores, o integración de datos |
+| **5**  | Muy alto          | Funcionalidades críticas, tiempo real, seguridad, o gestión compleja  |
+
+---
+
+| Story ID 	| Título 	| Descripción 	| Story Points 	| Epic ID 	|
+|---	|---	|---	|---	|---	|
+| US01 	| Visualización de la Landing Page 	|  Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico 	| 1 	| EP01 	|
+| US02 	| Visualizar Problemas Actuales 	| Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución. 	| 1 	| EP01 	|
+| US03 	| Visualizar Soluciones Propuestas 	| Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional. 	| 1 	| EP01 	|
+| US04 	| Visualizar Impacto en Cifras 	| Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución. 	| 2 	| EP01 	|
+| US05 	| Ver Tecnologías que Salvan Vidas 	| Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad. 	| 1 	| EP01 	|
+| US06 	| Ver Nuestra Misión 	| Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa. 	| 1 	| EP01 	|
+| US07 	| Ver Nuestra Visión 	| Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado. 	| 1 	| EP01 	|
+| US08 	| Consultar Plan Gratuito 	| Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso. 	| 2 	| EP01 	|
+| US09 	| Consultar Plan Premium 	| Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir. 	| 2 	| EP01 	|
+| US10 	| Consultar Plan Enterprise 	| Como visitante, quiero ver el plan Enterprise para soluciones a gran escala. 	| 2 	| EP01 	|
+| US11 	| Acceder al Formulario de Contacto 	| Como visitante, quiero llenar un formulario para recibir más información personalizada. 	| 3 	| EP01 	|
+| US12 	| Información de Contacto Alternativa 	| Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario. 	| 1 	| EP01 	|
+| US13 	| Visualizar Planes Disponibles 	| Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades. 	| 2 	| EP01 	|
+| US14 	| Acceso al formulario de inicio de sesión 	| Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales. 	| 2 	| EP02 	|
+| US15 	| Iniciar Sesión en MediTrack 	| Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente. 	| 3 	| EP02 	|
+| US16 	| Registrarse en MediTrack 	| Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma. 	| 3 	| EP02 	|
+| US17 	| Registro de clínica 	| Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal. 	| 4 	| EP03 	|
+| US18 	| Creación automática del rol de administrador 	| Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel. 	| 4 	| EP03 	|
+| US19 	| Acceso inicial del administrador sin cambio obligatorio 	| Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica. 	| 3 	| EP03 	|
+| US20 	| Registro de adultos mayores 	| Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema 	| 3 	| EP03 	|
+| US21 	| Añadir doctor 	| Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| 4 	| EP03 	|
+| US22 	| Ver lista de adultos mayores asignados en clínica 	| Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado 	| 3 	| EP03 	|
+| US23 	| Visualizar información clínica del  adulto mayor en clínica 	| Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento 	| 4 	| EP03 	|
+| US24 	| Recibir alertas críticas de adultos mayores en clínicas 	| Como administrador de una clínica, quiero recibir alertas sobre cambios críticos en los adultos mayores para actuar a tiempo. 	| 5 	| EP03 	|
+| US25 	| Añadir un adulto mayor junto a sus datos en la clínica 	| Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor 	| 3 	| EP03 	|
+| US26 	| Añadir doctor para asignar adulto mayor en la clínica 	| Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor 	| 3 	| EP03 	|
+| US27 	| Asignar adulto mayor a un doctor en la clínica 	| Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor 	| 4 	| EP03 	|
+| US28 	| Recibir alertas críticas de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico. 	| 5 	| EP04 	|
+| US29 	| Visualizar información clínica de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente. 	| 4 	| EP04 	|
+| US30 	| Ver lista de adultos mayores asignados en casa de reposo 	| Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información. 	| 3 	| EP04 	|
+| US31 	| Añadir un adulto mayor junto a sus datos en la casa de reposo 	| Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador 	| 3 	| EP04 	|
+| US32 	| Añadir cuidador para asignar adulto mayor en la casa de reposo 	| Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor 	| 3 	| EP04 	|
+| US33 	| Asignar adulto mayor a un cuidador en la casa de reposo 	| Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador 	| 4 	| EP04 	|
+| US34 	| Añadir cuidador 	| Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| 4 	| EP04 	|
+| US35 	| Acceso al dashboard MediTrack 	| Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor. 	| 3 	| EP05 	|
+| US36 	| Visualizar signos vitales básicos 	| Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. 	| 4 	| EP05 	|
+| US37 	| Visualizar signos vitales premium 	| Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas 	| 5 	| EP05 	|
+| US38 	| Recibir alertas de caídas 	| Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente. 	| 5 	| EP05 	|
+| US39 	| Recibir alertas de salud 	| Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor. 	| 4 	| EP05 	|
+| US40 	| Adaptar Dashboard según Plan 	| Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción. 	| 4 	| EP06 	|
+| US41 	| Acceso a soporte desde el dashboard 	| Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente. 	| 3 	| EP06 	|
+| US42 	| Selección de idioma 	| Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera. 	| 3 	| EP06 	|
+| US43 	| Consultar la hora exacta 	| Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta. 	| 2 	| EP06 	|
 
 # Capítulo IV: Product Design
 
