@@ -79,9 +79,27 @@
 
 # Project Report Collaboration Insights
 
-Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+- Barrientos Quispe, Marcelo
+- Cuba Pareja, Joaquin Antonio
+- Rioja Nuñez, Franco Diego
+- Beingolea Montalvo, Sebastian Martin
+- Rivera Ayala, Gabriel Alejandro
+
+Url del repositorio: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+
+TB1:
+
+Team Collaboration Commits
 
 <img src="assets/chapter1/repo-commits.png" alt="Team Collaboration commits" width="100%">
+
+Team Collaboration Network
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
 
 # Contenido
 
@@ -196,8 +214,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/>                                                                     | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios <br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br>Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br/>                                                                                                                       |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Beingolea Montalvo, Sebastian Martin** <br> **TB1** <br> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                       | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Beingolea Montalvo, Sebastian Martin** <br> **TB1** <br> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br>Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                        |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos<br><br>**TP**<br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq e me permite dar un producto muhco mejor para los usuarios.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
 
 # Capítulo I: Introducción
 
@@ -219,41 +237,53 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                            | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sebastian](/assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
-| ![gabriel](/assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
-| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
-| ![Diego.jpeg](assets/chapter1/Diego.jpeg)                                       | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
-| ![marcelo](/assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
+| Foto                                                                             | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sebastian](./assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
+| ![gabriel](./assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![joaquin](./assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
+| ![Diego.jpeg](./assets/chapter1/Diego.jpeg)                                      | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
+| ![marcelo](./assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
 
 ## 1.2. Solution Profile
 
+El **Solution Profile** presenta una descripción general de la solución propuesta, abordando el contexto, los problemas detectados y las suposiciones estratégicas que guían el desarrollo del producto. Esta sección busca conectar los hallazgos obtenidos en la fase de descubrimiento con una propuesta clara de valor, estableciendo las bases para el diseño, validación y desarrollo de la solución.
+
 ### 1.2.1. Antecedentes y problemática
+
+En esta sección se analiza el contexto en el que surge la problemática principal, considerando los factores sociales, tecnológicos y emocionales que la rodean. A través de la **técnica de las 5 ‘W’s y 2 ‘H’s**, se busca responder de forma estructurada a las preguntas clave sobre el qué, quién, cuándo, dónde, por qué, cómo y cuánto, con el fin de comprender de manera integral la situación actual y justificar la pertinencia de la solución propuesta.
 
 **Técnica de The 5 'W's y 2 'H's**
 
 **What(Qué)?** <br>
 ¿Cuál es el problema?
 
-El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la OPS (Organización Panamericana de la Salud, s. f.), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS, s. f.), para el año 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, gran parte de esta población enfrenta limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado.
+
+Actualmente, muchos dispositivos de monitoreo existentes requieren habilidades tecnológicas que los adultos mayores no poseen, lo que genera una brecha digital en el cuidado geriátrico, reduciendo la calidad de atención y aumentando el riesgo de emergencias médicas no atendidas a tiempo.
 
 **When(Cuando)?** <br>
 ¿Cuándo sucede el problema?
 
-El problema ocurre de manera constante y se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo continuo es diaria, especialmente en pacientes con afecciones como hipertensión, diabetes o problemas cardíacos. Asimismo, las complicaciones suelen presentarse de manera inesperada, lo que exige soluciones que brinden información en tiempo real a familiares y profesionales de la salud.
+El problema ocurre de manera constante, pero se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo es diaria y continua, especialmente en pacientes con hipertensión, diabetes o afecciones cardíacas.
+
+En situaciones cotidianas, como cuando los adultos mayores están solos en casa o durante la noche, las caídas o variaciones en los signos vitales pueden pasar desapercibidas, impidiendo una intervención médica oportuna y elevando el riesgo de complicaciones graves.
 
 **Where(Dónde)?** <br>
 ¿Dónde surge el problema?
 
-Este problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en aumento y los sistemas de salud están sobrecargados. Según el INEI (2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década. En las ciudades, los adultos mayores suelen vivir solos o en casas de reposo, lo que aumenta la necesidad de monitoreo remoto. En áreas rurales, la falta de infraestructura médica y especialistas agrava aún más la situación, ya que dificulta el acceso a controles periódicos.
+El problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en crecimiento y los sistemas de salud se encuentran sobrecargados. Según el Instituto Nacional de Estadística e Informática (INEI, 2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década.
+
+En las ciudades, muchos adultos mayores viven solos o en casas de reposo, lo que incrementa la necesidad de monitoreo remoto y continuo. En áreas rurales, la falta de infraestructura médica y especialistas agrava el problema, ya que limita el acceso a controles periódicos y servicios de salud adecuados.
+
+En conjunto, tanto los entornos urbanos como rurales enfrentan limitaciones en la atención geriátrica continua, reforzando la necesidad de soluciones tecnológicas locales, accesibles y adaptadas al contexto peruano.
 
 **Who(Quién)?** <br>
 ¿Quiénes son los afectados?
 
 Los principales afectados son:
 
-- **Adultos mayores** que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
+- **Adultos mayores**, que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
 
 - **Familiares y allegados**, quienes muchas veces cargan con la responsabilidad de vigilar el bienestar del paciente sin contar con información precisa oportuna.
 
@@ -264,33 +294,33 @@ Los principales afectados son:
 **Why(Por qué)?** <br>
 ¿Cuál es la causa del problema?
 
-- **Falta de monitoreo continuo y accesible:** La mayoría de los sistemas de salud en el Perú se enfocan en la atención reactiva y no en la prevención o seguimiento en tiempo real.
+- **Falta de monitoreo continuo y accesible:** Los sistemas de salud en el Perú están centrados en la atención reactiva, sin priorizar la prevención ni el seguimiento remoto.
 
-- **Limitaciones tecnológicas en adultos mayores:** Según la encuesta ENAHO (INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
+- **Limitaciones tecnológicas en adultos mayores:** Según la Encuesta Nacional de Hogares (ENAHO, INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
 
-- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles periódicos.
+- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles regulares.
 
-- **Escasez de herramientas locales adaptadas:** Existen wearables y parches inteligentes en el mercado, pero la mayoría está diseñada para mercados extranjeros y no se ajusta a la realidad socioeconómica ni cultural peruana.
+- **Escasez de herramientas locales adaptadas:** La mayoría de los wearables disponibles están diseñados para mercados extranjeros y no se ajustan al contexto socioeconómico ni cultural peruano.
 
-- **Dependencia de familiares y cuidadores:** Al no contar con sistemas confiables de alerta temprana, los familiares deben asumir una vigilancia constante que impacta en su calidad de vida y genera altos niveles de estrés.
+- **Dependencia de familiares y cuidadores:** La falta de sistemas confiables de alerta temprana obliga a los familiares a asumir una vigilancia constante, generando altos niveles de estrés y agotamiento emocional.
 
 **How(Cómo)?** <br>
 ¿Cómo se utilizará el producto?
 
-MediTrack se utilizará como un sistema integral compuesto por un parche inteligente y un dashboard de monitoreo:
+Para responder a esta necesidad, MediTrack propone un sistema integral de monitoreo geriátrico compuesto por un parche inteligente y un dashboard digital que facilita el acceso a información médica en tiempo real.
 
-- **Para los pacientes geriátricos:** el uso es mínimo, ya que solo deben portar el parche, el cual registra parámetros vitales de manera automática y sin necesidad de conocimientos tecnológicos.
+- **Para los pacientes geriátricos:** Solo deben portar el parche inteligente, el cual registra automáticamente sus signos vitales sin necesidad de conocimientos tecnológicos.
 
-- **Para los familiares:** accederán a un dashboard sencillo donde podrán visualizar en tiempo real la información de salud del paciente, recibir alertas y notificaciones ante posibles anomalías.
+- **Para los familiares:** Accederán a una plataforma intuitiva donde podrán visualizar la salud del paciente en tiempo real, recibir notificaciones de alerta y acceder al historial médico.
 
-- **Para clínicas y casas de reposo:** el sistema permitirá supervisar múltiples pacientes al mismo tiempo, generar reportes médicos y facilitar la toma de decisiones clínicas basadas en datos objetivos.
+- **Para clínicas y casas de reposo:** Podrán supervisar simultáneamente múltiples pacientes, generar reportes médicos automatizados y tomar decisiones basadas en datos objetivos.
 
-De esta manera, MediTrack no solo mejora la calidad de vida de los adultos mayores, sino que también reduce la carga emocional y logística de quienes los rodean, mientras fortalece la capacidad de respuesta del sector salud.
+Este sistema busca mejorar la calidad de vida del adulto mayor, reducir la carga emocional de los familiares y optimizar la gestión institucional del cuidado geriátrico. Su enfoque accesible y adaptado al contexto peruano diferencia a MediTrack de otras soluciones internacionales más costosas y complejas.
 
 **How much(Cuánto)?** <br>
 ¿Cuánto costará implementar la solución?
 
-La implementación de MediTrack requiere una inversión inicial destinada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso estratégico hacia la modernización del cuidado geriátrico en el Perú, ya que permite ofrecer una solución local, accesible y escalable en comparación con dispositivos importados de alto costo.
+La implementación de MediTrack requiere una inversión inicial orientada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso clave hacia la modernización del cuidado geriátrico en el Perú, ofreciendo una alternativa local, accesible y escalable frente a dispositivos importados de alto costo.
 
 **Presupuesto estimado:**
 
@@ -326,13 +356,14 @@ El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el
 
 #### 1.2.2.1. Lean UX Problem Statement.
 
-El propósito de MediTrack es transformar el cuidado geriátrico al ofrecer una solución tecnológica integral que permita a pacientes, familias y centros de salud monitorear la salud de los adultos mayores de forma remota, segura y eficiente. Nuestro objetivo es garantizar un cuidado preventivo y personalizado, mejorando la calidad de vida y la tranquilidad de todos los involucrados.
+El propósito de MediTrack es ofrecer una solución digital integral que permita monitorear en tiempo real los signos vitales y la movilidad de los adultos mayores mediante dispositivos portátiles (wearables). Nuestra meta es proporcionar tranquilidad a las familias y eficiencia al personal médico, facilitando la toma de decisiones preventivas y mejorando la calidad de vida del paciente geriátrico.
 
-El problema se presenta cuando los pacientes geriátricos, sus familias y las instituciones de salud enfrentan desafíos significativos en el monitoreo constante de la salud del adulto mayor. Los familiares se preocupan por la falta de información en tiempo real, mientras que las clínicas y casas de reposo luchan por gestionar a múltiples residentes de manera eficiente sin herramientas modernas. La falta de datos históricos y el acceso limitado a la información clave en tiempo real impiden la prevención temprana de complicaciones médicas.
+El problema surge cuando familiares y cuidadores se enfrentan a la falta de información inmediata sobre el estado de salud de los adultos mayores, especialmente ante situaciones críticas como caídas o cambios súbitos en sus signos vitales. Actualmente, las plataformas de monitoreo existentes son fragmentadas, costosas o no se adaptan al entorno geriátrico local, dificultando su implementación en clínicas, casas de reposo o entornos domésticos.
 
-Hemos observado que esta situación genera incertidumbre y estrés en las familias, un manejo ineficiente de pacientes en las instituciones de salud y un aumento en los riesgos por falta de monitoreo continuo. La ausencia de una solución que integre métricas de salud con información de movilidad, y que sea accesible y escalable para diferentes entornos (hogares, clínicas, casas de reposo), limita la capacidad de brindar un cuidado de alta calidad, preventivo y proactivo.
+Hemos observado que esta situación genera preocupación constante en los familiares, sobrecarga laboral en los cuidadores y retrasos en la atención médica preventiva, lo que deriva en una menor calidad de vida para el adulto mayor.
+La ausencia de una solución accesible, escalable y de fácil uso crea una brecha entre la necesidad de monitoreo continuo y las herramientas tecnológicas disponibles actualmente.
 
-Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos crear una solución de monitoreo digital que brinde seguridad y eficiencia en el cuidado de los adultos mayores, integrando la gestión de datos de salud en tiempo real con herramientas intuitivas y accesibles para pacientes, familias e instituciones de salud?
+Ante esta problemática, surge la siguiente pregunta: **¿Cómo podríamos ofrecer una solución tecnológica accesible y confiable que permita monitorear la salud y el bienestar de los adultos mayores en tiempo real, brindando tranquilidad a sus familias y eficiencia al personal médico?**
 
 **Domain:** Salud digital, cuidado geriátrico, tecnología portátil (wearables).
 
@@ -357,106 +388,165 @@ Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos cr
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-Business Assumptions
+Los siguientes supuestos representan las creencias iniciales sobre el modelo de negocio, el mercado y la viabilidad del producto MediTrack.
 
-1. Creemos que los usuarios tienen la necesidad de monitorear de forma continua y precisa la salud de los adultos mayores, ya sea para un familiar o para un grupo de pacientes en una institución.
+**Business Assumptions**
 
-2. Esta necesidad se puede satisfacer con una solución digital integral que combine un dispositivo portátil (parches inteligentes) con una plataforma visual (dashboard web y app móvil) que muestre datos en tiempo real.
+Estas Business Assumptions servirán como base para formular los Feature Assumptions e Hypothesis Statements, permitiendo validar los elementos críticos del modelo durante las iteraciones del proceso Lean UX.
 
-3. Nuestros clientes iniciales serán familias con adultos mayores en casa que busquen tranquilidad y seguridad en el cuidado, y clínicas o casas de reposo pequeñas que necesiten una herramienta para optimizar la gestión de sus residentes.
+1. Creemos que los usuarios necesitan monitorear de forma continua la salud de los adultos mayores para reducir los riesgos médicos y la carga emocional familiar.
 
-4. El valor más importante que un cliente quiere de nuestros servicios es la tranquilidad y la seguridad de saber que la salud del adulto mayor está siendo monitoreada, lo que permite la prevención de riesgos y la atención oportuna.
+2. Creemos que una solución digital que combine parches inteligentes con un dashboard accesible puede satisfacer esta necesidad y mejorar la prevención médica.
 
-5. El cliente también obtendrá información en tiempo real, acceso a un historial de salud para consultas médicas, alertas automáticas y una gestión más eficiente de múltiples pacientes en el caso de las instituciones.
+3. Creemos que nuestros clientes iniciales serán familias y pequeñas instituciones geriátricas en Lima Metropolitana que busquen seguridad y eficiencia en el cuidado.
 
-6. Vamos a obtener la mayoría de los clientes mediante canales digitales (Google Ads, Facebook/Instagram Ads), alianzas con clínicas y centros de salud especializados en geriatría, y marketing de contenidos enfocado en el cuidado del adulto mayor.
+4. Creemos que el valor más importante que buscan nuestros clientes es la **tranquilidad** de tener información en tiempo real sobre la salud de sus seres queridos.
 
-7. Vamos a obtener ingresos a través de un modelo Freemium para usuarios B2C (pacientes y familias) y un modelo de suscripción Enterprise para clientes B2B (clínicas y casas de reposo).
+5. Creemos que nuestro modelo **Freemium + Suscripción Enterprise** nos permitirá escalar en ambos segmentos (B2C y B2B) sin depender de un único flujo de ingresos.
 
-8. Nuestra competencia en el mercado serán soluciones de monitoreo médico más tradicionales o dispositivos wearables que no ofrecen una integración completa de signos vitales y movilidad, o que no están diseñados específicamente para el cuidado geriátrico.
+6. Creemos que nuestra ventaja competitiva radica en integrar métricas de salud y movilidad en una sola plataforma, algo que la competencia actual no ofrece.
 
-9. Vamos a tener una ventaja competitiva al ser la única solución que integra un mapa visual de movilidad con métricas de salud y un modelo de negocio flexible que se adapta a distintos segmentos, desde el cuidado individual en casa hasta la gestión institucional.
+7. Creemos que podremos reducir las llamadas de emergencia y consultas médicas presenciales al proporcionar monitoreo remoto confiable.
 
-10. El mayor riesgo del servicio es la resistencia de los usuarios a la tecnología o la falta de confianza en la precisión de los datos del dispositivo.
+8. Reconocemos que el mayor riesgo es la desconfianza tecnológica; lo mitigaremos con pilotos gratuitos, certificaciones médicas y testimonios de usuarios reales.
 
-11. Lo resolveremos con pruebas piloto gratuitas, demostraciones claras del producto, testimonios de clientes satisfechos y certificaciones que validan la precisión de nuestros parches inteligentes.
+9. Creemos que la relación costo–beneficio de MediTrack será más accesible que las soluciones importadas equivalentes.
 
-12. Otro riesgo que debemos considerar es el costo de los parches y la logística para el reemplazo, lo que podría desincentivar a los usuarios B2C. Lo resolveremos con un modelo de suscripción que incluya el reemplazo y descuentos por volumen.
+**User Assumptions**
 
-User Assumptions
+En esta etapa del Lean UX Process, se identificaron los principales supuestos sobre los usuarios, sus necesidades y el contexto de uso del producto. Estos Assumptions representan las creencias iniciales del equipo antes de realizar pruebas o validaciones.
 
-¿Quién es el usuario?
+**¿Quién es el usuario?**
 
-- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
-- Clínicas y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
+- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar.
 
-¿Dónde encaja nuestro producto en su vida?
+- Clínicas y casas de reposo: Personal médico, cuidadores y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea.
 
-- Para los allegados: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
-- Para las clínicas y casas de reposo: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
+**¿Dónde encaja nuestro producto en su vida?**
 
-¿Qué problemas resuelve nuestro producto?
+- Para los allegados: Se integra en su rutina diaria como una capa de seguridad y tranquilidad.
+
+- Para las clínicas y casas de reposo: Se convierte en una herramienta central de gestión y monitoreo.
+
+**¿Qué problemas resuelve nuestro producto?**
 
 - Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
+
 - Falta de monitoreo continuo: La solución permite un seguimiento constante de signos vitales y movilidad, incluso a distancia.
+
 - Ineficiencia en la gestión: Las instituciones pueden monitorear a múltiples residentes de forma simultánea, recibiendo alertas automáticas que les permiten reaccionar rápidamente ante emergencias.
+
 - Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
 
-¿Cuándo y cómo se usa nuestro producto?
+**¿Cuándo y cómo se usa nuestro producto?**
 
 - Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
+
 - Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
 
-¿Qué características son importantes?
+**¿Qué características son importantes?**
 
 - Alertas en tiempo real: Por caídas, cambios bruscos en signos vitales o anomalías en el patrón de movilidad.
 - Dashboard visual: Una interfaz clara con gráficos y un mapa de movilidad.
 - Historial de datos: La capacidad de ver métricas de salud a lo largo del tiempo.
 - Reportes descargables: Para consultas médicas o comunicación con familiares.
-- Notificaciones personalizables: Permite a los usuarios elegir qué tipo de alertas quieren recibir.
 
-¿Cómo debería lucir y comportarse el producto?
+**¿Cómo debería lucir y comportarse el producto?**
 Debe ser intuitivo, sencillo y confiable. Los colores deben ser calmados (sin alarmar al usuario con rojo o naranjas, a menos que sea una alerta crítica), con una tipografía clara y botones grandes. El comportamiento debe ser rápido y responsivo, sin retrasos en la entrega de datos, y debe inspirar confianza y seguridad en el usuario.
 
-Feature Assumptions
+### Feature Assumptions
 
-Creemos que la plataforma debe contar con un dashboard visual y amigable que permita a los familiares y al personal de las instituciones monitorear los datos de salud de los adultos mayores de forma clara y sin necesidad de conocimientos médicos avanzados.
+En esta sección se detallan los supuestos relacionados con las características funcionales del producto. Cada **Feature Assumption** busca conectar las necesidades de los usuarios con las posibles soluciones de diseño, anticipando el impacto esperado en la experiencia y el comportamiento del usuario. Estas suposiciones servirán de base para la formulación de hipótesis y posteriores validaciones durante el proceso de desarrollo del producto.
 
-Creemos que la aplicación debe proporcionar notificaciones automáticas y personalizables que alertarán a los usuarios sobre anomalías en los signos vitales, caídas o cambios inesperados en los patrones de movilidad. Esto es crucial para garantizar una respuesta rápida ante cualquier emergencia.
 
-Creemos que la aplicación debe contar con un historial de salud detallado donde se almacenen los datos de monitoreo a largo plazo. Esto permitirá a los médicos y familiares identificar tendencias, evaluar la efectividad de tratamientos y tener información valiosa para las consultas médicas.
+1. Creemos que un **dashboard visual y amigable** permitirá a familiares y personal médico interpretar fácilmente la salud de los adultos mayores sin conocimientos técnicos.  
+   aumentar en un 80% la comprensión de los datos de salud reportada por los usuarios.\*
 
-Creemos que la aplicación debe ofrecer una sección de reportes descargables para que las familias o instituciones puedan compartir fácilmente la información de salud con profesionales médicos o tener un registro físico del progreso del paciente.
+2. Creemos que las **notificaciones automáticas y personalizables** mejorarán la respuesta ante emergencias.
 
-Creemos que la aplicación debe permitir la gestión de múltiples pacientes de forma sencilla para las instituciones. Esto incluye la posibilidad de ver un resumen del estado de todos los residentes en un solo panel y acceder rápidamente a los detalles de cada uno.
+3. Creemos que un **historial de datos accesible** fomentará la prevención y seguimiento médico continuo.
+
+4. Creemos que los **reportes descargables** aumentarán la comunicación efectiva entre familiares y médicos.
+
+5. Creemos que el **monitoreo de múltiples pacientes** en un solo panel mejorará la eficiencia de las instituciones.
+
+### User Outcome Assumptions
+
+- Aumento de la conexión emocional y la tranquilidad de los familiares (debido a la fácil comprensión del estado de salud).
+
+- Mejora en la capacidad de respuesta del personal de cuidado ante emergencias.
+
+- Uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+- Aumento del valor percibido de la plataforma entre los clientes B2B.
+
+- Mejora de la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+### Business Outcome Assumptions
+
+- Reducción del 70% en las llamadas de consulta rutinarias 
+
+- Reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos
+
+- Al menos el 60% de los usuarios activos consulta el historial de datos o reportes médicos al menos una vez al mes
+
+- Al menos el 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en la satisfacción laboral
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Hypothesis Statement 01
-**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
-**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
+Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el *business outcome*, el *user outcome* y la *feature* correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
 
-Hypothesis Statement 02
-**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
-**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
+- Hypothesis Statement 1:
 
-Hypothesis Statement 03
-**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
-**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+**Creemos que** el dashboard visual e intuitivo aumentará la conexión emocional y la tranquilidad de los familiares al permitirles comprender fácilmente el estado de salud de sus seres queridos.
 
-Hypothesis Statement 04
-**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
-**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+**Sabremos que hemos tenido éxito**
 
-Hypothesis Statement 05
-**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
-**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
+**Cuando** al menos un 85% de los familiares reporten una alta sensación de tranquilidad y las llamadas de consulta rutinarias se reduzcan en un 70%.
+
+- Hypothesis Statement 2:
+
+**Creemos que** las notificaciones automáticas y personalizables sobre anomalías o caídas mejorarán la capacidad de respuesta del personal de cuidado ante emergencias.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** logremos una reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos registrados.
+
+- Hypothesis Statement 3:
+
+**Creemos que** ofrecer un registro detallado de salud y movilidad fomentará el uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** al menos un 60% de los usuarios activos consulten el historial de datos o reportes médicos al menos una vez al mes.
+
+- Hypothesis Statement 4:
+
+**Creemos que** la capacidad de generar y compartir reportes digitales de manera sencilla aumentará el valor percibido de la plataforma entre los clientes B2B.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** al menos un 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Hypothesis Statement 5:
+
+**Creemos que** la visualización de múltiples pacientes en un solo dashboard centralizado mejorará la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** el personal experimente una reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en su satisfacción laboral.
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="assets/chapter1/leanuxcanvas.svg" alt="Lean UX Canvas" width="100%">
+El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimiento, los Assumptions y las Hypothesis Statements. Su propósito es proporcionar una visión integral y colaborativa del proyecto, ayudando al equipo a alinear la estrategia de producto, los objetivos de negocio y las métricas de validación. Este canvas se convierte en una herramienta esencial para guiar el aprendizaje continuo y priorizar las decisiones de diseño con base en evidencia.
+
+<img src="assets/chapter1/leanuxcanvas.png" alt="Lean UX Canvas" width="100%">
 
 ## 1.3. Segmentos objetivo
+
+En esta sección se identifican y describen los **segmentos de usuarios** hacia los cuales se dirige la solución. A partir del análisis de necesidades, motivaciones y comportamientos, se definen los perfiles clave que se beneficiarán del producto. Estos segmentos servirán de referencia para la personalización de las funcionalidades, el diseño de la experiencia de usuario y las estrategias de comunicación dentro del desarrollo de MediTrack.
 
 - **Allegados de pacientes geriátricos**
 
@@ -510,7 +600,7 @@ Cuidadores y personal administrativo de residencias geriátricas que tienen a su
 
 **Características demográficas y comportamiento:**
 
-- Profesionales o técnicos en enfermería y cuidado de adultos mayores, entre 25 y 50 años.
+- Profesionales y cuidadores de adultos mayores, entre 25 y 50 años.
 
 - Manejan simultáneamente la atención de 10 a 30 residentes por turno, lo que dificulta el seguimiento individualizado.
 
