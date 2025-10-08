@@ -1914,7 +1914,7 @@ preferencia y se registra en la plataforma.
 
 User persona: Clinica y Casa de reposo
 Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
-con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+con la plataforma e ingresa sus credenciales para poder identificarse como administrador.
 
 <img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
