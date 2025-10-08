@@ -79,11 +79,29 @@
 
 # Project Report Collaboration Insights
 
-Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+- Barrientos Quispe, Marcelo
+- Cuba Pareja, Joaquin Antonio
+- Rioja Nuñez, Franco Diego
+- Beingolea Montalvo, Sebastian Martin
+- Rivera Ayala, Gabriel Alejandro
+
+Url del repositorio: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report)
+
+TB1:
+
+Team Collaboration Commits
 
 https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report
 
 <img src="assets/chapter1/repo-commits.png" alt="Team Collaboration commits" width="100%">
+
+Team Collaboration Network
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
 
 # Contenido
 
@@ -155,6 +173,7 @@ https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -175,11 +194,13 @@ https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -195,8 +216,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/>                                                                     | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios <br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br>Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br/>                                                                                                                       |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Beingolea Montalvo, Sebastian Martin** <br> **TB1** <br> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                       | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Beingolea Montalvo, Sebastian Martin** <br> **TB1** <br> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br>Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                        |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos<br><br>**TP**<br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Rioja Nuñez, Franco Diego**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq e me permite dar un producto muhco mejor para los usuarios.<br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Beingolea Montalvo, Sebastian Martin** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
 
 # Capítulo I: Introducción
 
@@ -218,41 +239,53 @@ La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digit
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                            | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Foto                                                                             | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![sebastian](./assets/chapter1/sebastian.jpg "Sebastian Montalvo Profile Image") | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico, tengo conocimientos de python basico como de c++ tambien soy autodidacta ya que aprendo lenguajes de programacion por mi cuenta.                                                                                                                                                                                        |
 | ![gabriel](./assets/chapter1/Gabriel.jpg)                                        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
 | ![joaquin](./assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image")           | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Conocimientos en desarrollo web y CLI. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo.                                           |
-| ![Diego.jpeg](./assets/chapter1/Diego.jpeg)                                       | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
+| ![Diego.jpeg](./assets/chapter1/Diego.jpeg)                                      | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
 | ![marcelo](./assets/chapter1/marcelo.png)                                        | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
 
 ## 1.2. Solution Profile
 
+El **Solution Profile** presenta una descripción general de la solución propuesta, abordando el contexto, los problemas detectados y las suposiciones estratégicas que guían el desarrollo del producto. Esta sección busca conectar los hallazgos obtenidos en la fase de descubrimiento con una propuesta clara de valor, estableciendo las bases para el diseño, validación y desarrollo de la solución.
+
 ### 1.2.1. Antecedentes y problemática
+
+En esta sección se analiza el contexto en el que surge la problemática principal, considerando los factores sociales, tecnológicos y emocionales que la rodean. A través de la **técnica de las 5 ‘W’s y 2 ‘H’s**, se busca responder de forma estructurada a las preguntas clave sobre el qué, quién, cuándo, dónde, por qué, cómo y cuánto, con el fin de comprender de manera integral la situación actual y justificar la pertinencia de la solución propuesta.
 
 **Técnica de The 5 'W's y 2 'H's**
 
 **What(Qué)?** <br>
 ¿Cuál es el problema?
 
-El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la OPS (Organización Panamericana de la Salud, s. f.), para 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, muchos de ellos enfrentan limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado. Actualmente, los dispositivos de monitoreo tradicionales requieren habilidades tecnológicas que muchos adultos mayores no poseen, lo que genera una brecha en la calidad de atención y aumenta el riesgo de emergencias no atendidas a tiempo.
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS, s. f.), para el año 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, gran parte de esta población enfrenta limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado.
+
+Actualmente, muchos dispositivos de monitoreo existentes requieren habilidades tecnológicas que los adultos mayores no poseen, lo que genera una brecha digital en el cuidado geriátrico, reduciendo la calidad de atención y aumentando el riesgo de emergencias médicas no atendidas a tiempo.
 
 **When(Cuando)?** <br>
 ¿Cuándo sucede el problema?
 
-El problema ocurre de manera constante y se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo continuo es diaria, especialmente en pacientes con afecciones como hipertensión, diabetes o problemas cardíacos. Asimismo, las complicaciones suelen presentarse de manera inesperada, lo que exige soluciones que brinden información en tiempo real a familiares y profesionales de la salud.
+El problema ocurre de manera constante, pero se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo es diaria y continua, especialmente en pacientes con hipertensión, diabetes o afecciones cardíacas.
+
+En situaciones cotidianas, como cuando los adultos mayores están solos en casa o durante la noche, las caídas o variaciones en los signos vitales pueden pasar desapercibidas, impidiendo una intervención médica oportuna y elevando el riesgo de complicaciones graves.
 
 **Where(Dónde)?** <br>
 ¿Dónde surge el problema?
 
-Este problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en aumento y los sistemas de salud están sobrecargados. Según el INEI (2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década. En las ciudades, los adultos mayores suelen vivir solos o en casas de reposo, lo que aumenta la necesidad de monitoreo remoto. En áreas rurales, la falta de infraestructura médica y especialistas agrava aún más la situación, ya que dificulta el acceso a controles periódicos.
+El problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en crecimiento y los sistemas de salud se encuentran sobrecargados. Según el Instituto Nacional de Estadística e Informática (INEI, 2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década.
+
+En las ciudades, muchos adultos mayores viven solos o en casas de reposo, lo que incrementa la necesidad de monitoreo remoto y continuo. En áreas rurales, la falta de infraestructura médica y especialistas agrava el problema, ya que limita el acceso a controles periódicos y servicios de salud adecuados.
+
+En conjunto, tanto los entornos urbanos como rurales enfrentan limitaciones en la atención geriátrica continua, reforzando la necesidad de soluciones tecnológicas locales, accesibles y adaptadas al contexto peruano.
 
 **Who(Quién)?** <br>
 ¿Quiénes son los afectados?
 
 Los principales afectados son:
 
-- **Adultos mayores** que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
+- **Adultos mayores**, que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
 
 - **Familiares y allegados**, quienes muchas veces cargan con la responsabilidad de vigilar el bienestar del paciente sin contar con información precisa oportuna.
 
@@ -263,33 +296,33 @@ Los principales afectados son:
 **Why(Por qué)?** <br>
 ¿Cuál es la causa del problema?
 
-- **Falta de monitoreo continuo y accesible:** La mayoría de los sistemas de salud en el Perú se enfocan en la atención reactiva y no en la prevención o seguimiento en tiempo real.
+- **Falta de monitoreo continuo y accesible:** Los sistemas de salud en el Perú están centrados en la atención reactiva, sin priorizar la prevención ni el seguimiento remoto.
 
-- **Limitaciones tecnológicas en adultos mayores:** Según la encuesta ENAHO (INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
+- **Limitaciones tecnológicas en adultos mayores:** Según la Encuesta Nacional de Hogares (ENAHO, INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
 
-- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles periódicos.
+- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles regulares.
 
-- **Escasez de herramientas locales adaptadas:** Existen wearables y parches inteligentes en el mercado, pero la mayoría está diseñada para mercados extranjeros y no se ajusta a la realidad socioeconómica ni cultural peruana.
+- **Escasez de herramientas locales adaptadas:** La mayoría de los wearables disponibles están diseñados para mercados extranjeros y no se ajustan al contexto socioeconómico ni cultural peruano.
 
-- **Dependencia de familiares y cuidadores:** Al no contar con sistemas confiables de alerta temprana, los familiares deben asumir una vigilancia constante que impacta en su calidad de vida y genera altos niveles de estrés.
+- **Dependencia de familiares y cuidadores:** La falta de sistemas confiables de alerta temprana obliga a los familiares a asumir una vigilancia constante, generando altos niveles de estrés y agotamiento emocional.
 
 **How(Cómo)?** <br>
 ¿Cómo se utilizará el producto?
 
-MediTrack se utilizará como un sistema integral compuesto por un parche inteligente y un dashboard de monitoreo:
+Para responder a esta necesidad, MediTrack propone un sistema integral de monitoreo geriátrico compuesto por un parche inteligente y un dashboard digital que facilita el acceso a información médica en tiempo real.
 
-- **Para los pacientes geriátricos:** el uso es mínimo, ya que solo deben portar el parche, el cual registra parámetros vitales de manera automática y sin necesidad de conocimientos tecnológicos.
+- **Para los pacientes geriátricos:** Solo deben portar el parche inteligente, el cual registra automáticamente sus signos vitales sin necesidad de conocimientos tecnológicos.
 
-- **Para los familiares:** accederán a un dashboard sencillo donde podrán visualizar en tiempo real la información de salud del paciente, recibir alertas y notificaciones ante posibles anomalías.
+- **Para los familiares:** Accederán a una plataforma intuitiva donde podrán visualizar la salud del paciente en tiempo real, recibir notificaciones de alerta y acceder al historial médico.
 
-- **Para clínicas y casas de reposo:** el sistema permitirá supervisar múltiples pacientes al mismo tiempo, generar reportes médicos y facilitar la toma de decisiones clínicas basadas en datos objetivos.
+- **Para clínicas y casas de reposo:** Podrán supervisar simultáneamente múltiples pacientes, generar reportes médicos automatizados y tomar decisiones basadas en datos objetivos.
 
-De esta manera, MediTrack no solo mejora la calidad de vida de los adultos mayores, sino que también reduce la carga emocional y logística de quienes los rodean, mientras fortalece la capacidad de respuesta del sector salud.
+Este sistema busca mejorar la calidad de vida del adulto mayor, reducir la carga emocional de los familiares y optimizar la gestión institucional del cuidado geriátrico. Su enfoque accesible y adaptado al contexto peruano diferencia a MediTrack de otras soluciones internacionales más costosas y complejas.
 
 **How much(Cuánto)?** <br>
 ¿Cuánto costará implementar la solución?
 
-La implementación de MediTrack requiere una inversión inicial destinada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso estratégico hacia la modernización del cuidado geriátrico en el Perú, ya que permite ofrecer una solución local, accesible y escalable en comparación con dispositivos importados de alto costo.
+La implementación de MediTrack requiere una inversión inicial orientada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso clave hacia la modernización del cuidado geriátrico en el Perú, ofreciendo una alternativa local, accesible y escalable frente a dispositivos importados de alto costo.
 
 **Presupuesto estimado:**
 
@@ -325,13 +358,14 @@ El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el
 
 #### 1.2.2.1. Lean UX Problem Statement.
 
-El propósito de MediTrack es transformar el cuidado geriátrico al ofrecer una solución tecnológica integral que permita a pacientes, familias y centros de salud monitorear la salud de los adultos mayores de forma remota, segura y eficiente. Nuestro objetivo es garantizar un cuidado preventivo y personalizado, mejorando la calidad de vida y la tranquilidad de todos los involucrados.
+El propósito de MediTrack es ofrecer una solución digital integral que permita monitorear en tiempo real los signos vitales y la movilidad de los adultos mayores mediante dispositivos portátiles (wearables). Nuestra meta es proporcionar tranquilidad a las familias y eficiencia al personal médico, facilitando la toma de decisiones preventivas y mejorando la calidad de vida del paciente geriátrico.
 
-El problema se presenta cuando los pacientes geriátricos, sus familias y las instituciones de salud enfrentan desafíos significativos en el monitoreo constante de la salud del adulto mayor. Los familiares se preocupan por la falta de información en tiempo real, mientras que las clínicas y casas de reposo luchan por gestionar a múltiples residentes de manera eficiente sin herramientas modernas. La falta de datos históricos y el acceso limitado a la información clave en tiempo real impiden la prevención temprana de complicaciones médicas.
+El problema surge cuando familiares y cuidadores se enfrentan a la falta de información inmediata sobre el estado de salud de los adultos mayores, especialmente ante situaciones críticas como caídas o cambios súbitos en sus signos vitales. Actualmente, las plataformas de monitoreo existentes son fragmentadas, costosas o no se adaptan al entorno geriátrico local, dificultando su implementación en clínicas, casas de reposo o entornos domésticos.
 
-Hemos observado que esta situación genera incertidumbre y estrés en las familias, un manejo ineficiente de pacientes en las instituciones de salud y un aumento en los riesgos por falta de monitoreo continuo. La ausencia de una solución que integre métricas de salud con información de movilidad, y que sea accesible y escalable para diferentes entornos (hogares, clínicas, casas de reposo), limita la capacidad de brindar un cuidado de alta calidad, preventivo y proactivo.
+Hemos observado que esta situación genera preocupación constante en los familiares, sobrecarga laboral en los cuidadores y retrasos en la atención médica preventiva, lo que deriva en una menor calidad de vida para el adulto mayor.
+La ausencia de una solución accesible, escalable y de fácil uso crea una brecha entre la necesidad de monitoreo continuo y las herramientas tecnológicas disponibles actualmente.
 
-Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos crear una solución de monitoreo digital que brinde seguridad y eficiencia en el cuidado de los adultos mayores, integrando la gestión de datos de salud en tiempo real con herramientas intuitivas y accesibles para pacientes, familias e instituciones de salud?
+Ante esta problemática, surge la siguiente pregunta: **¿Cómo podríamos ofrecer una solución tecnológica accesible y confiable que permita monitorear la salud y el bienestar de los adultos mayores en tiempo real, brindando tranquilidad a sus familias y eficiencia al personal médico?**
 
 **Domain:** Salud digital, cuidado geriátrico, tecnología portátil (wearables).
 
@@ -356,106 +390,165 @@ Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos cr
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-Business Assumptions
+Los siguientes supuestos representan las creencias iniciales sobre el modelo de negocio, el mercado y la viabilidad del producto MediTrack.
 
-1. Creemos que los usuarios tienen la necesidad de monitorear de forma continua y precisa la salud de los adultos mayores, ya sea para un familiar o para un grupo de pacientes en una institución.
+**Business Assumptions**
 
-2. Esta necesidad se puede satisfacer con una solución digital integral que combine un dispositivo portátil (parches inteligentes) con una plataforma visual (dashboard web y app móvil) que muestre datos en tiempo real.
+Estas Business Assumptions servirán como base para formular los Feature Assumptions e Hypothesis Statements, permitiendo validar los elementos críticos del modelo durante las iteraciones del proceso Lean UX.
 
-3. Nuestros clientes iniciales serán familias con adultos mayores en casa que busquen tranquilidad y seguridad en el cuidado, y clínicas o casas de reposo pequeñas que necesiten una herramienta para optimizar la gestión de sus residentes.
+1. Creemos que los usuarios necesitan monitorear de forma continua la salud de los adultos mayores para reducir los riesgos médicos y la carga emocional familiar.
 
-4. El valor más importante que un cliente quiere de nuestros servicios es la tranquilidad y la seguridad de saber que la salud del adulto mayor está siendo monitoreada, lo que permite la prevención de riesgos y la atención oportuna.
+2. Creemos que una solución digital que combine parches inteligentes con un dashboard accesible puede satisfacer esta necesidad y mejorar la prevención médica.
 
-5. El cliente también obtendrá información en tiempo real, acceso a un historial de salud para consultas médicas, alertas automáticas y una gestión más eficiente de múltiples pacientes en el caso de las instituciones.
+3. Creemos que nuestros clientes iniciales serán familias y pequeñas instituciones geriátricas en Lima Metropolitana que busquen seguridad y eficiencia en el cuidado.
 
-6. Vamos a obtener la mayoría de los clientes mediante canales digitales (Google Ads, Facebook/Instagram Ads), alianzas con clínicas y centros de salud especializados en geriatría, y marketing de contenidos enfocado en el cuidado del adulto mayor.
+4. Creemos que el valor más importante que buscan nuestros clientes es la **tranquilidad** de tener información en tiempo real sobre la salud de sus seres queridos.
 
-7. Vamos a obtener ingresos a través de un modelo Freemium para usuarios B2C (pacientes y familias) y un modelo de suscripción Enterprise para clientes B2B (clínicas y casas de reposo).
+5. Creemos que nuestro modelo **Freemium + Suscripción Enterprise** nos permitirá escalar en ambos segmentos (B2C y B2B) sin depender de un único flujo de ingresos.
 
-8. Nuestra competencia en el mercado serán soluciones de monitoreo médico más tradicionales o dispositivos wearables que no ofrecen una integración completa de signos vitales y movilidad, o que no están diseñados específicamente para el cuidado geriátrico.
+6. Creemos que nuestra ventaja competitiva radica en integrar métricas de salud y movilidad en una sola plataforma, algo que la competencia actual no ofrece.
 
-9. Vamos a tener una ventaja competitiva al ser la única solución que integra un mapa visual de movilidad con métricas de salud y un modelo de negocio flexible que se adapta a distintos segmentos, desde el cuidado individual en casa hasta la gestión institucional.
+7. Creemos que podremos reducir las llamadas de emergencia y consultas médicas presenciales al proporcionar monitoreo remoto confiable.
 
-10. El mayor riesgo del servicio es la resistencia de los usuarios a la tecnología o la falta de confianza en la precisión de los datos del dispositivo.
+8. Reconocemos que el mayor riesgo es la desconfianza tecnológica; lo mitigaremos con pilotos gratuitos, certificaciones médicas y testimonios de usuarios reales.
 
-11. Lo resolveremos con pruebas piloto gratuitas, demostraciones claras del producto, testimonios de clientes satisfechos y certificaciones que validan la precisión de nuestros parches inteligentes.
+9. Creemos que la relación costo–beneficio de MediTrack será más accesible que las soluciones importadas equivalentes.
 
-12. Otro riesgo que debemos considerar es el costo de los parches y la logística para el reemplazo, lo que podría desincentivar a los usuarios B2C. Lo resolveremos con un modelo de suscripción que incluya el reemplazo y descuentos por volumen.
+**User Assumptions**
 
-User Assumptions
+En esta etapa del Lean UX Process, se identificaron los principales supuestos sobre los usuarios, sus necesidades y el contexto de uso del producto. Estos Assumptions representan las creencias iniciales del equipo antes de realizar pruebas o validaciones.
 
-¿Quién es el usuario?
+**¿Quién es el usuario?**
 
-- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
-- Clínicas y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
+- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar.
 
-¿Dónde encaja nuestro producto en su vida?
+- Clínicas y casas de reposo: Personal médico, cuidadores y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea.
 
-- Para los allegados: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
-- Para las clínicas y casas de reposo: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
+**¿Dónde encaja nuestro producto en su vida?**
 
-¿Qué problemas resuelve nuestro producto?
+- Para los allegados: Se integra en su rutina diaria como una capa de seguridad y tranquilidad.
+
+- Para las clínicas y casas de reposo: Se convierte en una herramienta central de gestión y monitoreo.
+
+**¿Qué problemas resuelve nuestro producto?**
 
 - Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
+
 - Falta de monitoreo continuo: La solución permite un seguimiento constante de signos vitales y movilidad, incluso a distancia.
+
 - Ineficiencia en la gestión: Las instituciones pueden monitorear a múltiples residentes de forma simultánea, recibiendo alertas automáticas que les permiten reaccionar rápidamente ante emergencias.
+
 - Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
 
-¿Cuándo y cómo se usa nuestro producto?
+**¿Cuándo y cómo se usa nuestro producto?**
 
 - Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
+
 - Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
 
-¿Qué características son importantes?
+**¿Qué características son importantes?**
 
 - Alertas en tiempo real: Por caídas, cambios bruscos en signos vitales o anomalías en el patrón de movilidad.
 - Dashboard visual: Una interfaz clara con gráficos y un mapa de movilidad.
 - Historial de datos: La capacidad de ver métricas de salud a lo largo del tiempo.
 - Reportes descargables: Para consultas médicas o comunicación con familiares.
-- Notificaciones personalizables: Permite a los usuarios elegir qué tipo de alertas quieren recibir.
 
-¿Cómo debería lucir y comportarse el producto?
+**¿Cómo debería lucir y comportarse el producto?**
 Debe ser intuitivo, sencillo y confiable. Los colores deben ser calmados (sin alarmar al usuario con rojo o naranjas, a menos que sea una alerta crítica), con una tipografía clara y botones grandes. El comportamiento debe ser rápido y responsivo, sin retrasos en la entrega de datos, y debe inspirar confianza y seguridad en el usuario.
 
-Feature Assumptions
+### Feature Assumptions
 
-Creemos que la plataforma debe contar con un dashboard visual y amigable que permita a los familiares y al personal de las instituciones monitorear los datos de salud de los adultos mayores de forma clara y sin necesidad de conocimientos médicos avanzados.
+En esta sección se detallan los supuestos relacionados con las características funcionales del producto. Cada **Feature Assumption** busca conectar las necesidades de los usuarios con las posibles soluciones de diseño, anticipando el impacto esperado en la experiencia y el comportamiento del usuario. Estas suposiciones servirán de base para la formulación de hipótesis y posteriores validaciones durante el proceso de desarrollo del producto.
 
-Creemos que la aplicación debe proporcionar notificaciones automáticas y personalizables que alertarán a los usuarios sobre anomalías en los signos vitales, caídas o cambios inesperados en los patrones de movilidad. Esto es crucial para garantizar una respuesta rápida ante cualquier emergencia.
 
-Creemos que la aplicación debe contar con un historial de salud detallado donde se almacenen los datos de monitoreo a largo plazo. Esto permitirá a los médicos y familiares identificar tendencias, evaluar la efectividad de tratamientos y tener información valiosa para las consultas médicas.
+1. Creemos que un **dashboard visual y amigable** permitirá a familiares y personal médico interpretar fácilmente la salud de los adultos mayores sin conocimientos técnicos.  
+   aumentar en un 80% la comprensión de los datos de salud reportada por los usuarios.\*
 
-Creemos que la aplicación debe ofrecer una sección de reportes descargables para que las familias o instituciones puedan compartir fácilmente la información de salud con profesionales médicos o tener un registro físico del progreso del paciente.
+2. Creemos que las **notificaciones automáticas y personalizables** mejorarán la respuesta ante emergencias.
 
-Creemos que la aplicación debe permitir la gestión de múltiples pacientes de forma sencilla para las instituciones. Esto incluye la posibilidad de ver un resumen del estado de todos los residentes en un solo panel y acceder rápidamente a los detalles de cada uno.
+3. Creemos que un **historial de datos accesible** fomentará la prevención y seguimiento médico continuo.
+
+4. Creemos que los **reportes descargables** aumentarán la comunicación efectiva entre familiares y médicos.
+
+5. Creemos que el **monitoreo de múltiples pacientes** en un solo panel mejorará la eficiencia de las instituciones.
+
+### User Outcome Assumptions
+
+- Aumento de la conexión emocional y la tranquilidad de los familiares (debido a la fácil comprensión del estado de salud).
+
+- Mejora en la capacidad de respuesta del personal de cuidado ante emergencias.
+
+- Uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+- Aumento del valor percibido de la plataforma entre los clientes B2B.
+
+- Mejora de la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+### Business Outcome Assumptions
+
+- Reducción del 70% en las llamadas de consulta rutinarias 
+
+- Reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos
+
+- Al menos el 60% de los usuarios activos consulta el historial de datos o reportes médicos al menos una vez al mes
+
+- Al menos el 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en la satisfacción laboral
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Hypothesis Statement 01
-**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
-**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
+Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el *business outcome*, el *user outcome* y la *feature* correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
 
-Hypothesis Statement 02
-**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
-**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
+- Hypothesis Statement 1:
 
-Hypothesis Statement 03
-**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
-**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+**Creemos que** el dashboard visual e intuitivo aumentará la conexión emocional y la tranquilidad de los familiares al permitirles comprender fácilmente el estado de salud de sus seres queridos.
 
-Hypothesis Statement 04
-**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
-**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+**Sabremos que hemos tenido éxito**
 
-Hypothesis Statement 05
-**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
-**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
+**Cuando** al menos un 85% de los familiares reporten una alta sensación de tranquilidad y las llamadas de consulta rutinarias se reduzcan en un 70%.
+
+- Hypothesis Statement 2:
+
+**Creemos que** las notificaciones automáticas y personalizables sobre anomalías o caídas mejorarán la capacidad de respuesta del personal de cuidado ante emergencias.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** logremos una reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos registrados.
+
+- Hypothesis Statement 3:
+
+**Creemos que** ofrecer un registro detallado de salud y movilidad fomentará el uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** al menos un 60% de los usuarios activos consulten el historial de datos o reportes médicos al menos una vez al mes.
+
+- Hypothesis Statement 4:
+
+**Creemos que** la capacidad de generar y compartir reportes digitales de manera sencilla aumentará el valor percibido de la plataforma entre los clientes B2B.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** al menos un 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Hypothesis Statement 5:
+
+**Creemos que** la visualización de múltiples pacientes en un solo dashboard centralizado mejorará la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** el personal experimente una reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en su satisfacción laboral.
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="assets/chapter1/leanuxcanvas.svg" alt="Lean UX Canvas" width="100%">
+El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimiento, los Assumptions y las Hypothesis Statements. Su propósito es proporcionar una visión integral y colaborativa del proyecto, ayudando al equipo a alinear la estrategia de producto, los objetivos de negocio y las métricas de validación. Este canvas se convierte en una herramienta esencial para guiar el aprendizaje continuo y priorizar las decisiones de diseño con base en evidencia.
+
+<img src="assets/chapter1/leanuxcanvas.png" alt="Lean UX Canvas" width="100%">
 
 ## 1.3. Segmentos objetivo
+
+En esta sección se identifican y describen los **segmentos de usuarios** hacia los cuales se dirige la solución. A partir del análisis de necesidades, motivaciones y comportamientos, se definen los perfiles clave que se beneficiarán del producto. Estos segmentos servirán de referencia para la personalización de las funcionalidades, el diseño de la experiencia de usuario y las estrategias de comunicación dentro del desarrollo de MediTrack.
 
 - **Allegados de pacientes geriátricos**
 
@@ -509,7 +602,7 @@ Cuidadores y personal administrativo de residencias geriátricas que tienen a su
 
 **Características demográficas y comportamiento:**
 
-- Profesionales o técnicos en enfermería y cuidado de adultos mayores, entre 25 y 50 años.
+- Profesionales y cuidadores de adultos mayores, entre 25 y 50 años.
 
 - Manejan simultáneamente la atención de 10 a 30 residentes por turno, lo que dificulta el seguimiento individualizado.
 
@@ -560,7 +653,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) y CAME (Corregir, Afrontar, Mantener y Explotar) de nuestra solución MediTrack frente a los competidores analizados.
 
-# Matriz FODA
+**Matriz FODA**
 
 | **Interno / Externo** | **Positivo**                                                                | **Negativo**                                                           |
 | --------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -573,7 +666,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 |                       | - Baja oferta de soluciones especializadas en adultos mayores en la región. | - Startups especializadas (VitalConnect, BioSticker, CarePredict).     |
 |                       | - Tendencia de gobiernos y aseguradoras a impulsar salud digital.           | - Regulaciones sanitarias estrictas para aprobación médica.            |
 
-# Matriz CAME
+**Matriz CAME**
 
 | Estrategia                      | Acción                                                                                                                                                                                                                                                         |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -584,9 +677,13 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 
 ## 2.2. Entrevistas
 
+Para este bloque se realizaron entrevistas semiestructuradas para comprender las necesidades, hábitos y percepciones de los segmentos objetivo respecto al monitoreo de adultos mayores. El objetivo fue identificar oportunidades, frustraciones y barreras en el uso de tecnologías de salud.
+
 ### 2.2.1. Diseño de entrevistas
 
-### Preguntas dirigidas al primer segmento
+Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales médicos y personal de casas de reposo. Este enfoque permitió obtener evidencia cualitativa relevante para sustentar el análisis de usuarios y los artefactos del proceso de Needfinding.
+
+**Preguntas dirigidas al primer segmento**
 
 - ¿Cuál es tu edad, ocupación y lugar de residencia?
 
@@ -618,7 +715,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 
 - ¿Qué tan dispuesto estarías a pagar por una solución que te brinde tranquilidad?
 
-### Preguntas dirigidas al segundo segmento
+**Preguntas dirigidas al segundo segmento**
 
 - ¿Cuál es tu especialidad y experiencia en el cuidado de pacientes geriátricos?
 
@@ -650,7 +747,7 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 
 - ¿Consideras que deberían cubrir parte del costo de una solución como esta?
 
-### Preguntas dirigidas al tercer segmento
+**Preguntas dirigidas al tercer segmento**
 
 - ¿Qué cargo ocupas en la casa de reposo?
 
@@ -692,7 +789,11 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Cocca
 - Edad: 19
 - Distrito: San Miguel
-- Timing: [Video Entrevista Andres](https://tinyurl.com/2vfam72z) https://tinyurl.com/2vfam72z
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=jlb4Fl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC41NH19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=jlb4Fl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC41NH19)
+- Timing:
+- Inicio: 52:28
+- Fin: 1:01:53
 - Duración: 9 minutos con 25 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
@@ -709,6 +810,8 @@ Sobre el monitoreo de los adultos mayores, reconoce que actualmente depende de l
 
 En relación con su disposición a utilizar nuevas soluciones como MediTrack, se muestra abierto e interesado, siempre que el sistema garantice confiabilidad y precisión en los datos. Su motivación principal se centra en facilitar el cuidado y la prevención de riesgos para los adultos mayores a su cargo.
 
+Además, el entrevistado utiliza principalmente WhatsApp y llamadas telefónicas para mantenerse en contacto con su bisabuela y familiares. Aunque se considera familiarizado con la tecnología, no ha utilizado antes aplicaciones de salud o monitoreo, lo que sugiere una necesidad de interfaces simples y confiables. Expresa que su mayor frustración ocurre cuando no puede estar presente para prevenir o responder ante una emergencia, y su motivación principal es sentirse tranquilo sabiendo que su familiar está segura en todo momento.
+
 En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el cuidado de adultos mayores. Combina sensibilidad personal con interés en herramientas digitales, identificando en la tecnología una aliada clave para mejorar la seguridad y el bienestar de las personas mayores, pese a que su experiencia se limita al ámbito familiar y no profesional.
 
 ##### Allegado Adulto Mayor
@@ -717,12 +820,18 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Beingolea
 - Edad: 58
 - Distrito: Jesus Maria
-- Timing: [Video Entrevista Teofilo](https://tinyurl.com/387p6aj3) https://tinyurl.com/387p6aj3
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dnSCtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4xfX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dnSCtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4xfX0%3D)
+- Timing:
+- Inicio: 45:09
+- Fin: 52:27
 - Duración: 7 minutos con 19 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
-- Resumen: Teófilo, de 58 años y residente en Lima, mantiene una relación cercana con el adulto mayor, a quien visita varias veces por semana y con la que se comunica casi a diario, principalmente a través del celular, usando llamadas y WhatsApp. En su vida cotidiana utiliza mayormente el navegador Google Chrome.
+- Resumen:
+
+Teófilo, de 58 años y residente en Lima, mantiene una relación cercana con el adulto mayor, a quien visita varias veces por semana y con la que se comunica casi a diario, principalmente a través del celular con sistema operativo,Iphone, usando llamadas y WhatsApp. En su vida cotidiana utiliza mayormente el navegador Google Chrome.
 
 Sus principales preocupaciones giran en torno a la salud y seguridad del adulto mayor, especialmente las caídas, los problemas de presión arterial y que pueda requerir ayuda estando sola. Actualmente la monitorea con llamadas frecuentes y consultas sobre su estado, además de los controles médicos regulares, aunque siente que estos métodos no siempre son suficientes.
 
@@ -738,22 +847,26 @@ Aunque percibe como barreras la complejidad tecnológica y la falta de confianza
 - Apellidos: Rioja
 - Edad: 25
 - Distrito: Puente Piedra
-- Timing: [Video Entrevista Jorge](https://tinyurl.com/u3hky5fb) https://tinyurl.com/u3hky5fb
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=C7GhYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjcyfX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=C7GhYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjcyfX0%3D)
+- Timing:
+- Inicio: 5:21
+- Fin: 9:55
 - Duración: 4 minutos con 34 segundos
 
 ![video screenshoot](./assets/chapter2/allegado-interview-3.jpg "Video screenshoot allegado interview 3")
 
 - Resumen:
 
-El entrevistado es Jorge, un joven de 25 años que actualmente se desempeña como practicante profesional en un banco y reside en Puente Piedra junto a su abuelo y el resto de su familia. Como nieto, su principal preocupación se centra en la salud de su abuelo, específicamente en el control de la presión arterial. Explica que el monitoreo con dispositivos tradicionales suele realizarse únicamente cuando aparecen síntomas como mareos o dolores de cabeza, lo que ya ha derivado en episodios de desmayo, generando gran preocupación en la familia.
+Jorge, de 25 años, reside en Puente Piedra y trabaja como practicante profesional en un banco. Vive junto a su abuelo y el resto de su familia, manteniendo una relación cercana y constante con él. Su principal preocupación se centra en la salud de su abuelo, especialmente en el control de la presión arterial, ya que los monitoreos actuales solo se realizan cuando aparecen síntomas como mareos o dolores de cabeza. Estas limitaciones han derivado en episodios de desmayo que han generado gran preocupación en el entorno familiar.
 
-En cuanto a los dispositivos que utiliza, Jorge cuenta con un iPhone y emplea principalmente WhatsApp y llamadas para mantenerse en comunicación con sus familiares. Para la navegación en internet prefiere Google Chrome, lo que refleja un perfil digital práctico y habitual en su generación.
+En cuanto al uso de tecnología, Jorge utiliza un smartphone Android y navega principalmente con Google Chrome, lo que refleja un perfil digital activo. Para comunicarse con su familia, recurre habitualmente a WhatsApp y llamadas telefónicas, destacando la necesidad de canales rápidos y confiables. Su conocimiento tecnológico es suficiente para adoptar herramientas digitales, siempre que sean intuitivas y accesibles.
 
-Considera fundamental contar con información en tiempo real sobre el estado de su abuelo, en particular datos relacionados con ubicación, caídas y presión arterial. Reconoce que, en situaciones de emergencia, suele depender del apoyo de otros familiares para evaluar la situación y, de ser necesario, acudir rápidamente a un centro médico. En este sentido, identifica un alto valor en una solución como MediTrack, ya que la falta de tiempo de los familiares limita la vigilancia constante.
+Entre sus principales necesidades, resalta la posibilidad de contar con información en tiempo real sobre el estado de salud de su abuelo, particularmente en lo relacionado con presión arterial, caídas y ubicación. Señala como una de sus frustraciones la imposibilidad de monitorear de forma constante y la dependencia del aviso de otros familiares cuando ocurre una emergencia.
 
-Respecto a las funciones que más le interesan, destaca como imprescindibles la localización, la detección de caídas y el monitoreo de la presión arterial, al considerarlas claves para prevenir riesgos graves. Sin embargo, también menciona que su principal barrera es la confianza en la exactitud de los datos que ofrezca el sistema. Aun así, afirma estar dispuesto a pagar por una herramienta que garantice seguridad y tranquilidad en el cuidado de su abuelo.
+En el aspecto emocional, su motivación proviene del deseo de prevenir situaciones de riesgo y de brindar tranquilidad a su familia, asegurando el bienestar de su abuelo incluso cuando él no puede estar presente. Valora positivamente la propuesta de MediTrack, considerándola una herramienta que podría optimizar la atención y reducir la incertidumbre en el cuidado del adulto mayor.
 
-En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar de su familiar, con una alta disposición hacia el uso de soluciones tecnológicas. Reconoce las limitaciones del monitoreo actual y valora la posibilidad de contar con herramientas que permitan prevenir emergencias, reducir riesgos y facilitar la respuesta de la familia ante eventuales complicaciones.
+Jorge considera imprescindibles las funcionalidades de localización, detección de caídas y monitoreo de presión arterial, siempre que los datos ofrecidos sean precisos y confiables. Aunque identifica como principal barrera la confianza en la exactitud del sistema, afirma que estaría dispuesto a pagar por una herramienta que garantice seguridad, prevención y comunicación inmediata ante cualquier emergencia.
 
 #### Entrevistas segmento objetivo profesionales de la salud
 
@@ -761,55 +874,67 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
-- Edad:
+- Edad: 29
 - Distrito: Miraflores
-- Timing: [Video Entrevista Vicente](https://tinyurl.com/mrmmt9jb) https://tinyurl.com/mrmmt9jb
+- Timing:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=MbjybG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzk5NC42N319](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=MbjybG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzk5NC42N319)
+- Timing:
+- Inicio: 1:06:34
+- Fin: 1:19:06
 - Duración: 12 minutos con 32 segundos
 
   ![video screenshoot](./assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 
 - Resumen:
 
-  El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
+El entrevistado es un médico general que trabaja en un centro de salud de nivel 14 y atiende principalmente a pacientes geriátricos. Con una carga promedio de 75 a 100 pacientes mayores por semana, demuestra amplia experiencia en este grupo etario, reflejando una personalidad práctica, empática y orientada al servicio.
 
-  En cuanto a los dispositivos que utiliza en su labor, menciona principalmente la computadora del centro de salud como herramienta central para el registro de historias clínicas y consultas. Reconoce también el uso de sistemas digitales, en particular el ESSI (sistema de historias electrónicas de EsSalud), que le permite acceder a antecedentes médicos, exámenes previos y registrar nuevas atenciones. Para la comunicación con familiares de los pacientes recurre a canales más directos e informales, como WhatsApp, lo que sugiere flexibilidad y adaptación a las necesidades cotidianas.
+En cuanto a la tecnología que utiliza, menciona que su herramienta principal es la computadora del centro de salud, donde gestiona las historias clínicas mediante el sistema ESSI (EsSalud). Además, utiliza un iPhone para la comunicación con familiares de pacientes, prefiriendo WhatsApp como canal rápido y directo, lo que muestra adaptabilidad ante la falta de plataformas institucionales ágiles.
 
-  Respecto a la navegación en internet, aclara que emplea Google Chrome como su navegador principal, tanto para acceder al sistema institucional como para realizar búsquedas de información médica en plataformas reconocidas como PubMed o UpToDate. Esto muestra que combina herramientas institucionales con fuentes externas de información actualizada, lo cual refleja interés en mantener la calidad de la atención.
+Respecto al navegador, emplea Google Chrome tanto para acceder al sistema ESSI como para realizar consultas médicas en bases de datos especializadas como PubMed o UpToDate, evidenciando una actitud profesional de actualización constante.
 
-  En relación con el monitoreo de los pacientes, explica que depende del propio sistema ESSI para obtener información clínica. Sin embargo, cuando se trata de pacientes que requieren atención domiciliaria, el seguimiento recae en gran medida en los reportes que envían sus familiares, lo que evidencia una limitación en la disponibilidad de datos en tiempo real. Entre las dificultades más importantes que enfrenta, menciona precisamente la falta de alertas inmediatas sobre caídas, descompensaciones u otras emergencias en los adultos mayores, situaciones que se presentan con cierta frecuencia. Considera que contar con información en tiempo real sería de gran ayuda para mejorar la prevención y la toma de decisiones clínicas.
+Entre sus principales necesidades, resalta la de contar con información en tiempo real sobre los pacientes geriátricos, especialmente ante caídas, descompensaciones o crisis de salud. Reconoce que actualmente depende de reportes manuales o del aviso de familiares, lo que limita la capacidad de respuesta y genera incertidumbre en la atención.
 
-  En cuanto a la coordinación con familiares, señala que esta se realiza principalmente de manera personal o mediante comunicación directa en situaciones específicas, pero reconoce que un sistema de reportes digitales y alertas inmediatas tendría un impacto positivo en su trabajo, facilitando la atención oportuna y reduciendo riesgos.
+Sus frustraciones se centran en la falta de alertas inmediatas, la dependencia de información tardía y la escasa interoperabilidad entre los sistemas institucionales y las soluciones domésticas. Estas carencias afectan la eficiencia y la prevención médica.
 
-  Sobre la posible implementación de una herramienta como MediTrack, se muestra dispuesto y abierto a considerarla, siempre que cumpla con ciertos criterios clínicos indispensables para garantizar confianza en los datos. Entre ellos menciona la precisión de la información, la capacidad de generar reportes confiables y la utilidad para la toma de decisiones. Sin embargo, identifica barreras importantes para la adopción, como los costos asociados, la necesidad de capacitación del personal y la confianza en la calidad de los datos. Ante la pregunta sobre la cobertura del costo, considera razonable que sea compartido, ya sea por las instituciones de salud o por los pacientes y sus familias, para facilitar la implementación.
+En el aspecto motivacional, el entrevistado valora la posibilidad de mejorar la prevención clínica y la atención domiciliaria, reduciendo la brecha entre el paciente y el profesional de salud. Se muestra abierto al uso de MediTrack, siempre que la herramienta garantice precisión, confiabilidad y respaldo médico.
 
-  En conjunto, el entrevistado transmite una visión realista y práctica de su labor en geriatría. Combina el uso de herramientas digitales institucionales con soluciones cotidianas como WhatsApp, muestra apertura hacia la innovación tecnológica, pero al mismo tiempo es consciente de las limitaciones del entorno clínico y de los retos económicos y de confianza que implica adoptar nuevas soluciones.
+Considera como barreras principales los costos de implementación, la necesidad de capacitación del personal y la confianza en la veracidad de los datos biométricos. Sin embargo, propone un modelo de costo compartido entre instituciones y familias como una alternativa viable para su adopción.
+
+En conjunto, el médico expresa una visión realista y progresista sobre el uso de tecnología en geriatría. Combina herramientas institucionales con canales informales, y percibe en soluciones como MediTrack una oportunidad para optimizar la prevención, la comunicación y la eficiencia médica, siempre que se garantice su rigor técnico y clínico.
 
 ##### Doctora Medico General
 
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
-- Edad:
+- Edad: 25
 - Distrito: Surco
-- Timing: [Video Entrevista Valentina](https://shorturl.at/dWUuF) https://shorturl.at/dWUuF
+- Timing:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=QEHQrF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxNC41Nn19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=QEHQrF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxNC41Nn19)
+- Timing:
+- Inicio: 1:01:54
+- Fin: 1:06:33
 - Duración: 4 minutos con 39 segundos
 
   ![video screenshoot](./assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 
 - Resumen:
 
-  La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
+La doctora Valentina es médica general con amplia experiencia en la atención de pacientes geriátricos, atendiendo entre 50 y 60 adultos mayores por semana. Su perfil refleja un compromiso constante con este grupo poblacional y una comprensión profunda de las particularidades que implica su cuidado.
 
-  En su labor diaria utiliza principalmente la laptop o la PC disponible en el consultorio para registrar la atención y gestionar la información clínica. En cuanto a la comunicación digital con pacientes y familiares, menciona que se emplea el correo electrónico con frecuencia y que, cada vez más, se está recurriendo a WhatsApp como un canal práctico y directo. Esto evidencia un perfil que combina el uso de canales formales con soluciones cotidianas para facilitar la interacción.
+En cuanto a su relación con la tecnología, utiliza principalmente una laptop o PC para registrar las consultas y gestionar información clínica. Posee un iPhone, el cual emplea como herramienta complementaria para la comunicación digital. Su navegador preferido es Google Chrome, reflejando un manejo habitual de herramientas informáticas en su práctica profesional.
 
-  Respecto al monitoreo de los pacientes, indica que no existe un sistema especializado más allá de la atención en consulta, lo que limita la continuidad del seguimiento. Identifica como principal dificultad que los adultos mayores suelen depender de terceros para acudir a sus controles, lo que provoca que muchos lleguen tarde a sus evaluaciones o incluso se encuentren en situación de abandono. Esto se traduce en emergencias frecuentes, siendo las caídas, descompensaciones y crisis médicas los casos más habituales.
+Respecto a los canales de comunicación, menciona el uso frecuente del correo electrónico para coordinación formal con pacientes y familiares, además de WhatsApp, que considera un medio práctico y directo. Esta combinación evidencia un equilibrio entre formalidad médica y eficiencia comunicacional.
 
-  Considera que la información en tiempo real que más aportaría a su labor clínica está relacionada con el seguimiento de tratamientos, especialmente de las recetas médicas, ya que muchos pacientes no las cumplen correctamente o dejan los tratamientos inconclusos. Además, señala que sería de gran utilidad contar con alertas inmediatas sobre caídas y cambios en la estabilidad de los pacientes, ya que ello permitiría actuar de manera más preventiva.
+Entre sus principales necesidades, destaca la falta de un sistema de monitoreo continuo para los adultos mayores, lo que impide un seguimiento real de los tratamientos y genera brechas en la atención preventiva. Señala que una herramienta capaz de emitir alertas sobre caídas o descompensaciones, así como de verificar la adherencia a medicamentos, resultaría fundamental para mejorar la calidad asistencial.
 
-  En la coordinación con familiares, explica que la comunicación se realiza mayormente de manera escrita, ya sea mediante correo electrónico o mensajes. Sin embargo, reconoce que esta coordinación es limitada y que una herramienta que facilite reportes digitales y alertas inmediatas tendría un impacto significativo, mejorando la calidad y oportunidad de la atención.
+Sus frustraciones se centran en la dependencia de terceros para el traslado de los pacientes, la falta de información en tiempo real y la escasa coordinación interprofesional, factores que derivan en emergencias evitables. Estas limitaciones revelan la necesidad de soluciones digitales que reduzcan la carga manual y optimicen la respuesta médica.
 
-  Ante la posibilidad de implementar un sistema como MediTrack, la doctora muestra disposición, siempre y cuando se garantice la confiabilidad de los datos clínicos y la utilidad en la práctica médica. Sin embargo, identifica barreras como los costos de implementación, la capacitación necesaria y la resistencia al cambio por parte de algunos profesionales de la salud. Sobre el financiamiento, sugiere que los costos no deberían recaer únicamente en el profesional, sino compartirse entre instituciones y, eventualmente, los propios pacientes o sus familias.
+En cuanto a sus motivaciones, la doctora muestra una clara disposición hacia herramientas tecnológicas que mejoren la eficiencia del cuidado y fortalezcan la conexión con familiares y cuidadores. Considera que MediTrack podría representar un avance significativo, siempre que garantice precisión en los datos, facilidad de uso y respaldo clínico validado.
 
-  En conjunto, la entrevistada transmite una perspectiva realista de la atención geriátrica: utiliza recursos tecnológicos básicos, combina canales formales con herramientas de comunicación cotidiana, es consciente de las dificultades en el seguimiento de los adultos mayores y reconoce el potencial de una solución digital, aunque también señala las limitaciones económicas y organizativas que podrían frenar su adopción.
+Identifica como barreras principales los costos de implementación, la resistencia al cambio y la necesidad de capacitación del personal de salud. Propone un modelo de financiamiento compartido entre instituciones, familias y profesionales para viabilizar su adopción.
+
+En conjunto, la doctora Valentina ofrece una visión realista y equilibrada sobre la digitalización de la atención geriátrica. Combina recursos tecnológicos básicos con canales modernos, reconoce los desafíos estructurales del sistema de salud y ve en soluciones como MediTrack una oportunidad tangible para mejorar la prevención, la comunicación y la calidad de vida de los adultos mayores.
 
 ##### Doctor Medico General
 
@@ -817,21 +942,26 @@ En conjunto, Jorge transmite una visión práctica y preocupada por el bienestar
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- Timing: [Video Entrevista Alcides](https://tinyurl.com/4rjk5pyx) https://tinyurl.com/4rjk5pyx
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=WGjNJc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDc0OS4yM319](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=WGjNJc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDc0OS4yM319)
+- Timing:
+- Inicio: 1:19:09
+- Fin: 1:28:34
+- Duración: 9 minutos y 25 segundos
 
 ![video screenshoot](./assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
 
-El entrevistado es Alcides Rivera, un geriatra con más de 15 años de experiencia en medicina preventiva. En promedio, atiende entre 30 y 40 pacientes adultos mayores a la semana. Su labor diaria se apoya principalmente en una laptop y un smartphone , y para la comunicación digital con pacientes y familiares utiliza llamadas, correos electrónicos y WhatsApp. Para el monitoreo de pacientes, se basa en expedientes médicos digitales y mediciones manuales durante las consultas.
+El entrevistado es Alcides Rivera, un geriatra con más de 15 años de experiencia en medicina preventiva. Atiende entre 30 y 40 pacientes adultos mayores por semana y realiza su labor apoyándose principalmente en una laptop y un smartphone con sistema operativo Android. Para la comunicación digital con pacientes y familiares utiliza llamadas, correos electrónicos y WhatsApp. En el monitoreo clínico, se basa en expedientes médicos digitales y mediciones manuales realizadas durante las consultas.
 
-El geriatra señala que una de las principales dificultades que enfrenta en el monitoreo es la falta de datos continuos, ya que la información disponible es solo del momento de la consulta. Esto se relaciona con la alta frecuencia de emergencias, recibiendo al menos una o dos llamadas de emergencia a la semana, relacionadas con caídas, descompensaciones o crisis en pacientes mayores.
+El geriatra comenta que una de las principales dificultades en su labor es la falta de datos continuos sobre el estado de los pacientes, ya que la información disponible suele limitarse al momento de la cita médica. Esta limitación se refleja en la alta frecuencia de emergencias, recibiendo entre una o dos llamadas semanales relacionadas con caídas, descompensaciones o crisis de salud en adultos mayores.
 
-Considera que la información en tiempo real que le sería más útil para mejorar la atención es la de signos vitales, patrones de actividad y alertas de eventos de riesgo. Actualmente, la coordinación con los familiares se realiza por teléfono o correo electrónico para dar actualizaciones y coordinar citas.
+Considera que disponer de información en tiempo real sobre signos vitales, patrones de actividad y alertas de riesgo sería de gran utilidad para mejorar la atención y la toma de decisiones. Actualmente, la coordinación con familiares se realiza por teléfono o correo electrónico, principalmente para actualizaciones y coordinación de citas médicas.
 
-El entrevistado cree que contar con reportes digitales y alertas inmediatas en su labor clínica facilitaría la detección temprana de problemas y mejoraría la toma de decisiones. Ante la posibilidad de implementar una herramienta como MediTrack, se muestra muy dispuesto, siempre y cuando demuestre ser una herramienta clínica confiable. Las características que considera imprescindibles para confiar en un sistema de monitoreo remoto son la precisión de los datos, alertas personalizables y acceso al historial médico completo.
+Alcides cree que contar con reportes digitales y alertas inmediatas fortalecería la detección temprana de complicaciones y optimizaría la respuesta médica. Ante la propuesta de una herramienta como MediTrack, se muestra dispuesto a adoptarla, siempre que demuestre ser una solución clínica confiable. Señala que los factores clave para confiar en un sistema de monitoreo remoto son la precisión de los datos, la posibilidad de personalizar alertas y el acceso al historial médico completo.
 
-Sin embargo, identifica posibles obstáculos para la adopción en su clínica: el costo, la integración con su sistema actual y la curva de aprendizaje para el personal. Además, opina que el costo de una solución como esta debería ser compartido tanto por los pacientes como por las instituciones de salud.
+No obstante, identifica algunos desafíos para su implementación en la práctica médica, como el costo, la compatibilidad con los sistemas actuales y la curva de aprendizaje del personal. Además, considera que el financiamiento de una herramienta como esta debería ser compartido entre los pacientes y las instituciones de salud.
 
 #### Entrevistas segmento objetivo personal de las casas de reposo
 
@@ -841,22 +971,26 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- Timing: [Video Entrevista Ana](https://shorturl.at/uUxHd) https://shorturl.at/uUxHd
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=owqpVJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4wOX19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=owqpVJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4wOX19)
+- Timing:
+- Inicio: 20:16
+- Fin: 45:08
 - Duración: 24 minutos con 51 segundos
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
 - Resumen:
 
-La entrevistada es Ana Rosa Quispe, profesional en asistencia social con una trayectoria de más de diez años en la Beneficencia de Lima, donde se dedicó al cuidado y apoyo de adultos mayores en situación de vulnerabilidad. Actualmente continúa su labor en España, trabajando de manera particular en la asistencia de personas mayores. Su experiencia refleja un compromiso sostenido con este grupo etario, aunque también reconoce los múltiples desafíos que ha enfrentado en el desempeño de su trabajo.
+La entrevistada es Ana Rosa Quispe, profesional en asistencia social con más de diez años de experiencia en la Beneficencia de Lima, donde se dedicó al cuidado y apoyo de adultos mayores en situación de vulnerabilidad. Actualmente continúa su labor en España, brindando asistencia particular a personas mayores. Su trayectoria refleja un compromiso sostenido con este grupo etario y una comprensión profunda de los desafíos que implica su atención.
 
-Durante su paso por la Beneficencia de Lima, señala que se enfrentó a grandes complicaciones derivadas de las condiciones de los adultos mayores, quienes en su mayoría presentaban diversas enfermedades y malestares. A esto se sumaba la escasez de personal profesional y la falta de comunicación efectiva entre los equipos, lo que dificultaba brindar un servicio integral y oportuno. Explica que estas limitaciones generaban un ambiente de trabajo muy exigente, en el que el cuidado resultaba agotador y en ocasiones altamente estresante.
+Durante su paso por la Beneficencia, enfrentó diversas dificultades derivadas de las condiciones de salud de los adultos mayores, quienes en su mayoría padecían múltiples enfermedades y malestares. A ello se sumaban la escasez de personal especializado y la falta de una comunicación efectiva entre los equipos de trabajo, lo que dificultaba ofrecer un servicio integral y oportuno. Estas limitaciones generaban un entorno laboral exigente, caracterizado por un cuidado continuo, emocionalmente desgastante y, en muchos casos, altamente estresante.
 
-En cuanto a las herramientas que utilizaba en esa etapa, menciona principalmente Internet Explorer como navegador y Excel como recurso para la organización de datos. Aunque cumplían un rol básico, reconoce que resultaban insuficientes para gestionar la complejidad del cuidado de los adultos mayores.
+En cuanto a las herramientas utilizadas en ese contexto, menciona el uso de Internet Explorer como navegador y Microsoft Excel como recurso principal para la organización de datos. Actualmente utiliza un iPhone como su dispositivo móvil y emplea WhatsApp y correo electrónico como medios de comunicación con familiares y pacientes. Si bien estas herramientas resultan funcionales, reconoce que son insuficientes para gestionar la complejidad del cuidado geriátrico.
 
-Con esta experiencia, considera indispensable contar con una aplicación que permita un monitoreo más organizado y eficiente de la salud de los adultos mayores, incorporando especialmente sistemas de alertas que faciliten la detección temprana de emergencias o irregularidades. A su juicio, una herramienta de este tipo no solo contribuiría a mejorar la calidad de la atención, sino también a reducir la carga emocional y el nivel de estrés que enfrentan los cuidadores en el día a día.
+A partir de su experiencia, considera indispensable contar con una aplicación que permita un monitoreo organizado y eficiente de la salud de los adultos mayores, incorporando sistemas de alertas tempranas que faciliten la detección de emergencias o irregularidades. A su juicio, una herramienta de este tipo no solo mejoraría la calidad del servicio, sino que también reduciría la carga emocional y el nivel de estrés de los cuidadores.
 
-En conjunto, la entrevistada transmite una visión crítica y realista de las limitaciones del cuidado institucional de adultos mayores, pero también muestra apertura hacia la incorporación de soluciones digitales. Su experiencia evidencia la necesidad urgente de herramientas tecnológicas que optimicen la organización, refuercen la comunicación entre profesionales y garanticen la seguridad de los adultos mayores en entornos de casas de reposo.
+En conjunto, Ana Rosa transmite una visión crítica y realista sobre las limitaciones del cuidado institucional de adultos mayores, pero al mismo tiempo muestra una clara apertura hacia la adopción de soluciones digitales. Su testimonio evidencia la necesidad urgente de herramientas tecnológicas que optimicen la organización, fortalezcan la comunicación entre profesionales y garanticen la seguridad y bienestar de los residentes en casas de reposo.
 
 ##### Cuidadores Casas De Reposo
 
@@ -864,22 +998,26 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- Timing: [Video Entrevistas Fanny](https://shorturl.at/9G9rZ) https://shorturl.at/9G9rZ
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nYM0Mf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk2LjA1fX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nYM0Mf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk2LjA1fX0%3D)
+- Timing:
+- Inicio: 9:56
+- Fin: 20:16
 - Duración: 10 minutos con 20 segundos
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
 - Resumen:
 
-La entrevistada es Fanny Mendívil, de 57 años, quien actualmente reside en Italia y trabaja en la asistencia de adultos mayores tanto de manera particular como colectiva. Su experiencia le ha permitido conocer de cerca las demandas físicas y emocionales del cuidado, señalando que esta labor puede resultar muy estresante y requiere de un trato constante desde la calma y la paciencia, especialmente considerando que muchos de los adultos mayores a su cargo padecen enfermedades crónicas, principalmente de tipo cardíaco y respiratorio.
+La entrevistada es Fanny Mendívil, de 57 años, quien actualmente reside en Italia y se dedica a la asistencia de adultos mayores, tanto de manera particular como en entornos colectivos. Su experiencia le ha permitido conocer de cerca las demandas físicas y emocionales del cuidado, señalando que esta labor puede resultar exigente y requiere un trato constante basado en la paciencia, empatía y calma, especialmente considerando que muchos de los adultos mayores a su cargo padecen enfermedades crónicas, principalmente de tipo cardíaco y respiratorio.
 
-En su rutina de trabajo destaca la importancia del monitoreo frecuente, ya que considera esencial revisar periódicamente el estado de salud de los adultos mayores para prevenir complicaciones y responder de manera oportuna ante cualquier emergencia. Este aspecto de su labor refuerza su interés en contar con herramientas digitales que optimicen la supervisión diaria.
+En su rutina laboral destaca la importancia del monitoreo frecuente, ya que considera esencial revisar periódicamente el estado de salud de los adultos mayores para prevenir complicaciones y responder con rapidez ante cualquier emergencia. Este enfoque refuerza su interés en contar con herramientas digitales que optimicen la supervisión diaria y permitan una atención más organizada y segura.
 
-Respecto a la tecnología, menciona que su navegador de preferencia es Google Chrome y que utiliza principalmente su teléfono celular como dispositivo central en sus actividades cotidianas. Esto refleja un perfil práctico y adaptado al uso de herramientas móviles, lo que le facilitaría la incorporación de aplicaciones diseñadas para el cuidado de adultos mayores.
+Respecto al uso de la tecnología, menciona que su navegador principal es Google Chrome y que utiliza un iPhone como su dispositivo central para las actividades cotidianas. Emplea con frecuencia WhatsApp y correo electrónico para comunicarse con familiares o coordinadores, lo que refleja un perfil práctico y habituado al uso de herramientas móviles, facilitando la adopción de aplicaciones orientadas al cuidado geriátrico.
 
-Considera de gran valor la implementación de una solución como MediTrack, especialmente si permite un monitoreo más organizado y la generación de alertas inmediatas frente a irregularidades en los datos biométricos. Para ella, este tipo de herramienta no solo representaría una mejora en la seguridad de los adultos mayores, sino también un apoyo fundamental para los cuidadores, al reducir el nivel de carga y estrés que conlleva la atención constante.
+Fanny considera de gran valor la implementación de una solución como MediTrack, especialmente si permite un monitoreo organizado y la generación de alertas inmediatas ante irregularidades en los datos biométricos. En su opinión, una herramienta de este tipo no solo fortalecería la seguridad y bienestar de los adultos mayores, sino que también representaría un apoyo emocional y operativo para los cuidadores, al reducir el nivel de carga y estrés asociado al trabajo constante.
 
-En conjunto, Fanny Mendívil transmite una visión realista y empática del cuidado de adultos mayores. Reconoce las dificultades de la labor, pero al mismo tiempo se muestra abierta a la innovación tecnológica, identificando en aplicaciones móviles una oportunidad concreta para mejorar la calidad del cuidado, el bienestar de los adultos mayores y la propia salud emocional de quienes los asisten.
+En conjunto, Fanny Mendívil transmite una visión empática y realista del cuidado de adultos mayores. Reconoce las dificultades inherentes a la labor, pero al mismo tiempo muestra una actitud abierta hacia la innovación tecnológica, identificando en las aplicaciones móviles una oportunidad concreta para mejorar tanto la calidad del cuidado como la salud emocional de quienes lo brindan.
 
 ##### Cuidadores Casas De Reposo
 
@@ -887,99 +1025,194 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
+- Video Entrevista:
+  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=a1lUch&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=a1lUch&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Timing:
+- Inicio: 0:00
+- Fin: 5:21
 - Duración: 5 minutos con 21 segundos
-- Timing: [Video Entrevistas Judith](https://shorturl.at/VvNz9) https://shorturl.at/VvNz9
 
 ![video screenshoot](./assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
 - Resumen:
 
-La entrevistada es Judith Ayala y ocupa el cargo de enfermera de turno rotativo en una casa de reposo. Está a cargo de la supervisión diaria de entre 18 y 20 residentes. Para su trabajo, utiliza principalmente smartphones y computadoras para actualizar datos, y se comunica con familiares y médicos a través de llamadas semanales y WhatsApp.
+La entrevistada es Judith Ayala, enfermera de turno rotativo en una casa de reposo, responsable de la supervisión diaria de entre 18 y 20 residentes. Su labor combina la atención médica directa con la gestión del monitoreo general de los pacientes, lo que implica una alta carga de responsabilidad y coordinación constante. Para el desarrollo de sus tareas utiliza principalmente smartphones y computadoras para actualizar los datos clínicos, además de comunicarse con familiares y médicos mediante llamadas semanales y WhatsApp, reflejando un uso práctico y adaptado de la tecnología.
 
-Para el monitoreo del estado de salud de los residentes, se realizan rondas cada hora especialmente para los pacientes más criticos. Identifica como dificultad principal la complejidad y lo tedioso que resulta monitorear a todos los residentes simultáneamente debido a la falta de personal y equipos. Los eventos críticos más comunes que se presentan son urgencias médicas como desniveles en la presión sanguínea, falta de oxígeno o aceleraciones cardíacas.
+En cuanto al monitoreo del estado de salud de los residentes, explica que se realizan rondas cada hora, especialmente en el caso de los pacientes más críticos. Sin embargo, identifica como principal dificultad la falta de personal y equipos suficientes, lo que vuelve complejo y tedioso supervisar a todos los residentes de manera simultánea. Entre los eventos críticos más frecuentes menciona desniveles en la presión arterial, falta de oxígeno y aceleraciones cardíacas, situaciones que requieren respuesta inmediata.
 
-Considera que la información en tiempo real que más ayudaría a su labor sería la ubicación, los malestares generales y alertas si un residente sufre un accidente o presenta alguna variación en su salud. En caso de emergencia, la acción actual es comunicarse de inmediato con el hospital más cercano mientras se aplican primeros auxilios.
+Judith considera que la información en tiempo real sobre la ubicación, los malestares generales y las alertas automáticas ante accidentes o variaciones de salud sería de gran ayuda para optimizar su labor. En casos de emergencia, el procedimiento actual consiste en contactar al hospital más cercano mientras se aplican primeros auxilios dentro del establecimiento.
 
-La enfermera considera que un parche inteligente como MediTrack sería muy útil para obtener datos en tiempo real y facilitar los chequeos médicos. Las funcionalidades que considera imprescindibles para implementarlo en su institución son la obtención de datos biométricos, alertas y un sistema o mapa de calor para detectar el movimiento diario.
+Respecto a una solución como MediTrack, la enfermera destaca su alto potencial para facilitar los chequeos médicos y mejorar la seguridad de los residentes. Entre las funcionalidades que considera imprescindibles se encuentran la obtención de datos biométricos, las alertas inmediatas y un sistema de mapa de calor que permita detectar patrones de movimiento diario.
 
-Sin embargo, identifica posibles obstáculos para su adopción, como el costo y la capacitación necesaria para todos los cuidadores del centro. Opina que los familiares estarían dispuestos a pagar un valor adicional por el servicio, ya que les brindaría tranquilidad y más seguridad sobre la salud de sus seres queridos.
+No obstante, identifica como principales barreras para su implementación el costo del sistema y la capacitación necesaria para el personal. Aun así, expresa que los familiares de los residentes probablemente estarían dispuestos a pagar un valor adicional por el servicio, al brindarles tranquilidad y confianza en el cuidado de sus seres queridos. Judith utiliza un dispositivo Android, lo que demuestra familiaridad con entornos móviles y una buena disposición hacia la adopción de soluciones digitales.
 
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Allegados de adultos mayores**
 
-Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
+El segmento de aliados o familiares está conformado por tres entrevistados, todos con experiencias directas en el cuidado de adultos mayores dentro del entorno familiar. Los participantes tienen entre 19 y 58 años y residen en distintas zonas de Lima Metropolitana. Este grupo se caracteriza por un alto nivel de compromiso emocional, una preocupación constante por la salud y seguridad de sus familiares mayores, y una predisposición favorable hacia el uso de soluciones tecnológicas que faciliten el monitoreo remoto.
+
+**Características objetivas**
+
+| Característica                                                               | Descripción                                                                                  | Porcentaje |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- |
+| Uso de smartphone Android                                                    | Dos de los tres entrevistados utilizan dispositivos Android, mientras que uno emplea iPhone. | 67 %       |
+| Navegador principal: Google Chrome                                           | Todos los entrevistados señalaron que Chrome es su navegador de preferencia.                 | 100 %      |
+| Canal de comunicación principal: WhatsApp                                    | Todos utilizan WhatsApp para comunicarse con sus familiares o cuidadores.                    | 100 %      |
+| Frecuencia de contacto con el adulto mayor: diaria o varias veces por semana | Muestran una comunicación constante con el familiar a su cuidado.                            | 100 %      |
+
+**Características subjetivas**
+
+| Categoría                                                                   | Descripción                                                                                      | Porcentaje |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal: bienestar y prevención de riesgos                     | Los tres entrevistados expresaron preocupación por prevenir emergencias y garantizar seguridad.  | 100 %      |
+| Frustración: falta de información en tiempo real                            | Dos entrevistados mencionaron la angustia de no saber el estado del adulto mayor en emergencias. | 67 %       |
+| Actitud hacia la tecnología: positiva y confiada                            | Todos manifestaron disposición a usar una app si ofrece datos confiables y fáciles de entender.  | 100 %      |
+| Barreras percibidas: complejidad tecnológica o desconfianza en la precisión | Dos participantes señalaron estos factores como obstáculos para adoptar la app.                  | 67 %       |
+| Disposición de pago por la solución                                         | Todos indicaron estar dispuestos a pagar por una herramienta que brinde tranquilidad.            | 100 %      |
 
 **Segmento 2: Médicos**
 
-Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
+El segmento de médicos está conformado por tres profesionales generales que ejercen activamente en centros de salud de nivel básico a intermedio en Lima Metropolitana. Todos atienden regularmente entre 50 y 100 adultos mayores por semana y cuentan con experiencia significativa en geriatría. Este grupo se caracteriza por un enfoque técnico y orientado a resultados, una preocupación constante por la prevención y la atención eficiente de emergencias en adultos mayores, y una disposición favorable hacia el uso de herramientas digitales clínicamente validadas que faciliten el monitoreo en tiempo real y el seguimiento de tratamientos.
+
+**Características objetivas**
+
+| Característica                          | Descripción                                                                                              | Porcentaje                 |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Experiencia en atención geriátrica      | Todos los médicos atienden adultos mayores regularmente, con cargas semanales de 30 a 100 pacientes.     | 100 %                      |
+| Uso de smartphone                       | Dos utilizan iPhone y uno Android para comunicación con pacientes/familiares.                            | 67 % iPhone / 33 % Android |
+| Uso de computadora/laptop               | Todos usan PC para registrar consultas y gestionar información clínica.                                  | 100 %                      |
+| Navegador principal                     | Todos utilizan Google Chrome para sistemas institucionales y consultas médicas.                          | 100 %                      |
+| Canales de comunicación principales     | Todos usan WhatsApp, correo electrónico y llamadas telefónicas para contacto con pacientes y familiares. | 100 %                      |
+| Necesidad de información en tiempo real | Todos destacan la importancia de contar con datos inmediatos sobre los pacientes geriátricos.            | 100 %                      |
+
+**Características subjetivas**
+
+| Categoría                                      | Descripción                                                                                            | Porcentaje |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal                           | Mejorar prevención, atención domiciliaria y calidad de cuidado de adultos mayores.                     | 100 %      |
+| Frustración                                    | Dependencia de información tardía, falta de alertas inmediatas y coordinación limitada entre sistemas. | 100 %      |
+| Actitud hacia la tecnología                    | Positiva, abierta a usar MediTrack si garantiza precisión, confiabilidad y respaldo clínico.           | 100 %      |
+| Barreras percibidas                            | Costos de implementación, necesidad de capacitación y confianza en la veracidad de datos.              | 100 %      |
+| Disposición de pago o modelo de financiamiento | Prefieren modelos compartidos entre instituciones, pacientes y familias para viabilizar la adopción.   | 100 %      |
 
 **Segmento 3: Cuidadores en Casas de Reposo**
 
-Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
+El segmento de cuidadores está conformado por tres profesionales con experiencia directa en instituciones geriátricas en Perú y Europa. Los participantes tienen entre 48 y 57 años y poseen más de 10 años de experiencia en el cuidado de adultos mayores. Este grupo se caracteriza por enfrentar altos niveles de estrés debido a la falta de personal y recursos, pero al mismo tiempo muestra una alta apertura hacia soluciones digitales como MediTrack. Son usuarios habituales de Google Chrome y teléfonos móviles, evidenciando adaptabilidad tecnológica práctica. Se destacan por valorar herramientas que reduzcan la carga laboral, mejoren la eficiencia mediante alertas tempranas y permitan un seguimiento más efectivo de los tratamientos y signos vitales, además de favorecer la comunicación entre cuidadores, familiares y médicos.
+
+### Segmento: Cuidadores
+
+**Características objetivas**
+
+| Característica                        | Descripción                                                                                                           | Porcentaje                 |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Experiencia en cuidado geriátrico     | Todos cuentan con más de 10 años de experiencia en instituciones geriátricas.                                         | 100 %                      |
+| Carga de residentes/pacientes         | Supervisan entre 18 y 100 adultos mayores según el centro de trabajo.                                                 | 100 %                      |
+| Dispositivo principal                 | Dos utilizan iPhone y uno Android para comunicación y gestión diaria.                                                 | 67 % iPhone / 33 % Android |
+| Navegador principal                   | Google Chrome como herramienta digital principal.                                                                     | 100 %                      |
+| Canales de comunicación               | WhatsApp, correo electrónico y llamadas telefónicas con familiares y otros cuidadores.                                | 100 %                      |
+| Necesidad de monitoreo en tiempo real | Todos destacan la importancia de recibir alertas inmediatas y seguimiento constante de signos vitales y tratamientos. | 100 %                      |
+
+**Características subjetivas**
+
+| Categoría                       | Descripción                                                                                                        | Porcentaje |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal            | Mejorar la eficiencia del cuidado, reducir estrés laboral y garantizar la seguridad de los adultos mayores.        | 100 %      |
+| Frustración                     | Escasez de personal, falta de recursos y comunicación insuficiente entre equipos y familiares.                     | 100 %      |
+| Actitud hacia la tecnología     | Positiva, alta disposición para adoptar soluciones digitales como MediTrack.                                       | 100 %      |
+| Barreras percibidas             | Costo del sistema y necesidad de capacitación del personal.                                                        | 100 %      |
+| Funcionalidades clave valoradas | Alertas inmediatas, monitoreo de signos vitales, seguimiento de tratamientos y organización de la atención diaria. | 100 %      |
+| Disposición de pago             | Consideran que familiares podrían estar dispuestos a pagar por tranquilidad y seguridad adicional.                 | 100 %      |
 
 ## 2.3. Needfinding
 
+En esta sección, MediTrack busca identificar y comprender de manera profunda las necesidades, motivaciones y frustraciones de los distintos actores involucrados en el cuidado de adultos mayores. A través de entrevistas y observaciones, se ha recopilado información cualitativa que permite detectar oportunidades de mejora y diseñar soluciones que respondan de manera efectiva a los desafíos reales que enfrentan los usuarios.
+
 ### 2.3.1. User Personas
+
+Para traducir los hallazgos del needfinding en herramientas de diseño concretas, se han desarrollado user personas que representan de manera clara y detallada los distintos segmentos de usuarios. Estas personas sintetizan características objetivas y subjetivas, permitiendo a MediTrack comprender mejor a sus usuarios, anticipar sus necesidades y diseñar funcionalidades que generen valor tanto para adultos mayores como para cuidadores y profesionales de la salud.
 
 ### User Persona – Doctor
 
-![Doctor](./assets/chapter2/LuisJimenez.png)
+Esta persona se construyó directamente a partir de las entrevistas a médicos generales y geriatras. Refleja sus necesidades de contar con información en tiempo real, mejorar la prevención y atención de emergencias, y utilizar herramientas digitales confiables. Los hallazgos muestran sus frustraciones con los sistemas actuales y la disposición a adoptar soluciones como MediTrack.
+
+![Doctor](/assets/chapter2/LuisJimenez.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
-![Allegado](./assets/chapter2/ValeriaPancorbo.png)
+Esta persona se creó basándose en las entrevistas a familiares de adultos mayores. Representa a usuarios comprometidos con el cuidado y la seguridad de sus seres queridos, preocupados por recibir información confiable y constantes actualizaciones sobre su bienestar. También refleja la necesidad de interfaces simples y claras para facilitar la adopción de la app.
 
-### User Persona – Enfermera
+![Allegado](/assets/chapter2/ValeriaPancorbo.png)
 
-![Enfermera](./assets/chapter2/CarlaFernandez.png)
+### User Persona – Cuidador
+
+Esta persona se basa en las entrevistas a cuidadores de casas de reposo. Refleja la experiencia, la carga laboral y la necesidad de herramientas que faciliten el monitoreo diario de los adultos mayores, con alertas inmediatas y seguimiento de tratamientos. Destaca la disposición a usar soluciones digitales que reduzcan estrés y mejoren la organización del trabajo.
+
+![Cuidador](/assets/chapter2/CarlaFernandez.png)
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presentan los User Task Matrix correspondientes a los segmentos objetivos del proyecto (allegados, personal medico y casas de reposo).
-A continuación, se detallan las tareas que realizan.
+En esta sección se presenta el User Task Matrix de los segmentos objetivos del proyecto: allegados, personal médico y personal de casas de reposo.
+El objetivo es identificar y organizar las tareas que cada segmento realiza en su actividad diaria, antes de la implementación de MediTrack, destacando la frecuencia y la importancia de cada tarea.
+Esta información permitirá comprender mejor las necesidades reales de los usuarios y servir como base para el diseño de soluciones efectivas.
 
-| TASK                                                                  | Allegados – FREQUENCY | Allegados – IMPORTANCE | Personal médico – FREQUENCY | Personal médico – IMPORTANCE | Casas de reposo – FREQUENCY | Casas de reposo – IMPORTANCE |
-| --------------------------------------------------------------------- | --------------------- | ---------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- |
-| Recibir notificaciones en tiempo real sobre cambios en signos vitales | Always                | High                   | Always                      | High                         | Always                      | High                         |
-| Monitorear en tiempo real los signos vitales de varios pacientes      | Rarely                | Medium                 | Always                      | High                         | Always                      | High                         |
-| Configurar planes de monitoreo individualizados                       | Never                 | Low                    | Often                       | High                         | Often                       | High                         |
-| Acceder a reportes detallados para decisiones clínicas                | Rarely                | Medium                 | Often                       | High                         | Sometimes                   | Medium                       |
-| Recibir alertas tempranas de riesgo crítico (caídas, arritmias, etc.) | Often                 | High                   | Always                      | High                         | Always                      | High                         |
-| Supervisar múltiples pacientes desde un panel centralizado            | Never                 | Low                    | Sometimes                   | Medium                       | Always                      | High                         |
-| Priorizar alertas colectivas según criticidad                         | Rarely                | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
-| Asignar responsables por turno para seguimiento de adultos mayores    | Never                 | Low                    | Rarely                      | Medium                       | Often                       | Medium                       |
-| Capacitar nuevo personal en el uso de la plataforma MediTrack         | Never                 | Low                    | Rarely                      | Medium                       | Sometimes                   | Medium                       |
+| TASK                                        | Allegados – FREQUENCY | Allegados – IMPORTANCE | Personal médico – FREQUENCY | Personal médico – IMPORTANCE | Casas de reposo – FREQUENCY | Casas de reposo – IMPORTANCE |
+| ------------------------------------------- | --------------------- | ---------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- |
+| Llamar o contactar al adulto mayor          | Often                 | High                   | Rarely                      | Medium                       | Rarely                      | Medium                       |
+| Coordinar visitas o citas                   | Often                 | High                   | Often                       | High                         | Often                       | High                         |
+| Revisar estado de salud manualmente         | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Registrar datos de pacientes manualmente    | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Supervisar signos vitales o rutinas diarias | Rarely                | Medium                 | Often                       | High                         | Often                       | High                         |
+| Atender emergencias o incidentes            | Rarely                | High                   | Often                       | High                         | Often                       | High                         |
+| Revisar reportes de familiares o cuidadores | Often                 | High                   | Sometimes                   | Medium                       | Sometimes                   | Medium                       |
+| Coordinar con otros profesionales de salud  | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Dar seguimiento a tratamientos o medicación | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los Journey Maps de los segmentos objetivos: doctor, allegado de adulto mayor y enfermera.
+Los Journey Maps permiten visualizar paso a paso la experiencia de cada usuario en relación con la atención y cuidado de adultos mayores, identificando puntos críticos, oportunidades de mejora y emociones asociadas a cada etapa de su interacción con el servicio.
+
 ### Journey Mapping – Doctor
 
-![Luis Jiménez Journey Map.png](./assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
+El journey map de Luis Jiménez, médico geriatra en una casa de reposo, muestra cómo descubre en MediTrack una herramienta clave para mejorar la atención de sus pacientes mayores. A lo largo de su experiencia, pasa de enfrentar la falta de datos en tiempo real y la sobrecarga de trabajo a utilizar alertas y reportes automatizados que optimizan su diagnóstico y prevención, reflejando una evolución hacia una práctica médica más eficiente, conectada y confiable.
+
+![Luis Jiménez Journey Map.png](assets/chapter2/Luis%20Jim%C3%A9nez%20Journey%20Map.png)
 
 ### Journey Mapping – Allegado de Adulto Mayor
 
-![Valeria Pancorbo Journey Map.png](./assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
+El journey map de Valeria Pancorbo, arquitecta e hija de una adulta mayor, refleja cómo encuentra en MediTrack una solución tecnológica para cuidar a su madre a distancia. Su experiencia pasa de la ansiedad y la incertidumbre por no poder estar presente todo el tiempo, a la tranquilidad de recibir alertas y monitorear signos vitales en tiempo real, lo que le permite equilibrar su vida laboral con el bienestar y seguridad de su madre.
+
+![Valeria Pancorbo Journey Map.png](assets/chapter2/Valeria%20Pancorbo%20Journey%20Map.png)
 
 ### Journey Mapping – Enfermera
+
+El journey map de Carla Fernández, enfermera en una casa de reposo, refleja su transición de la frustración por no poder supervisar a todos los adultos mayores simultáneamente hacia la satisfacción de contar con MediTrack como apoyo tecnológico. Gracias al monitoreo en tiempo real y las alertas automáticas, Carla logra optimizar su trabajo, reducir el estrés y brindar una atención más segura y coordinada a sus residentes.
 
 ![Carla Fernández Journey Map.png](assets/chapter2/Carla%20Fern%C3%A1ndez%20Journey%20Map.png)
 
 ### 2.3.4. Empathy Mapping
 
+En esta sección se presentan los Empathy Maps correspondientes a los segmentos objetivos: doctor, allegado de adulto mayor y enfermera.
+Los Empathy Maps ayudan a comprender las necesidades, preocupaciones, motivaciones y frustraciones de los usuarios, proporcionando un entendimiento profundo de su perspectiva y sirviendo como base para diseñar soluciones centradas en sus experiencias y emociones.
+
 ### Empathy Mapping – Doctor
+
+El Dr. Luis Jiménez, médico geriatra en una casa de reposo, se siente frustrado por la sobrecarga de pacientes y la falta de información en tiempo real que le impide anticiparse a emergencias. Escucha a colegas y familiares demandar soluciones más confiables y observa la necesidad de herramientas digitales que mejoren el monitoreo y la coordinación. Busca brindar atención médica de calidad, reducir complicaciones y ofrecer tranquilidad a las familias mediante tecnología que respalde su labor clínica.
 
 ![Luis Jimenez Empathy Map.png](assets/chapter2/Luis%20Jimenez%20Empathy%20Map.png)
 
 ### Empathy Mapping – Allegado de Adulto Mayor
 
+El Empathy Map de Valeria Pancorbo muestra a una hija cuidadora que vive la ansiedad de no poder estar físicamente con su madre y el miedo a que algo ocurra sin que ella lo sepa. Busca una solución tecnológica confiable que le brinde tranquilidad, permitiéndole monitorear la salud de su madre a distancia y reaccionar ante emergencias. Valeria desea equilibrar su vida laboral con el cuidado familiar, reducir su carga emocional y sentirse segura de que su madre está protegida en todo momento.
+
 ![Valeria Pancorbo Empathy Map.png](assets/chapter2/Valeria%20Pancorbo%20Empathy%20Map.png)
 
 ### Empathy Mapping – Enfermera
 
-![Carla Fernandez Empathy Map.png](assets/chapter2/Carla%20Fernandez%20Empathy%20Map.png)
+El Empathy Map de Carla Fernández refleja la realidad de una enfermera que enfrenta la presión de cuidar simultáneamente a numerosos adultos mayores con recursos limitados y sistemas poco integrados. Se siente preocupada por no poder atender a todos a tiempo, pero confía en que la tecnología puede ayudarla a reducir riesgos y mejorar la atención. Busca herramientas que automaticen alertas, faciliten la coordinación con médicos y familiares, y le brinden tranquilidad al disminuir su carga laboral y el estrés diario.
 
-### 2.3.2. User Task Matrix
+![Carla Fernandez Empathy Map.png](assets/chapter2/Carla%20Fernandez%20Empathy%20Map.png)
 
 ## 2.4. Big Picture EventStorming
 
@@ -1026,86 +1259,108 @@ Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reporte
 
 ## 2.5. Ubiquitous Language
 
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de MediTrack, una plataforma digital diseñada para facilitar el monitoreo, gestión y acompañamiento de la salud de adultos mayores en clínicas, casas de reposo y entornos familiares. Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales. Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de los adultos mayores y sus cuidadores, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
+
+- Admin
+  Usuario con permisos de gestión dentro de una clínica o casa de reposo afiliada a MediTrack. Es responsable de registrar pacientes, asignar doctores y cuidadores, supervisar el estado de salud de los adultos mayores y generar reportes institucionales.
+
+- Doctor
+  Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
+
+- Keeper
+
+  Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
+
+- Senior citizen
+  Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
+
+- Report
+  Registro estructurado de información relevante en la plataforma. Puede referirse a un estado clínico, evolución médica, incidente o evaluación periódica del adulto mayor. Los reportes pueden ser generados por doctores, cuidadores o administradores.
+
+- Alert
+  Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
+
+- Vital signs
+  Información registrada periódicamente sobre parámetros de salud del adulto mayor (frecuencia cardíaca, presión arterial, oxigenación, temperatura). Base para alertas y reportes médicos.
+
+- IoT Device
+  Equipamiento utilizado para el monitoreo en tiempo real de los adultos mayores, enviando datos sobre actividad y signos vitales a MediTrack.
+
+- Profile
+  Conjunto de información personal y médica de un adulto mayor, allegado, doctor, cuidador o administrador. Central para la gestión y acceso a la información en MediTrack.
+
+- Save / Register
+  Acción de almacenar información en la plataforma. Puede aplicarse a datos de adultos mayores, signos vitales, reportes, tratamientos o configuraciones.
+
+- Download  
+  Acción de obtener información de la plataforma en formato externo (PDF, CSV) para revisión o análisis. Puede incluir reportes médicos o estadísticas.
+
+- Add
+  Acción de introducir nuevos elementos en la plataforma, como un adulto mayor, un cuidador, un doctor o un plan de cuidado.
+
+- Statistic
+  Representa datos agregados sobre la salud, bienestar y seguimiento de los adultos mayores. Incluye indicadores como evolución de signos vitales, cumplimiento de tratamientos, frecuencia de alertas o actividad física. Estas métricas son consultadas por doctores, cuidadores, administradores y allegados para tomar decisiones informadas.
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
 
-# Epica 1: Landing Page e Información Inicial
+Las User Stories representan los requisitos funcionales del sistema desde la perspectiva del usuario. Cada historia describe una necesidad específica, su contexto y los criterios de aceptación que garantizan su correcta implementación. En este conjunto se abarcan flujos clave como el registro, inicio de sesión, visualización de información, gestión de usuarios y administración de clínicas y casas de reposo, priorizadas según su valor para el negocio.
 
-| USER STORY ID | TÍTULO | DESCRIPCIÓN | CRITERIOS DE ACEPTACIÓN | RELACIONADO CON (Epic ID) |
-|---------------|--------|-------------|--------------------------|----------------------------|
-| US01 | Visualización de la Landing Page | Como visitante, quiero acceder a la landing page para conocer la solución. | Escenario: acceso correcto o falla de carga con mensaje de error. | EP01 |
-| US02 | Visualizar Problemas Actuales | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | Escenario: scroll muestra emergencias, monitoreo irregular, desconexión familiar. | EP01 |
-| US03 | Visualizar Soluciones Propuestas | Como médico, quiero ver las soluciones tecnológicas de MediTrack. | Escenario: se muestran detección inmediata, monitoreo continuo, conexión total. | EP01 |
-| US04 | Visualizar Impacto en Cifras | Como visitante, quiero ver indicadores de impacto. | Escenario: métricas de emergencias (-85%), satisfacción (+95%), hospitalizaciones (-85%). | EP01 |
-| US05 | Ver Tecnologías que Salvan Vidas | Como enfermero, quiero conocer los sensores y dispositivos. | Escenario: muestra conectividad, seguridad, autonomía, sensores, tiempo real. | EP01 |
-| US06 | Ver Nuestra Misión | Como familiar, quiero entender la misión de MediTrack. | Escenario: misión clara enfocada en mejorar calidad de vida. | EP01 |
-| US07 | Ver Nuestra Visión | Como médico, quiero conocer la visión a futuro de MediTrack. | Escenario: metas a 5 años y liderazgo en LATAM. | EP01 |
-| US08 | Consultar Plan Gratuito | Como visitante, quiero ver el plan gratuito. | Escenario: beneficios: signos vitales, alertas, acceso web. | EP01 |
-| US09 | Consultar Plan Premium | Como allegado, quiero ver el plan premium. | Escenario: informes personalizados, soporte prioritario. | EP01 |
-| US10 | Consultar Plan Enterprise | Como médico o institución, quiero ver el plan enterprise. | Escenario: opción de contacto directo. | EP01 |
-| US11 | Acceder al Formulario de Contacto | Como visitante, quiero llenar un formulario. | Escenario: datos enviados generan confirmación. | EP01 |
-| US12 | Información de Contacto Alternativa | Como médico, quiero ver datos de contacto directo. | Escenario: se muestran teléfono, correo y dirección. | EP01 |
+| EPIC ID | TÍTULO | 
+|---------|--------|
+| EP01 | Landing Page e Información Inicial |
+| EP02 | Registro e Inicio de Sesión |
+| EP03 | Gestión de Clínicas |
+| EP04 | Gestión de Casas de Reposo |
+| EP05 | Dashboard del Usuario (Allegados/Familiares) |
+| EP06 | Operaciones Generales |
 
----
-
-# Epica 2: Registro e Inicio de Sesión
-
-| USER STORY ID | TÍTULO | DESCRIPCIÓN | CRITERIOS DE ACEPTACIÓN | RELACIONADO CON (Epic ID) |
-|---------------|--------|-------------|--------------------------|----------------------------|
-| US13 | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de login. | Escenarios: acceso desde landing page o enlace directo. | EP01 |
-| US14 | Iniciar Sesión en MediTrack | Como usuario registrado, quiero iniciar sesión con credenciales. | Escenarios: éxito o error de credenciales inválidas. | EP01 |
-| US15 | Visualizar Planes Disponibles | Como visitante, quiero ver los planes al no tener cuenta. | Escenario: muestra 3 planes con nombre, características y precio. | EP01 |
-| US16 | Registrarse en MediTrack | Como nuevo usuario, quiero completar formulario de registro. | Escenarios: éxito crea cuenta; error muestra validación de campos. | EP01 |
-| US17 | Adaptar Dashboard según Plan | Como usuario registrado, quiero que el dashboard se adapte al plan. | Escenarios: funcionalidades disponibles/restringidas según plan. | EP01 |
-
----
-
-# Epica 3: Gestión de Clínicas
-
-| USER STORY ID | TÍTULO | DESCRIPCIÓN | CRITERIOS DE ACEPTACIÓN | RELACIONADO CON (Epic ID) |
-|---------------|--------|-------------|--------------------------|----------------------------|
-| US18 | Registro de clínica | Como representante, quiero registrar a mi clínica. | Escenarios: éxito, error por datos inválidos, clínica ya registrada. | EP02 |
-| US19 | Creación automática del rol de administrador | Como admin, quiero recibir credenciales únicas. | Escenarios: creación automática de usuario admin y envío por correo. | EP02 |
-| US20 | Acceso inicial del administrador | Como admin, quiero iniciar sesión con credenciales válidas. | Escenarios: éxito, credenciales inválidas, campos vacíos. | EP02 |
-| US21 | Registro de adultos mayores | Como admin, quiero registrar adultos mayores. | Escenarios: éxito guarda datos; error por campos incompletos. | EP02 |
-| US22 | Añadir doctor | Como admin, quiero registrar doctores. | Escenarios: éxito crea cuenta, error por correo inválido, listado de doctores. | EP02 |
-| US23 | Ver lista de adultos mayores asignados en clínica | Como doctor, quiero ver lista de adultos mayores asignados. | Escenarios: muestra lista o mensaje si no tiene asignados. | EP02 |
-| US24 | Visualizar información clínica en clínica | Como doctor, quiero ver información clínica. | Escenario: muestra signos vitales claros y actualizados. | EP02 |
-| US25 | Recibir alertas críticas en clínica | Como doctor, quiero recibir alertas de cambios críticos. | Escenario: alerta en tiempo real al detectar anomalía. | EP02 |
-| US37 | Añadir adulto mayor en clínica | Como admin, quiero añadir adulto mayor con datos. | Escenarios: éxito o error por campos incompletos. | EP02 |
-| US38 | Añadir doctor en clínica | Como admin, quiero agregar doctor para asignar paciente. | Escenario: selección de doctor para asignar adulto mayor. | EP02 |
-| US39 | Asignar adulto mayor a un doctor | Como admin, quiero asignar adulto mayor a un doctor. | Escenario: selección desde lista de adultos mayores. | EP02 |
-
----
-
-# Epica 4: Gestión de Casas de Reposo
-
-| USER STORY ID | TÍTULO | DESCRIPCIÓN | CRITERIOS DE ACEPTACIÓN | RELACIONADO CON (Epic ID) |
-|---------------|--------|-------------|--------------------------|----------------------------|
-| US32 | Recibir alertas críticas en casa de reposo | Como cuidador, quiero recibir alertas críticas. | Escenario: notificación en tiempo real y opciones de contacto. | EP03 |
-| US33 | Visualizar información clínica en casa de reposo | Como cuidador, quiero visualizar información clínica básica. | Escenario: muestra historial clínico y alertas. | EP03 |
-| US34 | Ver lista de adultos mayores asignados en casa de reposo | Como admin, quiero ver la lista de adultos mayores bajo cuidado. | Escenarios: muestra lista o mensaje si no hay asignados. | EP03 |
-| US40 | Añadir adulto mayor en casa de reposo | Como admin, quiero añadir adulto mayor con datos. | Escenarios: éxito o error por campos incompletos. | EP03 |
-| US41 | Añadir cuidador en casa de reposo | Como admin, quiero añadir un cuidador. | Escenario: selección del cuidador para asignar adulto mayor. | EP03 |
-| US42 | Asignar adulto mayor a un cuidador | Como admin, quiero asignar adulto mayor a un cuidador. | Escenario: lista de adultos mayores para asignar. | EP03 |
-| US43 | Añadir cuidador | Como admin, quiero registrar cuidadores. | Escenarios: éxito crea cuenta, error por correo inválido, listado de cuidadores. | EP03 |
-
----
-
-# Epica 5: Dashboard del Usuario (Allegados/Familiares)
-
-| USER STORY ID | TÍTULO | DESCRIPCIÓN | CRITERIOS DE ACEPTACIÓN | RELACIONADO CON (Epic ID) |
-|---------------|--------|-------------|--------------------------|----------------------------|
-| US26 | Acceso al dashboard | Como allegado, quiero acceder al dashboard. | Escenario: login correcto muestra dashboard. | EP04 |
-| US27 | Visualizar signos vitales básicos | Como usuario no premium, quiero ver signos vitales básicos. | Escenario: muestra presión, ritmo, saturación. | EP04 |
-| US28 | Visualizar signos vitales premium | Como allegado, quiero ver datos extra como temperatura. | Escenario: muestra presión, ritmo, saturación y temperatura. | EP04 |
-| US29 | Recibir alertas de caídas | Como familiar, quiero recibir alertas de caídas. | Escenario: notificación inmediata por caída. | EP04 |
-| US30 | Recibir alertas de salud | Como usuario, quiero recibir alertas de cambios importantes. | Escenario: dashboard muestra notificación del evento. | EP04 |
-| US31 | Acceso a soporte | Como usuario, quiero acceder a soporte desde dashboard. | Escenario: opción soporte abre formulario o chat. | EP04 |
-| US35 | Selección de idioma | Como usuario, quiero cambiar el idioma. | Escenarios: cambio a inglés o español actualiza interfaz. | EP05 |
-| US36 | Consultar la hora exacta | Como usuario, quiero ver la hora actualizada de mi zona. | Escenario: hora local mostrada con API. | EP05 |
-
+| Story ID 	| Título 	| Descripción 	| Criterios de Aceptación 	| Epic ID 	|
+|---	|---	|---	|---	|---	|
+|  US01 	| Visualización de la Landing Page 	|  Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico 	|  Escenario 1: Acceso a la landing page.<br>Given tengo el url de acceso a la página principal de la landing page<br>When hago click en la url<br>Then se muestra completamente la información general de la solución propuesta.<br> Escenario 2: Falla en la carga<br>Given que la pagina no responde o no carga<br>When el servidor responde con error<br>Then <br>se muestra un mensaje de error genérico y la opción de intentar de nuevo 	|  EP01 	|
+| US02 	| Visualizar Problemas Actuales 	| Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución. 	|  Escenario 1:<br>Given estoy en la landing page<br>When hago scroll a la sección de problemas<br>Then se muestran los puntos de "Emergencias No Detectadas", "Monitoreo Irregular" y "Desconexión Familiar". 	| EP01 	|
+| US03 	| Visualizar Soluciones Propuestas 	| Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional. 	|  Escenario 1:<br>Given estoy en la sección de "Nuestra Solución"<br>When reviso la información<br>Then se muestran claramente "Detección Inmediata", "Monitoreo Continuo" y "Conexión Total". 	| EP01 	|
+| US04 	| Visualizar Impacto en Cifras 	| Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución. 	|  Escenario 1:<br>Given estoy en la sección de impacto<br>When hago scroll<br>Then se muestran métricas de reducción de emergencias (85%), satisfacción (95%), reducción en hospitalizaciones (85%), monitoreo continuo (24/7). 	| EP01 	|
+| US05 	| Ver Tecnologías que Salvan Vidas 	| Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad. 	|  Escenario 1:<br>Given estoy en la sección de "Tecnologías que salvan vidas"<br>When la reviso<br>Then se muestran conectividad, seguridad, autonomía, sensores, tiempo real y precisión. 	| EP01 	|
+| US06 	| Ver Nuestra Misión 	| Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa. 	|  Escenario 1:<br>Given estoy en la sección de "Misión y Visión"<br>When reviso<br>Then veo una misión clara enfocada en mejorar la calidad de vida con tecnología accesible. 	| EP01 	|
+| US07 	| Ver Nuestra Visión 	| Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado. 	| Escenario 1:<br>Given estoy en la misma sección<br>When hago scroll<br>Then se muestra una visión con metas a 5 años y liderazgo en América Latina. 	| EP01 	|
+| US08 	| Consultar Plan Gratuito 	| Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso. 	|  Escenario 1:<br>Given estoy en la sección de planes<br>When revisó el plan gratuito<br>Then se muestran beneficios: monitoreo de signos vitales, alertas en tiempo real, acceso web. 	| EP01 	|
+| US09 	| Consultar Plan Premium 	| Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir. 	|  Escenario 1:<br>Given estoy en la sección de planes<br>When seleccionó Premium<br>Then veo beneficios: informes personalizados, soporte prioritario, etc. 	| EP01 	|
+| US10 	| Consultar Plan Enterprise 	| Como visitante, quiero ver el plan Enterprise para soluciones a gran escala. 	|  Escenario 1:<br>Given estoy en la sección de planes<br>When selecciono Enterprise<br>Then se muestra opción de contacto directo para cotización. 	| EP01 	|
+| US11 	| Acceder al Formulario de Contacto 	| Como visitante, quiero llenar un formulario para recibir más información personalizada. 	|  Escenario 1:<br>Given estoy en la sección de contacto<br>When ingreso mis datos y presiono enviar<br>Then se confirma que la solicitud fue registrada. 	| EP01 	|
+| US12 	| Información de Contacto Alternativa 	| Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario. 	|  Escenario 1:<br>Given estoy en la sección de contacto<br>When revisó los datos<br>Then se muestran teléfono, correo electrónico y dirección. 	| EP01 	|
+| US13 	| Visualizar Planes Disponibles 	| Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades. 	| Escenario 1: Visualización de planesGiven selecciono “No tengo cuenta” en la pantalla de inicio de sesión When accedo a la sección de planesThen visualizo   tres planes que me ofrece MediTrack con nombre, características y precio. 	| EP01 	|
+| US14 	| Acceso al formulario de inicio de sesión 	| Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales. 	| Escenario 1: Visualización de formulario<br>Given ingreso a la landing page<br>When hago click en la opción de inicio de sesión<br>Then visualizo el formulario de inicio de sesión.<br>Escenario 2: Acceso directo mediante enlace URL<br>Given que accedo mediante el enlace directo<br>When la página carga<br>Then el formulario carga correctamente. 	| EP02 	|
+| US15 	| Iniciar Sesión en MediTrack 	| Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente. 	| Escenario 1: Inicio de sesión exitoso Given tengo una cuenta válida When ingreso mi correo y contraseña correctos Then accedo directamente al dashboard de MediTrack.<br>Escenario 2: Inicio de sesión fallido Given no ingreso credenciales válidas When intento iniciar sesión Then el sistema muestra un mensaje de error indicando “Usuario o contraseña incorrectos”. 	| EP02 	|
+| US16 	| Registrarse en MediTrack 	| Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma. 	| Escenario 1: Registro exitoso Given selecciono un plan When completo todos los campos obligatorios del formulario Then el sistema crea mi cuenta y me lleva a la pestaña para agregar a mi familiar<br>Escenario 2: Registro fallido Given no completo todos los campos obligatorios When intento registrarme Then el sistema me muestra mensajes de validación en los campos faltantes. 	| EP02 	|
+| US17 	| Registro de clínica 	| Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal. 	| Escenario 01: Registro exitoso de la clínica<br>Given que el representante se encuentra en el formulario de registro de clínicaWhen ingresa los datos obligatorios de la clínica( nombre, RUC, dirección, correo institucional) de manera válidaAnd confirma el registroThen el sistema crea la cuenta enterprise de la clínicaAnd muestra un mensaje confirmando el registro exitoso<br><br>Escenario 02: Datos incompletos o inválidos<br>Given que el representante se encuentra en el formulario de registro de clínicaWhen deja campos obligatorios vacíos o ingresa información inválidaAnd confirma el registroThen el sistema muestra un mensaje de error indicando los campos faltantes o incorrectosAnd no permite continuar con el registro.<br><br>Escenario 03: Clínica ya registrada<br>Given que una clínica con el mismo RUC o dominio ya existe en la plataformaWhen el representante intenta registrarla nuevamenteThen el sistema muestra un mensaje indicando que la clínica ya está registradaAnd no crea una nueva cuenta. 	| EP03 	|
+| US18 	| Creación automática del rol de administrador 	| Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel. 	| Escenario 01: Generación automática del administrador<br>Given que una clínica se registró exitosamente en la plataformaWhen el sistema finaliza el proceso de registroThen crea automáticamente un usuario con rol “Administrador” asociado a esa clínica<br><br>Escenario 02: Envío de credenciales al correo institucional<br>Given que el administrador de la clínica fue creado por el sistemaWhen el registro de clínica es exitosoThen el sistema envía un correo al correo institucional de la clínica con el usuario y contraseña inicial. 	| EP03 	|
+| US19 	| Acceso inicial del administrador sin cambio obligatorio 	| Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica. 	| Escenario 01: Inicio de sesión exitoso<br>Given que el administrador de la clínica  tiene credenciales válidas<br>When ingresa correctamente las credenciales en la pantalla de login<br>And presiona el botón "Iniciar sesión"<br>Then el sistema valida las credenciales<br>And redirige al administrador al dashboard de MediTrack<br>Escenario 02: Credenciales inválidas<br>Given que el administrador de la clínica está en la pantalla de login<br>When ingresa un usuario o contraseña incorrecta<br>And presiona "Iniciar sesión"<br>Then el sistema muestra un mensaje de error indicando "Credenciales inválidas"<br>And no permite el acceso a la plataforma.<br>Escenario 03: Campos obligatorios vacíos<br>Given que el administrador de la clínica  está en la pantalla de login<br>When inicia sesión sin ingresar correo y/o contraseña<br>Then el sistema muestra un mensaje indicando que ambos campos son obligatorios<br> 	| EP03 	|
+| US20 	| Registro de adultos mayores 	| Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema 	| Escenario 01: Registro exitoso de adulto mayor<br>Given que el administrador de la clínica  está autenticado en el panel de gestión<br>When ingresa los datos obligatorios del adulto mayor (nombre, apellido, DNI,edad, peso, altura, género)<br>And presiona "Registrar"<br>Then el sistema guarda al adulto mayor en la base de datos<br>And muestra un mensaje "Adulto mayor registrado exitosamente"<br>And el  adulto mayor aparece en la lista de adultos mayores de la clínica.<br>Escenario 02: Campos Obligatorios incompletos<br>Given que el administrador de la clínica está registrando un adulto mayor<br>When deja en blanco un campo obligatorio<br>And presiona "Registrar"<br>Then el sistema muestra un mensaje indicando qué campo falta completar<br>And no permite guardar el adulto mayor. 	| EP03 	|
+| US21 	| Añadir doctor 	| Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| Escenario 01: Registro exitoso de un doctor<br>Given que el administrador accede al módulo de gestión de doctores<br>When completa el formulario de registro con nombre, especialidad y correo institucional <br>And confirma el registro<br>Then el sistema crea la cuenta del doctor<br>And envía un correo al doctor con sus credenciales de acceso iniciales.<br>Escenario 2: Registro fallido por correo inválido<br>Given que el administrador está registrando un nuevo doctor<br>When ingresa un correo con formato inválido o duplicado en el sistema<br>Then el sistema rechaza el registro<br>And muestra un mensaje de error indicando que el correo no es válido o ya está en uso.<br>Escenario 03: Listado de doctores registrados<br>Given que el administrador ha registrado doctores en la plataforma<br>When accede al listado de doctores<br>Then el sistema muestra los nombres, especialidades de cada doctor. 	| EP03 	|
+| US22 	| Ver lista de adultos mayores asignados en clínica 	| Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado 	| Escenario 01: Visualización de adultos mayores asignados<br>Given que el doctor inició sesión con credenciales válidas<br>When accede al módulo “Mis adultos mayores”<br>Then el sistema muestra una lista con los adultos mayores que le fueron asignados<br>And cada  adulto mayor se presenta con nombre, edad y estado de salud resumido.<br><br>Escenario 02: Sin adultos mayores asignados<br>Given que el doctor inició sesión con credenciales válidas<br>When accede al módulo “Mis adultos mayores asignados”<br>And no tiene adultos mayores asignados<br>Then el sistema muestra un mensaje indicando que aún no tiene adultos mayores asignados. 	| EP03 	|
+| US23 	| Visualizar información clínica del  adulto mayor en clínica 	| Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento 	| Escenario 01: Visualización exitosa de datos clínicos<br>Given que el doctor tiene adultos mayores asignados<br>When selecciona un adulto mayor en su lista<br>Then el sistema muestra su signos vitales <br>And la información se presenta de forma clara y actualizada. 	| EP03 	|
+| US24 	| Recibir alertas críticas de adultos mayores en clínicas 	| Como administrador de una clínica, quiero recibir alertas sobre cambios críticos en los adultos mayores para actuar a tiempo. 	| Escenario 01: Alerta crítica recibida<br>Given que el sistema detecta un cambio crítico en los datos de un adulto mayor asignado (ej. frecuencia cardíaca anómala)<br>When se genera la alerta<br>Then el sistema envía una notificación en tiempo real al doctor. 	| EP03 	|
+| US25 	| Añadir un adulto mayor junto a sus datos en la clínica 	| Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor 	| Escenario 1: Añade a un adulto mayor correctamente<br>Given que el administrador de una clínica quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And ponga los datos correspondientes<br>Then se añadirá correctamente al adulto mayor<br>Escenario 2: Añade a un adulto mayor de manera fallida<br><br>Given que el administrador de una clínica quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And no ponga todos los datos necesarios<br>Then el sistema muestra un mensaje de error indicando los campos faltantes o incorrectos 	| EP03 	|
+| US26 	| Añadir doctor para asignar adulto mayor en la clínica 	| Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor 	| Escenario 1: Añadir doctor<br>Given que el administrador de una clínica quiere añadir un doctor para asignarle un adulto mayor<br>When vaya a la sección correspondiente<br>Then se selecciona al doctor que quiera asignar un adulto mayor 	| EP03 	|
+| US27 	| Asignar adulto mayor a un doctor en la clínica 	| Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor 	| Escenario 1: Asignar adulto mayor a un doctor<br>Given que se seleccionó a un doctor para asignarle un adulto mayor<br>When se le dé al botón de añadir<br>And se despliegue la lista de adultos mayores<br>Then se podrá seleccionar al adulto mayor que se desea asignar al doctor 	| EP03 	|
+| US28 	| Recibir alertas críticas de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico. 	| Escenario 1: Alerta crítica recibida<br>Given que el sistema detecta un cambio crítico en un adulto mayor (ej. caída, frecuencia cardíaca anómala)<br>When se genera la alerta<br>Then el sistema envía una notificación en tiempo real al panel del administrador<br>And muestra opciones de contacto con el doctor asignado. 	| EP04 	|
+| US29 	| Visualizar información clínica de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente. 	| Escenario 1: Visualización exitosa<br>Given que el cuidador tiene acceso autorizado a un adulto mayor<br>When selecciona el perfil del adulto mayor<br>Then el sistema muestra historial clínico básico, signos vitales y alertas recientes. 	| EP04 	|
+| US30 	| Ver lista de adultos mayores asignados en casa de reposo 	| Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información. 	| Escenario 1: Lista disponible<br>Given que el administrador inició sesión<br>When accede a la sección “Mis adultos mayores”<br>Then el sistema muestra la lista de adultos mayores con nombre, edad y estado de salud resumido.<br>Escenario 2: Sin adultos mayores asignados<br>Given que el administrador no tiene adultos mayores adultos mayores registrados<br>When accede a la sección “Mis adultos mayores adultos mayore”<br>Then el sistema muestra un mensaje: “Aún no hay adultos mayores adultos mayores asignados”. 	| EP04 	|
+| US31 	| Añadir un adulto mayor junto a sus datos en la casa de reposo 	| Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador 	| Escenario 1: Añade a un adulto mayor correctamente<br>Given que el administrador de una casa de reposo quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And ponga los datos correspondientes<br>Then se añadirá correctamente al adulto mayor<br>Escenario 2: Añade a un adulto mayor de manera fallida<br><br>Given que el administrador de una casa de reposo quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And no ponga todos los datos necesarios<br>Then el sistema muestra un mensaje de error indicando los campos faltantes o incorrectos 	| EP04 	|
+| US32 	| Añadir cuidador para asignar adulto mayor en la casa de reposo 	| Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor 	| Escenario 1: Añadir cuidador<br>Given que el administrador de una casa de reposo<br>quiere añadir un cuidador  para asignarle un adulto mayor<br>When vaya a la sección correspondiente<br>Then selecciona al cuidador que quiera asignar un adulto mayor 	| EP04 	|
+| US33 	| Asignar adulto mayor a un cuidador en la casa de reposo 	| Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador 	| Escenario 1: Asignar adulto mayor a un cuidador<br>Given que se seleccionó a un cuidador para asignarle un adulto mayor<br>When se le dé al botón de añadir<br>And se despliegue la lista de adultos mayores<br>Then se podrá seleccionar al adulto mayor que se desea asignar al cuidador 	| EP04 	|
+| US34 	| Añadir cuidador 	| Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| Escenario 01: Registro exitoso de un cuidador<br>Given que el administrador accede al módulo de gestión de cuidadores<br>When completa el formulario de registro con nombre, especialidad y correo institucional <br>And confirma el registro<br>Then el sistema crea la cuenta del cuidador<br>And envía un correo al cuidador con sus credenciales de acceso iniciales.<br>Escenario 2: Registro fallido por correo inválido<br>Given que el administrador está registrando un nuevo cuidador<br>When ingresa un correo con formato inválido o duplicado en el sistema<br>Then el sistema rechaza el registro<br>And muestra un mensaje de error indicando que el correo no es válido o ya está en uso.<br>Escenario 03: Listado de cuidadores registrados<br>Given que el administrador ha registrado cuidadores en la plataforma<br>When accede al listado de cuidadores<br>Then el sistema muestra los nombres, especialidades de cada cuidador. 	| EP04 	|
+| US35 	| Acceso al dashboard MediTrack 	| Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor. 	| Escenario 1: Acceso exitoso Given que tengo cuenta en el sistema When inicio sesión correctamente Then se muestra el dashboard MediTrack con la información de inicio. 	| EP05 	|
+| US36 	| Visualizar signos vitales básicos 	| Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. 	| Escenario 1: Consulta exitosa Given que accedo al dashboard básico When selecciono la opción de “Signos vitales” Then el sistema muestra presión arterial, ritmo cardíaco y saturación de oxígeno. 	| EP05 	|
+| US37 	| Visualizar signos vitales premium 	| Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas 	| Escenario 1: Acceso premium Given que tengo una cuenta premium When accedo a la sección de “Signos vitales” Then se muestran presión arterial, ritmo cardíaco, saturación de oxígeno y temperatura 	| EP05 	|
+| US38 	| Recibir alertas de caídas 	| Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente. 	| Escenario 1: Detección de caída Given que el sistema detecta una caída When se genera la alerta Then recibo una notificación inmediata en la aplicación y correo electrónico. 	| EP05 	|
+| US39 	| Recibir alertas de salud 	| Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor. 	| Escenario 1: Alerta generada<br>Given que ocurre una alteración en los signos vitales del adulto mayor<br>When el sistema detecta el evento<br>Then se muestra una notificación en el dashboard indicando el tipo de alerta. 	| EP05 	|
+| US40 	| Adaptar Dashboard según Plan 	| Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción. 	| Escenario 1: Funcionalidades disponibles según plan Given inicié sesión con un plan básico When accedo al dashboard Then solo veo las funcionalidades incluidas en el plan básico.<br>Escenario 2: Funcionalidades restringidas Given tengo un plan estándar When intento acceder a una funcionalidad Premium Then el sistema muestra un mensaje: “Disponible solo en plan Premium o Enterprise”. 	| EP06 	|
+| US41 	| Acceso a soporte desde el dashboard 	| Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente. 	| Escenario 1: Acceso a soporte Given que estoy en el dashboard When selecciono la opción “Soporte” Then se muestra un formulario de contacto o chat de ayuda. 	| EP06 	|
+| US42 	| Selección de idioma 	| Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera. 	| Escenario 1: Cambio exitoso de idioma<br>Given que el usuario está en la plataforma<br>When hace clic en el botón de idioma y selecciona “EN”<br>Then toda la interfaz se actualiza y muestra textos en inglés.<br>Escenario 2: Cambio de idioma a español<br>Given que el usuario está en la plataforma<br>When hace clic en el botón de idioma y selecciona “ES”<br>Then toda la interfaz se actualiza y muestra textos en español. 	| EP06 	|
+| US43 	| Consultar la hora exacta 	| Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta. 	| Escenario 1: Hora local automática<br>Given que abro MediTrack <br>When la app detecta mi ubicación<br>Then debería mostrarme la hora actual de mi zona local sincronizada con la API 	| EP06 	|
 ---
 
 ## 3.2. Impact Mapping
@@ -1126,51 +1381,63 @@ Impact Map para el segmento de Familiares:
 
 ## 3.3. Product Backlog
 
-| Nº | User Story ID | Título                                   | Descripción                                                                 | Story Points | Epic ID |
-|----|---------------|------------------------------------------|-----------------------------------------------------------------------------|--------------|---------|
-| 1  | US16          | Registrarse en MediTrack                 | Como nuevo usuario, quiero completar formulario de registro.                | 5            | EP01    |
-| 2  | US14          | Iniciar Sesión en MediTrack              | Como usuario registrado, quiero iniciar sesión con credenciales.            | 3            | EP01    |
-| 3  | US17          | Adaptar Dashboard según Plan             | Como usuario registrado, quiero que el dashboard se adapte al plan.         | 5            | EP01    |
-| 4  | US18          | Registro de clínica                      | Como representante, quiero registrar a mi clínica.                          | 5            | EP02    |
-| 5  | US19          | Creación automática del rol de admin     | Como admin, quiero recibir credenciales únicas.                             | 3            | EP02    |
-| 6  | US20          | Acceso inicial del administrador         | Como admin, quiero iniciar sesión con credenciales válidas.                 | 3            | EP02    |
-| 7  | US37          | Añadir adulto mayor en clínica           | Como admin, quiero añadir adulto mayor con datos.                           | 3            | EP02    |
-| 8  | US38          | Añadir doctor en clínica                 | Como admin, quiero agregar doctor para asignar paciente.                    | 3            | EP02    |
-| 9  | US39          | Asignar adulto mayor a un doctor         | Como admin, quiero asignar adulto mayor a un doctor.                        | 3            | EP02    |
-| 10 | US21          | Registro de adultos mayores              | Como admin, quiero registrar adultos mayores.                               | 3            | EP02    |
-| 11 | US22          | Añadir doctor                            | Como admin, quiero registrar doctores.                                      | 3            | EP02    |
-| 12 | US25          | Recibir alertas críticas en clínica      | Como doctor, quiero recibir alertas de cambios críticos.                    | 5            | EP02    |
-| 13 | US24          | Visualizar información clínica en clínica| Como doctor, quiero ver información clínica.                                | 3            | EP02    |
-| 14 | US23          | Ver lista de adultos mayores asignados   | Como doctor, quiero ver lista de adultos mayores asignados.                 | 2            | EP02    |
-| 15 | US40          | Añadir adulto mayor en casa de reposo    | Como admin, quiero añadir adulto mayor con datos.                           | 3            | EP03    |
-| 16 | US43          | Añadir cuidador                          | Como admin, quiero registrar cuidadores.                                    | 3            | EP03    |
-| 17 | US41          | Añadir cuidador en casa de reposo        | Como admin, quiero añadir un cuidador.                                      | 3            | EP03    |
-| 18 | US42          | Asignar adulto mayor a un cuidador       | Como admin, quiero asignar adulto mayor a un cuidador.                      | 3            | EP03    |
-| 19 | US32          | Recibir alertas críticas en casa reposo  | Como cuidador, quiero recibir alertas críticas.                             | 5            | EP03    |
-| 20 | US33          | Visualizar información clínica en reposo | Como cuidador, quiero visualizar información clínica básica.                | 3            | EP03    |
-| 21 | US34          | Ver lista de adultos mayores en reposo   | Como admin, quiero ver la lista de adultos mayores bajo cuidado.            | 2            | EP03    |
-| 22 | US26          | Acceso al dashboard                      | Como allegado, quiero acceder al dashboard.                                 | 2            | EP04    |
-| 23 | US29          | Recibir alertas de caídas                | Como familiar, quiero recibir alertas de caídas.                            | 5            | EP04    |
-| 24 | US30          | Recibir alertas de salud                 | Como usuario, quiero recibir alertas de cambios importantes.                | 5            | EP04    |
-| 25 | US28          | Visualizar signos vitales premium        | Como allegado, quiero ver datos extra como temperatura.                     | 5            | EP04    |
-| 26 | US27          | Visualizar signos vitales básicos        | Como usuario no premium, quiero ver signos vitales básicos.                 | 3            | EP04    |
-| 27 | US31          | Acceso a soporte                         | Como usuario, quiero acceder a soporte desde dashboard.                     | 2            | EP04    |
-| 28 | US01          | Visualización de la Landing Page         | Como visitante, quiero acceder a la landing page para conocer la solución.  | 2            | EP01    |
-| 29 | US15          | Visualizar Planes Disponibles            | Como visitante, quiero ver los planes al no tener cuenta.                   | 2            | EP01    |
-| 30 | US13          | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de login.                      | 1            | EP01    |
-| 31 | US11          | Acceder al Formulario de Contacto        | Como visitante, quiero llenar un formulario.                                | 3            | EP01    |
-| 32 | US12          | Información de Contacto Alternativa      | Como médico, quiero ver datos de contacto directo.                          | 1            | EP01    |
-| 33 | US08          | Consultar Plan Gratuito                  | Como visitante, quiero ver el plan gratuito.                                | 2            | EP01    |
-| 34 | US09          | Consultar Plan Premium                   | Como allegado, quiero ver el plan premium.                                  | 2            | EP01    |
-| 35 | US10          | Consultar Plan Enterprise                | Como médico o institución, quiero ver el plan enterprise.                   | 2            | EP01    |
-| 36 | US02          | Visualizar Problemas Actuales            | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico.  | 1            | EP01    |
-| 37 | US03          | Visualizar Soluciones Propuestas         | Como médico, quiero ver las soluciones tecnológicas de MediTrack.           | 1            | EP01    |
-| 38 | US04          | Visualizar Impacto en Cifras             | Como visitante, quiero ver indicadores de impacto.                          | 1            | EP01    |
-| 39 | US05          | Ver Tecnologías que Salvan Vidas         | Como enfermero, quiero conocer los sensores y dispositivos.                 | 1            | EP01    |
-| 40 | US06          | Ver Nuestra Misión                       | Como familiar, quiero entender la misión de MediTrack.                      | 1            | EP01    |
-| 41 | US07          | Ver Nuestra Visión                       | Como médico, quiero conocer la visión a futuro de MediTrack.                | 1            | EP01    |
-| 42 | US35          | Selección de idioma                      | Como usuario, quiero cambiar el idioma.                                     | 3            | EP05    |
-| 43 | US36          | Consultar la hora exacta                 | Como usuario, quiero ver la hora actualizada de mi zona.                    | 2            | EP05    |
+El Product Backlog es una lista priorizada y dinámica de todas las funcionalidades pendientes de desarrollo. Está ordenado según la necesidad del negocio, comenzando por las historias que permiten la incorporación de nuevos usuarios (registro, inicio de sesión, visualización de planes), seguidas por la gestión interna (registro de clínicas, doctores, adultos mayores y cuidadores), y finalizando con funcionalidades de monitoreo y soporte.
+
+| Puntos | Nivel de esfuerzo | Características                                                       |
+| ------ | ----------------- | --------------------------------------------------------------------- |
+| **1**  | Muy bajo          | Pantallas estáticas, sin lógica ni backend                            |
+| **2**  | Bajo              | Funcionalidades simples con validaciones básicas                      |
+| **3**  | Medio             | Flujo con interacción con backend o estados                           |
+| **4**  | Alto              | Lógica condicional, comunicación con sensores, o integración de datos |
+| **5**  | Muy alto          | Funcionalidades críticas, tiempo real, seguridad, o gestión compleja  |
+
+---
+
+| Story ID 	| Título 	| Descripción 	| Story Points 	| Epic ID 	|
+|---	|---	|---	|---	|---	|
+| US01 	| Visualización de la Landing Page 	|  Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico 	| 1 	| EP01 	|
+| US02 	| Visualizar Problemas Actuales 	| Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución. 	| 1 	| EP01 	|
+| US03 	| Visualizar Soluciones Propuestas 	| Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional. 	| 1 	| EP01 	|
+| US04 	| Visualizar Impacto en Cifras 	| Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución. 	| 2 	| EP01 	|
+| US05 	| Ver Tecnologías que Salvan Vidas 	| Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad. 	| 1 	| EP01 	|
+| US06 	| Ver Nuestra Misión 	| Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa. 	| 1 	| EP01 	|
+| US07 	| Ver Nuestra Visión 	| Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado. 	| 1 	| EP01 	|
+| US08 	| Consultar Plan Gratuito 	| Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso. 	| 2 	| EP01 	|
+| US09 	| Consultar Plan Premium 	| Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir. 	| 2 	| EP01 	|
+| US10 	| Consultar Plan Enterprise 	| Como visitante, quiero ver el plan Enterprise para soluciones a gran escala. 	| 2 	| EP01 	|
+| US11 	| Acceder al Formulario de Contacto 	| Como visitante, quiero llenar un formulario para recibir más información personalizada. 	| 3 	| EP01 	|
+| US12 	| Información de Contacto Alternativa 	| Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario. 	| 1 	| EP01 	|
+| US13 	| Visualizar Planes Disponibles 	| Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades. 	| 2 	| EP01 	|
+| US14 	| Acceso al formulario de inicio de sesión 	| Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales. 	| 2 	| EP02 	|
+| US15 	| Iniciar Sesión en MediTrack 	| Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente. 	| 3 	| EP02 	|
+| US16 	| Registrarse en MediTrack 	| Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma. 	| 3 	| EP02 	|
+| US17 	| Registro de clínica 	| Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal. 	| 4 	| EP03 	|
+| US18 	| Creación automática del rol de administrador 	| Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel. 	| 4 	| EP03 	|
+| US19 	| Acceso inicial del administrador sin cambio obligatorio 	| Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica. 	| 3 	| EP03 	|
+| US20 	| Registro de adultos mayores 	| Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema 	| 3 	| EP03 	|
+| US21 	| Añadir doctor 	| Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| 4 	| EP03 	|
+| US22 	| Ver lista de adultos mayores asignados en clínica 	| Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado 	| 3 	| EP03 	|
+| US23 	| Visualizar información clínica del  adulto mayor en clínica 	| Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento 	| 4 	| EP03 	|
+| US24 	| Recibir alertas críticas de adultos mayores en clínicas 	| Como administrador de una clínica, quiero recibir alertas sobre cambios críticos en los adultos mayores para actuar a tiempo. 	| 5 	| EP03 	|
+| US25 	| Añadir un adulto mayor junto a sus datos en la clínica 	| Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor 	| 3 	| EP03 	|
+| US26 	| Añadir doctor para asignar adulto mayor en la clínica 	| Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor 	| 3 	| EP03 	|
+| US27 	| Asignar adulto mayor a un doctor en la clínica 	| Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor 	| 4 	| EP03 	|
+| US28 	| Recibir alertas críticas de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico. 	| 5 	| EP04 	|
+| US29 	| Visualizar información clínica de adultos mayores en casa de reposo 	| Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente. 	| 4 	| EP04 	|
+| US30 	| Ver lista de adultos mayores asignados en casa de reposo 	| Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información. 	| 3 	| EP04 	|
+| US31 	| Añadir un adulto mayor junto a sus datos en la casa de reposo 	| Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador 	| 3 	| EP04 	|
+| US32 	| Añadir cuidador para asignar adulto mayor en la casa de reposo 	| Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor 	| 3 	| EP04 	|
+| US33 	| Asignar adulto mayor a un cuidador en la casa de reposo 	| Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador 	| 4 	| EP04 	|
+| US34 	| Añadir cuidador 	| Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores 	| 4 	| EP04 	|
+| US35 	| Acceso al dashboard MediTrack 	| Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor. 	| 3 	| EP05 	|
+| US36 	| Visualizar signos vitales básicos 	| Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. 	| 4 	| EP05 	|
+| US37 	| Visualizar signos vitales premium 	| Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas 	| 5 	| EP05 	|
+| US38 	| Recibir alertas de caídas 	| Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente. 	| 5 	| EP05 	|
+| US39 	| Recibir alertas de salud 	| Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor. 	| 4 	| EP05 	|
+| US40 	| Adaptar Dashboard según Plan 	| Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción. 	| 4 	| EP06 	|
+| US41 	| Acceso a soporte desde el dashboard 	| Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente. 	| 3 	| EP06 	|
+| US42 	| Selección de idioma 	| Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera. 	| 3 	| EP06 	|
+| US43 	| Consultar la hora exacta 	| Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta. 	| 2 	| EP06 	|
 
 # Capítulo IV: Product Design
 
@@ -1741,7 +2008,7 @@ preferencia y se registra en la plataforma.
 
 User persona: Clinica y Casa de reposo
 Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
-con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+con la plataforma e ingresa sus credenciales para poder identificarse como administrador.
 
 <img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
