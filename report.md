@@ -545,7 +545,6 @@ El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimie
 
 <img src="assets/chapter1/leanuxcanvas.png" alt="Lean UX Canvas" width="100%">
 
-Aquí mostramos nuestro Lean UX Canvas. Resumimos el problema: el cuidado geriátrico necesita monitoreo continuo y datos oportunos para familias y personal de salud. Nosotros hicimos una propuesta centrada en un dashboard claro, alertas automáticas, registro histórico y reportes compartibles, pensando en familiares, médicos y enfermeras. Proyectamos resultados como menos llamadas rutinarias, mejor respuesta ante emergencias y uso constante del historial; además, mapeamos hipótesis y definimos lo mínimo para avanzar: entrevistas, prototipos de baja fidelidad y un piloto en Lima. Con esto, nuestra aplicación apunta a dar tranquilidad a las familias y eficiencia al personal.
 
 ## 1.3. Segmentos objetivo
 
