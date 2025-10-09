@@ -92,15 +92,16 @@ TB1:
 Team Collaboration Commits
 
 <img src="assets/chapter1/repo-commits.png" alt="Team Collaboration commits" width="100%">
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos avances en wireframes, wireflows, mockups y el diagrama de clases, además de sumar “student outcome” y partes del reporte como el capítulo 4 y la sección 2.4. También hicimos merges entre ramas para mantener todo alineado y dejamos mensajes claros para la trazabilidad. Con esto, nuestra aplicación progresa de forma ordenada y el equipo se mantiene en la misma página.
 
 Team Collaboration Network
 
 <img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
-
+Aquí se ve el network graph del repo con varias ramas moviéndose en paralelo. Nosotros hicimos ramas por feature y fuimos fusionando a main mediante PRs para mantener un flujo limpio. Con esto, nuestra aplicación avanza sin frenar a nadie y el historial queda claro para todo el equipo.
 <img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
-
+En este segundo gráfico se nota cómo abrimos y cerramos ramas con cortes controlados. Nosotros hicimos sincronizaciones frecuentes con main para evitar conflictos y, cuando fue necesario, hicimos rebase para ordenar los commits. Así mantenemos nuestra aplicación estable mientras seguimos iterando rápido.
 <img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
-
+En el tercero se aprecian integraciones más grandes y varios puntos de merge. Nosotros hicimos consolidaciones por hitos, revisamos los cambios entre equipos y cuidamos que main quedara liberable en cualquier momento. Esto nos permitió planear despliegues seguros y medir el progreso real de nuestra aplicación.
 # Contenido
 
 ## Tabla de Contenidos
@@ -543,6 +544,8 @@ Los **Hypothesis Statements** constituyen una evolución de los Assumptions, tra
 El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimiento, los Assumptions y las Hypothesis Statements. Su propósito es proporcionar una visión integral y colaborativa del proyecto, ayudando al equipo a alinear la estrategia de producto, los objetivos de negocio y las métricas de validación. Este canvas se convierte en una herramienta esencial para guiar el aprendizaje continuo y priorizar las decisiones de diseño con base en evidencia.
 
 <img src="assets/chapter1/leanuxcanvas.png" alt="Lean UX Canvas" width="100%">
+
+Aquí mostramos nuestro Lean UX Canvas. Resumimos el problema: el cuidado geriátrico necesita monitoreo continuo y datos oportunos para familias y personal de salud. Nosotros hicimos una propuesta centrada en un dashboard claro, alertas automáticas, registro histórico y reportes compartibles, pensando en familiares, médicos y enfermeras. Proyectamos resultados como menos llamadas rutinarias, mejor respuesta ante emergencias y uso constante del historial; además, mapeamos hipótesis y definimos lo mínimo para avanzar: entrevistas, prototipos de baja fidelidad y un piloto en Lima. Con esto, nuestra aplicación apunta a dar tranquilidad a las familias y eficiencia al personal.
 
 ## 1.3. Segmentos objetivo
 
