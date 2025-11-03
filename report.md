@@ -3094,6 +3094,103 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 #### Capturas de Insights del repositorio:
 ![img_9.png](./assets/chapter5/insights-deploy-sp2.png)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+| ------------ | -------- |
+
+| **Sprint Planning Background** |                                                                               |
+| ------------------------------ | ----------------------------------------------------------------------------- |
+| **Date**                       | 20 de octubre del 2025.                                                       |
+| **Time**                       | 16:00 PM                                                                      |
+| **Location**                   | Vía Discord                                                                   |
+| **Prepared By**                | Barrientos Quispe Marcelo                                                     |
+| **Attendees (to planning)**    | Franco Diego Rioja, Gabriel Rivera, Joaquin Cuba Parejo, Sebastián Beingolea  |
+
+---
+
+| **Sprint 3 – Review Summary**        | El equipo logró publicar la primera versión de la aplicación back-end de MediTrack en Microsoft Azure, incorporando los principales endpoints para las operaciones de la plataforma. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 – Retrospective Summary** | Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido.                                                                                                                                                                                                                                                                                                                                        |
+|                                      |
+
+---
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la primera version de la aplicación back-end de MediTrack, priorizando el enfoque Domain Driven Design. Nos aseguramos de que cada función registre y gestione los datos correctamente, ofrezca retroalimentación clara ante errores y brinde una experiencia de usuario coherente, segura y eficaz. |
+|                                |
+| **Sprint 23 Velocity**          |    7 story points                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sum of Story Points**        |      7 story points                                                                                                                                                                                                                                                                                                                                                                              |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Frontend Leader (L) / Collaborator (C) | Aspect 3: Backend (L) / Collaborator (C) | Aspect 4: Report (L) / Collaborator (C) | Aspect 5: Front End (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | L                                             | C                                              | C                                                | C                                       |
+| Sebastian Montalvo | sebaxchen       | C                                                    | C                                             | C                                              | C                                                | L                                       |
+| Juaquin, Cuba                     | joacuba    | C                                                    | C                                             | L                                              | C                                                | C                                       |
+| Diego Rioja        | FrancoDiegoR     | C                                                    | C                                             | C                                              | L                                                | C                                       |
+| Barrientos Marcelo                    | MarceBq     | L                                                    | C                                             | C                                              | C                                                | C                                       |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+| User Story |                                           | Work-item/task |                                 |                                                                                                                                         |            |                   |                |
+|------------|-------------------------------------------|----------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|
+| ID         | Title                                     | ID             | Title                           | Description                                                                                                                             | Estimation | Assigned to       | Status        |
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+| Repository                       | Branch                     | Commit Id                                 | Commit Message                                            | Commit Message Body | Commited on (Date) |
+|----------------------------------|----------------------------|-------------------------------------------|-----------------------------------------------------------|---------------------|--------------------|
+
+TODO
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias del frontend.
+
+TODO
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se completó la implementación de la primera version de la plataforma backend. Este paso permitio ofrecer una API que permita la conexion con nuestro front end.
+
+Actividades realizadas:
+Se creó una cuenta en Microsoft Azure y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se configuró el despliegue automático desde Microsoft Azure seleccionando la rama master del repositorio.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Se verificó el despliegue exitoso de la plataforma en la siguiente URL pública:
+
+Backend desplegado en Microsoft Azure: https://meditrack-platform.azurewebsites.net/swagger
+
+Se realizaron pruebas para verificar el manejo correcto de datos segun operaciones CRUD.
+
+#### Evidencias de despliegue:
+
+TODO
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
+
+#### Capturas de Insights del repositorio:
+
+TODO:
+
+
 # Conclusiones
 
 En esta sección se enuncian las conclusiones sobre el trabajo, incluyendo los resultados a los que hemos llegado en relación a los Problem Statements especificados, los assumptions realizados frente al comportamiento real de los segmentos, los Hypotheses Statements establecidos y los criterios de éxito especificados en el proceso de Lean UX, en contraste con los resultados obtenidos de las validaciones.
