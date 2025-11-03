@@ -2999,37 +2999,100 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | **Time**                       | 16:00 PM                                                                      |
 | **Location**                   | Vía Discord                                                                   |
 | **Prepared By**                | Barrientos Quispe Marcelo                                                     |
-| **Attendees (to planning)**    | Franco Diego, Rioja Gabriel, Rivera Juaquin, Cuba Parejo, Sebastián Beingolea |
+| **Attendees (to planning)**    | Franco Diego Rioja, Gabriel Rivera, Joaquin Cuba Parejo, Sebastián Beingolea  |
 
 ---
 
-| **Sprint 1 – Review Summary**        | El equipo logró publicar la primera versión de la **aplicación front-end de MediTrack** en GitHub Pages, incorporando las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Además, se desarrollaron y configuraron las **rutas de navegación**, el **formulario de registro e inicio de sesión**, la **visualización de datos mediante gráficos estadísticos** y el **registro de información de usuarios**. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
+| **Sprint 2 – Review Summary**        | El equipo logró publicar la primera versión de la **aplicación front-end de MediTrack** en GitHub Pages, incorporando las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Además, se desarrollaron y configuraron las **rutas de navegación**, el **formulario de registro e inicio de sesión**, la **visualización de datos mediante gráficos estadísticos** y el **registro de información de usuarios**. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 1 – Retrospective Summary** | El equipo destacó como fortaleza la capacidad de cumplir con los plazos establecidos y el compromiso demostrado durante el desarrollo de la aplicación. No obstante, se identificó la necesidad de **mejorar la comunicación interna y la coordinación en la asignación e integración de tareas**, con el fin de optimizar la colaboración y la eficiencia en los próximos sprints.                                                                                                                                                                                                                                                                                                                                        |
+| **Sprint 2 – Retrospective Summary** | El equipo destacó como fortaleza la capacidad de cumplir con los plazos establecidos y el compromiso demostrado durante el desarrollo de la aplicación. No obstante, se identificó la necesidad de **mejorar la comunicación interna y la coordinación en la asignación e integración de tareas**, con el fin de optimizar la colaboración y la eficiencia en los próximos sprints.                                                                                                                                                                                                                                                                                                                                        |
 |                                      |
 
 ---
 
 | **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 1 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la **aplicación front-end de MediTrack**, priorizando una experiencia visual clara, una navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial de la plataforma y ofrecer a los usuarios un acceso confiable e interactivo a las principales funcionalidades y secciones del sistema. |
+| **Sprint 2 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la **aplicación front-end de MediTrack**, priorizando una experiencia visual clara, una navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial de la plataforma y ofrecer a los usuarios un acceso confiable e interactivo a las principales funcionalidades y secciones del sistema. |
 |                                |
-| **Sprint 1 Velocity**          |                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Sum of Story Points**        |                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint 2 Velocity**          |    7 story points                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sum of Story Points**        |      7 story points                                                                                                                                                                                                                                                                                                                                                                              |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: UX/UI Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend Leader (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Rivera Gabriel                     | guestwhoo       | C                                                    | L                                             | C                                              | C                                                | C                                       |
+| Sebastian Montalvo | sebaxchen       | C                                                    | C                                             | C                                              | C                                                | L                                       |
+| Juaquin, Cuba                     | joacuba    | C                                                    | C                                             | L                                              | C                                                | C                                       |
+| Diego Rioja        | FrancoDiegoR     | C                                                    | C                                             | C                                              | L                                                | C                                       |
+| Barrientos Marcelo                    | MarceBq     | L                                                    | C                                             | C                                              | C                                                | C                                       |
+
+
 #### 5.2.2.3. Sprint Backlog 2
 
-#### 5.2.2.4. Development Evidence for Sprint Review
+| User Story |                                           | Work-item/task |                                 |                                                                                                                                         |            |                   |                |
+|------------|-------------------------------------------|----------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|
+| ID         | Title                                     | ID             | Title                           | Description                                                                                                                             | Estimation | Assigned to       | Status        |
+| US15  | Iniciar Sesión en MediTrack | TU01 | Inicio de sesión | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente. | 1 hour     | Joaquin              | Done          |
+| US16  | Registrarse en MediTrack | TU02 | Registro | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma. | 1 hour                  | Gabriel             | Done |
+| US19  | Acceso inicial del administrador sin cambio obligatorio | TU03 | Acceso inicial | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica. | 3 hours                  | Javier             | Done |
+| US23  | Visualizar información clínica del adulto mayor en clínica | TU04 | Visualización clínica | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento. | 4 hours                  | Carlos              | Done |
+| US29  | Visualizar información clínica de adultos mayores en casa de reposo | TU05 | Visualización casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente. | 4 hours                  | Marcelo              | Done |
+| US35  | Acceso al dashboard MediTrack | TU06 | Acceso al dashboard | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor. | 3 hours                  | Marcelo              | Done |
+| US36  | Visualizar signos vitales básicos | TU07 | Visualización signos vitales | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 4 hours                  | Joaquin              | Done |
+| US42  | Selección de idioma | TU08 | Selección de idioma | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera. | 3 hours                  | Gabriel              | Done |
+| US43  | Consultar la hora exacta | TU09 | Consultar la hora exacta | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta. | 2 hours                  | Gabriel              | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+| Repository                       | Branch                     | Commit Id                                 | Commit Message                                            | Commit Message Body | Commited on (Date) |
+|----------------------------------|----------------------------|-------------------------------------------|-----------------------------------------------------------|---------------------|--------------------|
+| Meditrack-frontend               | feature/organization | e3bf8e78879fb3d11a25920253f0770fc2530ca3  | feat(organization): implement doctor list view                         |                     | 30/09/2025         |
+| Meditrack-frontend               | feature/relatives         | a6f7b56924f4d7005f1de8a18908464ab556b21f  | fix(profile): fix text not showing in profile view                                    |                     | 30/09/2025         |
+| Meditrack-frontend               | feature/auth               | 76872b9d5f18d330513296116f34a15f26940273  | fix(router): redirect to login route when access to root route                                          |                     | 30/09/2025         |
+| Meditrack-frontend               | feature/organization    | e12f1dab0cf585c8ef8332889951edbc8819e115  | feat(organization): implement organization entities |                     | 30/09/2025         |
+| Meditrack-frontend               | feature/relatives       | 8cca0766099d592ed644d436b48bc7290a4586bc  | feat(iam): implement iam bounded-context                           |                     | 30/09/2025         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias del frontend.
+
+![img_10.png](/assets/chapter5/img-frontend.jpeg)
+![img_10.png](/assets/chapter5/img-frontend2.jpeg)
+![img_10.png](/assets/chapter5/img-frontend3.jpeg)
+![img_10.png](/assets/chapter5/img-frontend4.jpeg)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Netlify como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
+
+Actividades realizadas:
+Se creó una cuenta en Netlify y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se configuró el despliegue automático desde Netlify seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
+
+Frontend desplegado en Netlify: http://meditrack-web.netlify.app/
+
+Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
+
+#### Evidencias de despliegue:
+![img_7.png](./assets/chapter5/deploy-sp2-evidence.png)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+#### Capturas de Insights del repositorio:
+![img_9.png](./assets/chapter5/insights-deploy-sp2.png)
 
 # Conclusiones
 
@@ -3049,6 +3112,21 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 - Validación de Necesidad y Valor: La suposición de que los usuarios necesitan monitoreo continuo y preciso y que el principal valor es la tranquilidad y la seguridad  fue confirmada. El segmento familiar se mostró proactivo y dispuesto a pagar por la seguridad , mientras que los médicos y cuidadores reconocieron que la solución mejoraría la prevención, la respuesta y reduciría el estrés operativo.
 
 - Disposición: Si bien la necesidad y la disposición fueron validadas, un desafío crítico identificado fue la desconfianza en la precisión de los datos digitales por parte del 66% de los familiares. Esto implica que la asunción sobre la confiabilidad del dispositivo debe ser demostrada mediante validación clínica y certificación, más allá de la usabilidad del software.
+
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
 ### Recomendaciones
 
@@ -3107,7 +3185,7 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 | Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report             |
 | Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page       |
 | Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-frontend |
-| Backend               | Enlace al repositorio del backend      |                                                                             |
+| Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/       |
-| Deployed Frontend     | Enlace del deploy del frontend         |                                                                             |
-| Deployed Backend      | Enlace del deploy del backend          |                                                                             |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-web.netlify.app/                                          |
+| Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform.azurewebsites.net/swagger                        |
