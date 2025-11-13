@@ -841,7 +841,7 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 - Doctor
   Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
 
-- Keeper
+- Caregiver
 
   Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
 
@@ -866,14 +866,20 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 - Save / Register
   Acción de almacenar información en la plataforma. Puede aplicarse a datos de adultos mayores, signos vitales, reportes, tratamientos o configuraciones.
 
-- Download  
-  Acción de obtener información de la plataforma en formato externo (PDF, CSV) para revisión o análisis. Puede incluir reportes médicos o estadísticas.
-
 - Add
   Acción de introducir nuevos elementos en la plataforma, como un adulto mayor, un cuidador, un doctor o un plan de cuidado.
 
 - Statistic
   Representa datos agregados sobre la salud, bienestar y seguimiento de los adultos mayores. Incluye indicadores como evolución de signos vitales, cumplimiento de tratamientos, frecuencia de alertas o actividad física. Estas métricas son consultadas por doctores, cuidadores, administradores y allegados para tomar decisiones informadas.
+
+- Specialty
+Representa la información o profeción de un doctor registrado en el sistema.
+
+- Assigned to
+Referencia a que cuidador o doctor se encuentra asignado un senior citizen.
+
+- LogOut
+Acción enfocada en la salida o cierre de sesión de un usuario en la plataforma. 
 
 # Capítulo III: Requirements Specification
 
