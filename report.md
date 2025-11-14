@@ -212,6 +212,7 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -232,11 +233,13 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -1482,6 +1485,13 @@ El Product Backlog es una lista priorizada y dinámica de todas las funcionalida
 | US14     | Acceso al formulario de inicio de sesión                            | Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales.                                                   | 2            | EP02    |
 | US15     | Iniciar Sesión en MediTrack                                         | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente.                                                        | 3            | EP02    |
 | US16     | Registrarse en MediTrack                                            | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma.                                                           | 3            | EP02    |
+| US17     | Registro de clínica                                                 | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal.                                        | 4            | EP03    |
+| US18     | Creación automática del rol de administrador                        | Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel.         | 4            | EP03    |
+| US19     | Acceso inicial del administrador sin cambio obligatorio             | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | 3            | EP03    |
+| US20     | Registro de adultos mayores                                         | Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema                                                                       | 3            | EP03    |
+| US21     | Añadir doctor                                                       | Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                           | 4            | EP03    |
+| US22     | Ver lista de adultos mayores asignados en clínica                   | Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado                                                                                     | 3            | EP03    |
+| US23     | Visualizar información clínica del adulto mayor en clínica          | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento                                                                                 | 4            | EP03    |
 | US17     | Registro de clínica                                                 | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal.                                        | 5            | EP03    |
 | US18     | Creación automática del rol de administrador                        | Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel.         | 5            | EP03    |
 | US19     | Acceso inicial del administrador sin cambio obligatorio             | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | 3            | EP03    |
@@ -1494,6 +1504,21 @@ El Product Backlog es una lista priorizada y dinámica de todas las funcionalida
 | US26     | Añadir doctor para asignar adulto mayor en la clínica               | Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor                                                                                               | 3            | EP03    |
 | US27     | Asignar adulto mayor a un doctor en la clínica                      | Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor                                                                            | 4            | EP03    |
 | US28     | Recibir alertas críticas de adultos mayores en casa de reposo       | Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico.   | 5            | EP04    |
+| US29     | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | 4            | EP04    |
+| US30     | Ver lista de adultos mayores asignados en casa de reposo            | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información.             | 3            | EP04    |
+| US31     | Añadir un adulto mayor junto a sus datos en la casa de reposo       | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador          | 3            | EP04    |
+| US32     | Añadir cuidador para asignar adulto mayor en la casa de reposo      | Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor                                                                                      | 3            | EP04    |
+| US33     | Asignar adulto mayor a un cuidador en la casa de reposo             | Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador                                                                 | 4            | EP04    |
+| US34     | Añadir cuidador                                                     | Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                  | 4            | EP04    |
+| US35     | Acceso al dashboard MediTrack                                       | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor.                                                                                             | 3            | EP05    |
+| US36     | Visualizar signos vitales básicos                                   | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 4            | EP05    |
+| US37     | Visualizar signos vitales premium                                   | Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas                                 | 5            | EP05    |
+| US38     | Recibir alertas de caídas                                           | Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente.                                                                                                  | 5            | EP05    |
+| US39     | Recibir alertas de salud                                            | Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor.                                                                   | 4            | EP05    |
+| US40     | Adaptar Dashboard según Plan                                        | Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción.                                             | 4            | EP06    |
+| US41     | Acceso a soporte desde el dashboard                                 | Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente.                                                                                 | 3            | EP06    |
+| US42     | Selección de idioma                                                 | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera.                                               | 3            | EP06    |
+| US43     | Consultar la hora exacta                                            | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta.                                                                                  | 2            | EP06    |
 | US29     | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | 5            | EP04    |
 | US30     | Ver lista de adultos mayores asignados en casa de reposo            | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información.             | 3            | EP04    |
 | US31     | Añadir un adulto mayor junto a sus datos en la casa de reposo       | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador          | 3            | EP04    |
@@ -1576,6 +1601,7 @@ La paleta de colores seleccionada combina tonos **azules** como primarios, trans
 - **Escala de tamaños**
 
   Basada en `$spacer = 1rem` (16px aprox.):
+
   - `0` (0px), `1` (4px), `2` (8px), `3` (16px), `4` (24px), `5` (48px), `auto` (margen automático).
 
 - **Breakpoints responsivos**
@@ -2867,13 +2893,7 @@ body {
   margin: 0;
   color: #333;
   background-color: #fff;
-  font-family:
-    "Inter",
-    system-ui,
-    -apple-system,
-    Segoe UI,
-    Roboto,
-    sans-serif;
+  font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 }
 
 /* Componente */
@@ -3041,7 +3061,7 @@ Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó
 | Marcelo Barrientos | MarceBq      | C                            | C                              | C                               | C                              | L                            | L                            | L                       | C                           | C                          | C                             | C                            | C                               |
 | Sebastian Montalvo | sebaxchen    | C                            | C                              | C                               | C                              | C                            | C                            | C                       | L                           | L                          | C                             | C                            | C                               |
 | Gabriel Rivera     | guestwhoo    | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | L                             | L                            | C                               |
-| Diego Rioja        | FrancoDiegoR | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | L                               |
+| Jarod Cespedes     | FrancoDiegoR | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | L                               |
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -3182,7 +3202,7 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | ------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | Joaquín Cuba       | joacuba      | Crear landing page principal, Mostrar problemas de geriatría, Mostrar soluciones tecnológicas, Mostrar indicadores de impacto |
 | Marcelo Barrientos | MarceBq      | Mostrar lista de tecnologías, Mostrar misión institucional, Mostrar visión a futuro                                           |
-| Diego Rioja        | FrancoDiegoR | Crear sección plan gratuito, Crear sección plan premium                                                                       |
+| Jarod Cespedes     | FrancoDiegoR | Crear sección plan gratuito, Crear sección plan premium                                                                       |
 | Gabriel Rivera     | guestwhoo    | Crear sección plan enterprise, Crear formulario de contacto                                                                   |
 | Sebastian Montalvo | sebaxchen    | Mostrar información de contacto                                                                                               |
 
@@ -3198,37 +3218,79 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | **Sprint #** | Sprint 2 |
 | ------------ | -------- |
 
-| **Sprint Planning Background** |                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------- |
-| **Date**                       | 29 de septiembre del 2025                                                     |
-| **Time**                       | 16:00 PM                                                                      |
-| **Location**                   | Vía Discord                                                                   |
-| **Prepared By**                | Barrientos Quispe Marcelo                                                     |
-| **Attendees (to planning)**    | Franco Diego, Rioja Gabriel, Rivera Juaquin, Cuba Parejo, Sebastián Beingolea |
+| **Sprint Planning Background** |                                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| **Date**                       | 29 de septiembre del 2025                                                       |
+| **Time**                       | 16:00 PM                                                                        |
+| **Location**                   | Vía Discord                                                                     |
+| **Prepared By**                | Barrientos Quispe Marcelo                                                       |
+| **Attendees (to planning)**    | Franco Jarod Cespedes, Gabriel Rivera, Joaquin Cuba Parejo, Sebastián Beingolea |
 
 ---
 
-| **Sprint 1 – Review Summary**        | El equipo logró publicar la primera versión de la **aplicación front-end de MediTrack** en GitHub Pages, incorporando las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Además, se desarrollaron y configuraron las **rutas de navegación**, el **formulario de registro e inicio de sesión**, la **visualización de datos mediante gráficos estadísticos** y el **registro de información de usuarios**. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
+| **Sprint 2 – Review Summary**        | El equipo logró publicar la primera versión de la **aplicación front-end de MediTrack** en GitHub Pages, incorporando las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Además, se desarrollaron y configuraron las **rutas de navegación**, el **formulario de registro e inicio de sesión**, la **visualización de datos mediante gráficos estadísticos** y el **registro de información de usuarios**. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 1 – Retrospective Summary** | El equipo destacó como fortaleza la capacidad de cumplir con los plazos establecidos y el compromiso demostrado durante el desarrollo de la aplicación. No obstante, se identificó la necesidad de **mejorar la comunicación interna y la coordinación en la asignación e integración de tareas**, con el fin de optimizar la colaboración y la eficiencia en los próximos sprints.                                                                                                                                                                                                                                                                                                                                        |
+| **Sprint 2 – Retrospective Summary** | El equipo destacó como fortaleza la capacidad de cumplir con los plazos establecidos y el compromiso demostrado durante el desarrollo de la aplicación. No obstante, se identificó la necesidad de **mejorar la comunicación interna y la coordinación en la asignación e integración de tareas**, con el fin de optimizar la colaboración y la eficiencia en los próximos sprints.                                                                                                                                                                                                                                                                                                                                        |
 |                                      |
 
 ---
 
 | **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 1 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la **aplicación front-end de MediTrack**, priorizando una experiencia visual clara, una navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial de la plataforma y ofrecer a los usuarios un acceso confiable e interactivo a las principales funcionalidades y secciones del sistema. |
+| **Sprint 2 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la **aplicación front-end de MediTrack**, priorizando una experiencia visual clara, una navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial de la plataforma y ofrecer a los usuarios un acceso confiable e interactivo a las principales funcionalidades y secciones del sistema. |
 |                                |
-| **Sprint 1 Velocity**          |     7 story points                                                                                                                                                                                                                                                                                                                                                                               |
-| **Sum of Story Points**        |     7 story points                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sprint 2 Velocity**          | 21 story points                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sum of Story Points**        | 21 story points                                                                                                                                                                                                                                                                                                                                                                     |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: UX/UI Leader (L) / Collaborator (C) | Aspect 3: Report Leader (L) / Collaborator (C) | Aspect 4: Frontend Leader (L) / Collaborator (C) | Aspect 5: Videos (L) / Collaborator (C) |
+| ---------------------------------- | --------------- | ---------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | --------------------------------------- |
+| Joaquin Cuba                       | guestwhoo       | C                                                    | L                                             | C                                              | C                                                | C                                       |
+| Sebastian Montalvo                 | sebaxchen       | C                                                    | C                                             | C                                              | C                                                | L                                       |
+| Juaquin, Cuba                      | joacuba         | C                                                    | C                                             | L                                              | C                                                | C                                       |
+| Jarod Cespedes                     | FrancoDiegoR    | C                                                    | C                                             | C                                              | L                                                | C                                       |
+| Barrientos Marcelo                 | MarceBq         | L                                                    | C                                             | C                                              | C                                                | C                                       |
+
 #### 5.2.2.3. Sprint Backlog 2
 
-#### 5.2.2.4. Development Evidence for Sprint Review
+| User Story |                                                                     | Work-item/task |                              |                                                                                                                                                                                                   |            |             |        |
+| ---------- | ------------------------------------------------------------------- | -------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | ------ |
+| ID         | Title                                                               | ID             | Title                        | Description                                                                                                                                                                                       | Estimation | Assigned to | Status |
+| US15       | Iniciar Sesión en MediTrack                                         | TU01           | Inicio de sesión             | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente.                                                        | 1 hour     | Joaquin     | Done   |
+| US16       | Registrarse en MediTrack                                            | TU02           | Registro                     | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma.                                                           | 1 hour     | Gabriel     | Done   |
+| US19       | Acceso inicial del administrador sin cambio obligatorio             | TU03           | Acceso inicial               | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | 3 hours    | Javier      | Done   |
+| US23       | Visualizar información clínica del adulto mayor en clínica          | TU04           | Visualización clínica        | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento.                                                                                | 4 hours    | Carlos      | Done   |
+| US29       | Visualizar información clínica de adultos mayores en casa de reposo | TU05           | Visualización casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | 4 hours    | Marcelo     | Done   |
+| US35       | Acceso al dashboard MediTrack                                       | TU06           | Acceso al dashboard          | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor.                                                                                             | 3 hours    | Marcelo     | Done   |
+| US36       | Visualizar signos vitales básicos                                   | TU07           | Visualización signos vitales | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 4 hours    | Joaquin     | Done   |
+| US42       | Selección de idioma                                                 | TU08           | Selección de idioma          | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera.                                               | 3 hours    | Gabriel     | Done   |
+| US43       | Consultar la hora exacta                                            | TU09           | Consultar la hora exacta     | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta.                                                                                  | 2 hours    | Gabriel     | Done   |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+| Repository         | Branch               | Commit Id                                | Commit Message                                                 | Commit Message Body | Commited on (Date) |
+| ------------------ | -------------------- | ---------------------------------------- | -------------------------------------------------------------- | ------------------- | ------------------ |
+| Meditrack-frontend | feature/organization | e3bf8e78879fb3d11a25920253f0770fc2530ca3 | feat(organization): implement doctor list view                 |                     | 30/09/2025         |
+| Meditrack-frontend | feature/relatives    | a6f7b56924f4d7005f1de8a18908464ab556b21f | fix(profile): fix text not showing in profile view             |                     | 30/09/2025         |
+| Meditrack-frontend | feature/auth         | 76872b9d5f18d330513296116f34a15f26940273 | fix(router): redirect to login route when access to root route |                     | 30/09/2025         |
+| Meditrack-frontend | feature/organization | e12f1dab0cf585c8ef8332889951edbc8819e115 | feat(organization): implement organization entities            |                     | 30/09/2025         |
+| Meditrack-frontend | feature/relatives    | 8cca0766099d592ed644d436b48bc7290a4586bc | feat(iam): implement iam bounded-context                       |                     | 30/09/2025         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias del frontend.
+
+![img_10.png](/assets/chapter5/img-frontend.jpeg)
+![img_10.png](/assets/chapter5/img-frontend2.jpeg)
+![img_10.png](/assets/chapter5/img-frontend3.jpeg)
+![img_10.png](/assets/chapter5/img-frontend4.jpeg)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 | Endpoint             | Acción                                           | Verbo HTTP | Sintaxis de llamada                                                          | Parámetros                                                             | Ejemplo de Request                                                                                                                                                                                                                         | Ejemplo de Response                                                                                   | Explicación                                                                               |                                                                                         |                                |
@@ -3260,9 +3322,219 @@ Enlace de la Landing Page: [https://upc-pre-202502-1asi0730-7461-rurasqay.github
 | `/tenants`           | Ver instituciones (mock)                         |        GET | `{BASE_URL}/tenants?status=active`                                           | `status` (opt)                                                         | **GET** `{BASE_URL}/tenants?status=active`                                                                                                                                                                                                 | `[{"id":1,"name":"Clínica SaludVida","plan":"enterprise"}]`                                           | Lista de instituciones/tenants.                                                           |                                                                                         |                                |
 | `/staff`             | Listar personal del tenant                       |        GET | `{BASE_URL}/staff?tenantId={id}`                                             | `tenantId` (req)                                                       | **GET** `{BASE_URL}/staff?tenantId=1`                                                                                                                                                                                                      | `[{"id":1,"role":"admin","firstName":"Admin"}]`                                                       | Personal asociado al tenant.                                                              |                                                                                         |                                |
 
+Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Netlify como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
+
+Actividades realizadas:
+Se creó una cuenta en Netlify y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se configuró el despliegue automático desde Netlify seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
+
+Frontend desplegado en Netlify: http://meditrack-web.netlify.app/
+
+Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
+
+#### Evidencias de despliegue:
+
+![img_7.png](./assets/chapter5/deploy-sp2-evidence.png)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+
+#### Capturas de Insights del repositorio:
+
+![img_9.png](./assets/chapter5/insights-deploy-sp2.png)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+| ------------ | -------- |
+
+| **Sprint Planning Background** |                                                                  |
+| ------------------------------ | ---------------------------------------------------------------- |
+| **Date**                       | 28 de octubre del 2025.                                          |
+| **Time**                       | 16:00 PM                                                         |
+| **Location**                   | Vía Discord                                                      |
+| **Prepared By**                | Barrientos Quispe Marcelo                                        |
+| **Attendees (to planning)**    | Franco Rioja, Jarod Cespedes, Gabriel Rivera, Marcelo Barrientos |
+
+---
+
+| **Sprint 3 – Review Summary**        | El equipo logró publicar la primera versión de la aplicación back-end de MediTrack en Microsoft Azure, incorporando los principales endpoints para las operaciones de la plataforma. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 – Retrospective Summary** | Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido.                                                                                                                                                                                                                                                                                 |
+|                                      |
+
+---
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la primera version de la aplicación back-end de MediTrack, priorizando el enfoque Domain Driven Design. Nos aseguramos de que cada función registre y gestione los datos correctamente, ofrezca retroalimentación clara ante errores y brinde una experiencia de usuario coherente, segura y eficaz. |
+|                                |
+| **Sprint 3 Velocity**          | 7 story points                                                                                                                                                                                                                                                                                                                                             |
+| **Sum of Story Points**        | 7 story points                                                                                                                                                                                                                                                                                                                                             |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| **Team member (LastName, First Name)** | **GitHub UserName** | **Aspect 1: Relative Leader (L) / Collaborator (C)** | **Aspect 2: Organization Leader (L) / Collaborator (C)** | **Aspect 3: Device Leader (L) / Collaborator (C)** | **Aspect 4: IAM Leader (L) / Collaborator (C)** |
+| -------------------------------------- | ------------------- | ---------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
+| Gabriel Rivera                         | guestwhoo           | C                                                    | C                                                        | L                                                  | C                                               |
+| Franco Rioja                           | FrancoDiegoR        | C                                                    | C                                                        | C                                                  | L                                               |
+| Jarod Cespedes                         | PruebaJJC           | C                                                    | L                                                        | C                                                  | C                                               |
+| Barrientos Marcelo                     | MarceBq             | L                                                    | C                                                        | C                                                  | C                                               |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+Trello:
+
+![MediTrack Trello Sprint Backlog 3](./assets/chapter5/trello-s3.png)
+
+A continuacion se muestra el backlog del sprint 3 con las historias de usuario y tareas asociadas.
+
+| User Story |                                                                         | Work-item/task |                                                                          |                                                                                                                                                                           |            |                    |             |
+| ---------- | ----------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ----------- |
+| ID         | Title                                                                   | ID             | Title                                                                    | Description                                                                                                                                                               | Estimation | Assigned to        | Status      |
+| TS-001     | Obtener una Organización por id                                         | TSK-002.1      | Crear Endpoint GET /api/v1/organizations/{organizationId}                | Implementar el endpoint que permita buscar y recuperar una organización por su identificador único.                                                                       | 1h         | Jarod Cespedes     | Done        |
+|            |                                                                         | TSK-001.2      | Implementar Escenario Encontrado                                         | Asegurar que, si se encuentra la organización, se devuelva el recurso (OrganizationResource) con una respuesta 200 OK.                                                    | 3h         | Marcelo Barrientos | In Progress |
+|            |                                                                         | TSK-001.3      | Implementar Escenario No Encontrado                                      | Asegurar que, si el organizationId no existe, se devuelva una respuesta 404 Not Found y devuelve una carga útil de error.                                                 | 1h         | Marcelo Barrientos | In Progress |
+| TS-002     | Obtener todos los Administradores por Organización                      | TSK-002.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/admin           | Implementar el endpoint que lista todos los administradores asociados a una organización.                                                                                 | 2h         | Marcelo Barrientos | Done        |
+|            |                                                                         | TSK-002.2      | Asegurar respuesta de endpoint administradores                           | Asegurar que el endpoint responde 200 OK con un array de ítems de AdminResource.                                                                                          | 1h         | Joaquin Cuba       | Done        |                                                            
+| TS-005     | Crear un Cuidador (Caregiver)                                           | TSK-005.1      | Crear Modelo de Datos CaregiverResource                                  | Diseñar y definir la entidad CaregiverResource con campos clave como: id, OrgId, UserId, FirstName, LastName, BirthDate, PhoneNumber, ProfileImage.                       | 4h         | Joaquin Cuba       | Done        |
+|            |                                                                         | TSK-005.2      | Crear Endpoint POST /api/v1/caregivers                                   | Implementar el endpoint para crear un cuidador.                                                                                                                           | 1h         | Jarod Cespedes     | In Progress |
+|            |                                                                         | TSK-005.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el cuidador y retornar 201 Created con el CaregiverResource creado.                                                                                    | 3h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-005.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. OrgId, UserId, obligatorios). Retornar 400 Bad Request en caso de error.                                                                         | 2h         | Joaquin Cuba       | Done        |
+| TS-006     | Obtener un Cuidador por id                                              | TSK-006.1      | Crear Endpoint GET /api/v1/caregivers/{caregiverId}                      | Implementar el endpoint para buscar un cuidador por su ID.                                                                                                                | 1h         | Marcelo Barrientos | Done        |
+|            |                                                                         | TSK-006.2      | Implementar Escenario Encontrado                                         | Devolver 200 OK con el CaregiverResource si el cuidador existe.                                                                                                           | 4h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-006.3      | Implementar Escenario No Encontrado                                      | Devolver 404 Not Found si el caregiverId es inexistente.                                                                                                                  | 2h         | Jarod Cespedes     | In Progress |
+| TS-007     | Obtener todos los Cuidadores por organización                           | TSK-007.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/caregiver       | Implementar el endpoint para listar cuidadores asociados a una organización.                                                                                              | 3h         | Joaquin Cuba       | Done        |
+|            |                                                                         | TSK-007.2      | Devolver Lista de Cuidadores                                             | Asegurar que el endpoint responde 200 OK con un array de ítems de CaregiverResource.                                                                                      | 1h         | Jarod Cespedes     | Done        |
+| TS-007     | Crear un Médico (Doctor)                                                | TSK-008.1      | Crear Modelo de Datos DoctorResource                                     | Diseñar y definir la entidad DoctorResource con campos clave: DoctorId, OrgId, UserId, FirstName, LastName, BirthDate, PhoneNumber, Specialty, ProfileImage.              | 4h         | Marcelo Barrientos | In Progress |
+|            |                                                                         | TSK-007.2      | Crear Endpoint POST /api/v1/doctors                                      | Implementar el endpoint para crear un médico.                                                                                                                             | 3h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-007.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el médico y retornar 201 Created con el DoctorResource creado.                                                                                         | 2h         | Jarod Cespedes     | Done        |
+|            |                                                                         | TSK-007.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. OrgId, UserId, Specialty obligatorios). Retornar 400 Bad Request en caso de error.                                                               | 1h         | Joaquin Cuba       | Done        |
+| TS-009     | Obtener un Médico por id                                                | TSK-009.1      | Crear Endpoint GET /api/v1/doctors/{doctorId}                            | Implementar el endpoint para buscar un médico por su ID.                                                                                                                  | 2h         | Jarod Cespedes     | In Progress |
+|            |                                                                         | TSK-009.2      | Implementar Escenario Encontrado                                         | Devolver 200 OK con el DoctorResource si el médico existe.                                                                                                                | 3h         | Marcelo Barrientos | In Progress |
+|            |                                                                         | TSK-009.3      | Implementar Escenario No Encontrado                                      | Devolver 404 Not Found si el doctorId es inexistente.                                                                                                                     | 4h         | Joaquin Cuba       | Done        |
+| TS-010     | Obtener todos los Médicos por organización                              | TSK-010.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/doctor          | Implementar el endpoint para listar médicos asociados a una organización.                                                                                                 | 1h         | Jarod Cespedes     | Done        |
+|            |                                                                         | TSK-010.2      | Devolver Lista de Médicos                                                | Asegurar que el endpoint responde 200 OK con un array de ítems de DoctorResource.                                                                                         | 2h         | Joaquin Cuba       | In Progress |
+| TS-011     | Obtener todos los Ciudadanos Mayores (Senior Citizens) por organización | TSK-011.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/senior-citizens | Implementar el endpoint para listar ciudadanos mayores asociados a una organización.                                                                                      | 3h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-011.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 4h         | Marcelo Barrientos | Done        |
+| TS-012     | Obtener todos los Ciudadanos Mayores por Médico                         | TSK-012.1      | Crear Endpoint GET /api/v1/doctor/{doctorId}/senior-citizens             | Implementar el endpoint para listar ciudadanos mayores asignados a un médico.                                                                                             | 1h         | Joaquin Cuba       | Done        |
+|            |                                                                         | TSK-012.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 2h         | Jarod Cespedes     | In Progress |
+| TS-013     | Obtener todos los Ciudadanos Mayores por cuidador                       | TSK-013.1      | Crear Endpoint GET /api/v1/caregiver/{caregiverId}/senior-citizens       | Implementar el endpoint para listar ciudadanos mayores asignados a un cuidador.                                                                                           | 3h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-013.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 4h         | Jarod Cespedes     | Done        |
+| TS-014     | Agregar un ciudadano mayor a un Médico                                  | TSK-014.1      | Actualizar Modelo de Datos SeniorCitizenResource con DoctorId            | Asegurar que la entidad SeniorCitizenResource (id, FirstName, LastName, Dni, Gender, Height, BirthDate, Weight, ProfileImage, DeviceId) incluya la relación con DoctorId. | 1h         | Marcelo Barrientos | Done        |
+|            |                                                                         | TSK-014.2      | Crear Endpoint POST /api/v1/doctor/{doctorId}/senior-citizens            | Implementar el endpoint para crear un ciudadano mayor asociado a un médico.                                                                                               | 2h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-014.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el ciudadano mayor y su relación, y retornar 201 Created con el SeniorCitizenResource creado.                                                          | 3h         | Jarod Cespedes     | In Progress |
+|            |                                                                         | TSK-014.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. FirstName, Dni obligatorios). Retornar 400 Bad Request en caso de error.                                                                         | 4h         | Joaquin Cuba       | Done        |
+| TS-015     | Agregar un ciudadano mayor a un Cuidador                                | TSK-015.1      | Actualizar Modelo de Datos SeniorCitizenResource con CaregiverId         | Asegurar que la entidad SeniorCitizenResource soporte la relación con CaregiverId.                                                                                        | 1h         | Jarod Cespedes     | Done        |
+|            |                                                                         | TSK-015.2      | Crear Endpoint POST /api/v1/caregiver/{caregiverId}/senior-citizens      | Implementar el endpoint para crear un ciudadano mayor asociado a un cuidador.                                                                                             | 2h         | Marcelo Barrientos | In Progress |
+|            |                                                                         | TSK-015.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el ciudadano mayor y su relación, y retornar 201 Created con el SeniorCitizenResource creado.                                                          | 3h         | Joaquin Cuba       | In Progress |
+|            |                                                                         | TSK-015.4      | Validar Atributos y Errores                                              | Añadir validaciones. Retornar 400 Bad Request en caso de error de validación.                                                                                             | 4h         | Jarod Cespedes     | Done        |
+| TS-016     | Obtener todos los Ciudadanos Mayores por allegado                       | TSK-016.1      | Crear Endpoint GET /api/v1/relative/{relativeId}/senior-citizens         | Implementar el endpoint para listar ciudadanos mayores asignados a un allegado.                                                                                           | 1h         | Joaquin Cuba       | Done        |
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
+
+TODO
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias de la plataforma backend.
+
+![Backend Contexto Devices 1](./assets/chapter5/backend-contexto-devices-1.jpeg)
+
+![Backend Contexto Devices 2](./assets/chapter5/backend-contexto-devices-2.jpeg)
+
+![Screenshot 1](./assets/chapter5/Screenshot_1.png)
+
+![Screenshot 2](./assets/chapter5/Screenshot_2.png)
+
+![Screenshot 3](./assets/chapter5/Screenshot_3.png)
+
+![Screenshot 4](./assets/chapter5/Screenshot_4.png)
+
+![Screenshot 5](./assets/chapter5/Screenshot_5.png)
+
+![Screenshot 6](./assets/chapter5/Screenshot_6.png)
+
+![Screenshot 7](./assets/chapter5/Screenshot_7.png)
+
+![Screenshot 8](./assets/chapter5/Screenshot_8.png)
+
+![Screenshot 9](./assets/chapter5/Screenshot_9.png)
+
+![Screenshot 10](./assets/chapter5/Screenshot_10.png)
+
+![Screenshot 11](./assets/chapter5/Screenshot_11.png)
+
+![Screenshot 12](./assets/chapter5/Screenshot_12.png)
+
+![Screenshot 13](./assets/chapter5/Screenshot_13.png)
+
+![Screenshot 14](./assets/chapter5/Screenshot_14.png)
+
+![Screenshot 15](./assets/chapter5/Screenshot_15.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se completó la implementación de la primera version de la plataforma backend. Este paso permitio ofrecer una API que permita la conexion con nuestro front end.
+
+Actividades realizadas:
+Se creó una cuenta en Microsoft Azure y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se configuró el despliegue automático desde Microsoft Azure seleccionando la rama master del repositorio.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Se verificó el despliegue exitoso de la plataforma en la siguiente URL pública:
+
+Backend desplegado en Microsoft Azure: https://meditrack-platform.azurewebsites.net/swagger
+
+Se realizaron pruebas para verificar el manejo correcto de datos segun operaciones CRUD.
+
+#### Evidencias de despliegue:
+
+![Backend Deployment Evidence](./assets/chapter5/deploy-backend-ev01.png)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
+
+| **Alumno**                      | **GitHub User** | **Actividad**            |
+| ------------------------------- | --------------- | ------------------------ |
+| Barrientos Quispe, Marcelo      | MarceBq         | Módulo Allegados         |
+| Cespedes Pillco, Jarod Jack     | PruebaJJC       | Módulo de Organizaciones |
+| Rioja Nuñez, Franco Diego       | FrancoDiegoR    | Módulo de Dispositivos   |
+| Rivera Ayala, Gabriel Alejandro | guestwhoo       | Módulo de Dispositivos   |
+
+#### Capturas de Insights del repositorio:
+
+Front End:
+
+![MediTrack-Front-1](./assets/chapter5/medi-front-1.png)
+
+![MediTrack-Front-2](./assets/chapter5/medi-front-2.png)
+
+Back End:
+
+![MediTrack-Back-1](./assets/chapter5/medi-back-1.png)
+
+![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
 
 # Conclusiones
 
@@ -3279,9 +3551,24 @@ Los problemas centrales identificados en el cuidado geriátrico como la falta de
 
 Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente validadas por los resultados cualitativos de las entrevistas con los segmentos objetivo (Familiares, Médicos y Cuidadores):
 
-- Validación de Necesidad y Valor: La suposición de que los usuarios necesitan monitoreo continuo y preciso y que el principal valor es la tranquilidad y la seguridad  fue confirmada. El segmento familiar se mostró proactivo y dispuesto a pagar por la seguridad , mientras que los médicos y cuidadores reconocieron que la solución mejoraría la prevención, la respuesta y reduciría el estrés operativo.
+- Validación de Necesidad y Valor: La suposición de que los usuarios necesitan monitoreo continuo y preciso y que el principal valor es la tranquilidad y la seguridad fue confirmada. El segmento familiar se mostró proactivo y dispuesto a pagar por la seguridad , mientras que los médicos y cuidadores reconocieron que la solución mejoraría la prevención, la respuesta y reduciría el estrés operativo.
 
 - Disposición: Si bien la necesidad y la disposición fueron validadas, un desafío crítico identificado fue la desconfianza en la precisión de los datos digitales por parte del 66% de los familiares. Esto implica que la asunción sobre la confiabilidad del dispositivo debe ser demostrada mediante validación clínica y certificación, más allá de la usabilidad del software.
+
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
 ### Recomendaciones
 
@@ -3289,9 +3576,9 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 
 - Desarrollo de Bounded Context Críticos: Concentrar el desarrollo en el Dashboard and Analytics Bounded Context, lo cual es valorado por los médicos para el seguimiento de los pacientes. Esto convertirá el producto de un monitor a una herramienta clínica de apoyo a la decisión.
 
-- Expansión del Roadmap B2B (Piloto): Implementar un programa piloto pagado en al menos una casa de reposo o clínica (modelo Enterprise de suscripción) para  validar la hipótesis de la reducción del 50% en el tiempo de respuesta y obtener case studies que sirvan como evidencia de valor para futuras alianzas comerciales.
+- Expansión del Roadmap B2B (Piloto): Implementar un programa piloto pagado en al menos una casa de reposo o clínica (modelo Enterprise de suscripción) para validar la hipótesis de la reducción del 50% en el tiempo de respuesta y obtener case studies que sirvan como evidencia de valor para futuras alianzas comerciales.
 
-- Optimización de Canales Digitales: Implementar la estrategia de captación B2C (Google Ads, Marketing de Contenidos) y B2B (alianzas con clínicas)  una vez que se cuente con la evidencia cuantitativa de precisión (Paso 1). El enfoque de contenidos debe responder a la búsqueda de tranquilidad y seguridad por parte de los familiares.
+- Optimización de Canales Digitales: Implementar la estrategia de captación B2C (Google Ads, Marketing de Contenidos) y B2B (alianzas con clínicas) una vez que se cuente con la evidencia cuantitativa de precisión (Paso 1). El enfoque de contenidos debe responder a la búsqueda de tranquilidad y seguridad por parte de los familiares.
 
 ## Video About-the-Product
 
@@ -3313,18 +3600,16 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 
 ### VIDEOS:
 
-| Título                            | Descripción                                        | Enlace                    |
-| --------------------------------- | -------------------------------------------------- | ------------------------- |
-| Video de exposición TB1           | Video explicativo de los avances de la entrega TB1 |                           |
-| Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                           |
-| Video de exposición TB2           | Video explicativo de los avances de la entrega TB2 |                           |
-| Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                           |
-| Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9 |
-| Validation interviews             | Video recopilatorio de todas las entrevistas       |                           |
-| Video About the Product           | Video About the Product                            |                           |
-| Video About the Product - YouTube | Video About the Product - YouTube                  |                           |
-| Video About the Team              | Video About the Team                               |                           |
-| Video About the Team - YouTube    | Video About the Team - YouTube                     |                           |
+| Título                            | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                                                                                                                                                                                                                                                                                                                         |
+| Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                                                                                                                                                                                                                                                                                                                         |
+| Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9                                                                                                                                                                                                                                                                                               |
+| Validation interviews             | Video recopilatorio de todas las entrevistas       |                                                                                                                                                                                                                                                                                                                         |
+| Video About the Product           | Video About the Product                            | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAFmUTy2h4ARrqWYIudu277ATPAX6tz2GnAfntsxPGByhI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vevSOH |
+| Video About the Product - YouTube | Video About the Product - YouTube                  | https://youtu.be/nZr7J9OIdZ0                                                                                                                                                                                                                                                                                            |
+| Video About the Team              | Video About the Team                               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQCGAup3AEMFQIr4s5O4KK8tAQS2UPfLpzN2U3LiJZp3sLo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tvdrJ7 |
+| Video About the Team - YouTube    | Video About the Team - YouTube                     | https://youtu.be/vmKJYRnUzHI                                                                                                                                                                                                                                                                                            |
 
 ### UX/UI
 
@@ -3340,7 +3625,7 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 | Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/report             |
 | Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/landing-page       |
 | Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-frontend |
-| Backend               | Enlace al repositorio del backend      |                                                                             |
+| Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0730-7461-rurasqay.github.io/landing-page/       |
-| Deployed Frontend     | Enlace del deploy del frontend         |                                                                             |
-| Deployed Backend      | Enlace del deploy del backend          |                                                                             |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-web.netlify.app/                                          |
+| Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform.azurewebsites.net/swagger                        |
