@@ -3209,7 +3209,39 @@ TODO
 Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
 A continuación se muestran evidencias de la plataforma backend.
 
-TODO
+![Backend Contexto Devices 1](./assets/chapter5/backend-contexto-devices-1.jpeg)
+
+![Backend Contexto Devices 2](./assets/chapter5/backend-contexto-devices-2.jpeg)
+
+![Screenshot 1](./assets/chapter5/Screenshot-1.png)
+
+![Screenshot 2](./assets/chapter5/Screenshot-2.png)
+
+![Screenshot 3](./assets/chapter5/Screenshot-3.png)
+
+![Screenshot 4](./assets/chapter5/Screenshot-4.png)
+
+![Screenshot 5](./assets/chapter5/Screenshot-5.png)
+
+![Screenshot 6](./assets/chapter5/Screenshot-6.png)
+
+![Screenshot 7](./assets/chapter5/Screenshot-7.png)
+
+![Screenshot 8](./assets/chapter5/Screenshot-8.png)
+
+![Screenshot 9](./assets/chapter5/Screenshot-9.png)
+
+![Screenshot 10](./assets/chapter5/Screenshot-10.png)
+
+![Screenshot 11](./assets/chapter5/Screenshot-11.png)
+
+![Screenshot 12](./assets/chapter5/Screenshot-12.png)
+
+![Screenshot 13](./assets/chapter5/Screenshot-13.png)
+
+![Screenshot 14](./assets/chapter5/Screenshot-14.png)
+
+![Screenshot 15](./assets/chapter5/Screenshot-15.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
