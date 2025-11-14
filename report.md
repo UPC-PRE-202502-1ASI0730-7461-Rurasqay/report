@@ -1292,7 +1292,7 @@ Zona de Monitoreo y Dispositivos IoT: Representa los registros de signos vitales
 
 Zona de Relación y Gestión Médica: Destaca la asignación de adultos mayores a médicos o cuidadores, mostrando la necesidad de coordinación multi-actor.
 
-Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reportes de actividad y analítica para clínicas y familiares, revelando la orientación a trazabilidad y toma de decisiones.
+Zona de Reportes y Analítica: Muestra la generación de documentos CSV, reportes de actividad y analítica para clínicas y familiares, revelando la orientación a trazabilidad y toma de decisiones.
 
 ## 2.5. Ubiquitous Language
 
