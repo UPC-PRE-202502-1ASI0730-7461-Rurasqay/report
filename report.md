@@ -3206,35 +3206,35 @@ A continuación se muestran evidencias de la plataforma backend.
 
 ![Backend Contexto Devices 2](./assets/chapter5/backend-contexto-devices-2.jpeg)
 
-![Screenshot 1](./assets/chapter5/Screenshot-1.png)
+![Screenshot 1](./assets/chapter5/Screenshot_1.png)
 
-![Screenshot 2](./assets/chapter5/Screenshot-2.png)
+![Screenshot 2](./assets/chapter5/Screenshot_2.png)
 
-![Screenshot 3](./assets/chapter5/Screenshot-3.png)
+![Screenshot 3](./assets/chapter5/Screenshot_3.png)
 
-![Screenshot 4](./assets/chapter5/Screenshot-4.png)
+![Screenshot 4](./assets/chapter5/Screenshot_4.png)
 
-![Screenshot 5](./assets/chapter5/Screenshot-5.png)
+![Screenshot 5](./assets/chapter5/Screenshot_5.png)
 
-![Screenshot 6](./assets/chapter5/Screenshot-6.png)
+![Screenshot 6](./assets/chapter5/Screenshot_6.png)
 
-![Screenshot 7](./assets/chapter5/Screenshot-7.png)
+![Screenshot 7](./assets/chapter5/Screenshot_7.png)
 
-![Screenshot 8](./assets/chapter5/Screenshot-8.png)
+![Screenshot 8](./assets/chapter5/Screenshot_8.png)
 
-![Screenshot 9](./assets/chapter5/Screenshot-9.png)
+![Screenshot 9](./assets/chapter5/Screenshot_9.png)
 
-![Screenshot 10](./assets/chapter5/Screenshot-10.png)
+![Screenshot 10](./assets/chapter5/Screenshot_10.png)
 
-![Screenshot 11](./assets/chapter5/Screenshot-11.png)
+![Screenshot 11](./assets/chapter5/Screenshot_11.png)
 
-![Screenshot 12](./assets/chapter5/Screenshot-12.png)
+![Screenshot 12](./assets/chapter5/Screenshot_12.png)
 
-![Screenshot 13](./assets/chapter5/Screenshot-13.png)
+![Screenshot 13](./assets/chapter5/Screenshot_13.png)
 
-![Screenshot 14](./assets/chapter5/Screenshot-14.png)
+![Screenshot 14](./assets/chapter5/Screenshot_14.png)
 
-![Screenshot 15](./assets/chapter5/Screenshot-15.png)
+![Screenshot 15](./assets/chapter5/Screenshot_15.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
