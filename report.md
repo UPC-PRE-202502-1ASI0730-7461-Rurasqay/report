@@ -5,7 +5,7 @@
 
 ### Ingeniería de Software
 
-### 5TO Ciclo
+### 202520
 
 ### Código: 1ASI0730
 
@@ -3606,9 +3606,9 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 | Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                                                                                                                                                                                                                                                                                                                         |
 | Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9                                                                                                                                                                                                                                                                                               |
 | Validation interviews             | Video recopilatorio de todas las entrevistas       |                                                                                                                                                                                                                                                                                                                         |
-| Video About the Product           | Video About the Product                            | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAFmUTy2h4ARrqWYIudu277ATPAX6tz2GnAfntsxPGByhI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vevSOH |
+| Video About the Product           | Video About the Product                            | https://shorturl.at/cJrEY |
 | Video About the Product - YouTube | Video About the Product - YouTube                  | https://youtu.be/nZr7J9OIdZ0                                                                                                                                                                                                                                                                                            |
-| Video About the Team              | Video About the Team                               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQCGAup3AEMFQIr4s5O4KK8tAQS2UPfLpzN2U3LiJZp3sLo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tvdrJ7 |
+| Video About the Team              | Video About the Team                               | https://shorturl.at/Sc3Yx |
 | Video About the Team - YouTube    | Video About the Team - YouTube                     | https://youtu.be/vmKJYRnUzHI                                                                                                                                                                                                                                                                                            |
 
 ### UX/UI
