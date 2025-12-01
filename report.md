@@ -1126,7 +1126,7 @@ No obstante, identifica como principales barreras para su implementación el cos
 - Edad: 19
 - Distrito: San Miguel
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=jlb4Fl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC41NH19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=jlb4Fl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzE0OC41NH19)
+  [https://shorturl.at/3Qfii](https://shorturl.at/3Qfii)
 - Timing:
 - Inicio: 52:28
 - Fin: 1:01:53
@@ -1157,7 +1157,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Edad: 58
 - Distrito: Jesus Maria
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dnSCtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4xfX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=dnSCtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwOS4xfX0%3D)
+  [https://shorturl.at/hlI2c](https://shorturl.at/hlI2c)
 - Timing:
 - Inicio: 45:09
 - Fin: 52:27
@@ -1184,7 +1184,7 @@ Aunque percibe como barreras la complejidad tecnológica y la falta de confianza
 - Edad: 25
 - Distrito: Puente Piedra
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=C7GhYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjcyfX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=C7GhYD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzIxLjcyfX0%3D)
+  [https://shorturl.at/Mf9PN](https://shorturl.at/Mf9PN)
 - Timing:
 - Inicio: 5:21
 - Fin: 9:55
@@ -1308,7 +1308,7 @@ No obstante, identifica algunos desafíos para su implementación en la práctic
 - Edad: 48
 - Distrito: Madrid - España
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=owqpVJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4wOX19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=owqpVJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy4wOX19)
+  [https://tinyurl.com/39n65v97](https://tinyurl.com/39n65v97)
 - Timing:
 - Inicio: 20:16
 - Fin: 45:08
@@ -1335,7 +1335,7 @@ En conjunto, Ana Rosa transmite una visión crítica y realista sobre las limita
 - Edad: 57
 - Distrito: Novara - Italia
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nYM0Mf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk2LjA1fX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=nYM0Mf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk2LjA1fX0%3D)
+  [https://tinyurl.com/vpx65ruy](https://tinyurl.com/vpx65ruy)
 - Timing:
 - Inicio: 9:56
 - Fin: 20:16
@@ -1362,7 +1362,7 @@ En conjunto, Fanny Mendívil transmite una visión empática y realista del cuid
 - Edad: 56
 - Distrito: Pueblo Libre
 - Video Entrevista:
-  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=a1lUch&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/EbMya_8QywNLmNK4sv9l58gBgwDyZ6O5ipVFQkSkJQwQ9Q?e=a1lUch&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+  [https://tinyurl.com/ymejm9at](https://tinyurl.com/ymejm9at)
 - Timing:
 - Inicio: 0:00
 - Fin: 5:21
