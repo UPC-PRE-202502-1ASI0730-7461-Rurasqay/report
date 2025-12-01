@@ -150,6 +150,16 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
 
 TF:
 
+<img src="assets/chapter1/repo-commits-4.png" alt="Team Collaboration commits" width="100%">
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos la realización y conección del backend con el front end y partes del reporte como el capítulo 5, incluyendo el Spint Backlog 3.
+
+<img src="assets/chapter1/network-1-tf.png" alt="Team Collaboration Network" width="100%">
+Aquí se ve el network graph del repo con varias ramas moviéndose en paralelo. Nosotros hicimos ramas por feature y fuimos fusionando a main mediante PRs para mantener un flujo limpio. Con esto, nuestra aplicación avanza sin frenar a nadie y el historial queda claro para todo el equipo.
+<img src="assets/chapter1/network-2-tf.png" alt="Team Collaboration Network" width="100%">
+En este segundo gráfico se nota cómo abrimos y cerramos ramas con cortes controlados. Nosotros hicimos sincronizaciones frecuentes con main para evitar conflictos y, cuando fue necesario, hicimos rebase para ordenar los commits. Así mantenemos nuestra aplicación estable mientras seguimos iterando rápido.
+<img src="assets/chapter1/network-3-tf.png" alt="Team Collaboration Network" width="100%">
+En el tercero se aprecian integraciones más grandes y varios puntos de merge. Nosotros hicimos consolidaciones por hitos, revisamos los cambios entre equipos y cuidamos que main quedara liberable en cualquier momento. Esto nos permitió planear despliegues seguros y medir el progreso real de nuestra aplicación.
+
 
 ## Tabla de Contenidos
 
