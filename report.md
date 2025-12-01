@@ -3840,6 +3840,176 @@ Back End:
 En esta sección se enuncian las conclusiones sobre el trabajo, incluyendo los resultados a los que hemos llegado en relación a los Problem Statements especificados, los assumptions realizados frente al comportamiento real de los segmentos, los Hypotheses Statements establecidos y los criterios de éxito especificados en el proceso de Lean UX, en contraste con los resultados obtenidos de las validaciones.
 Igualmente se incluyen recomendaciones sobre los siguientes pasos en relación a Roadmap de los productos digitales que forman parte del alcance del modelo de negocio digital.
 
+## 5.3. Validation Interviews
+
+En la sección de “Validation Interviews” del proyecto Meditrack nos enfocamos en mejorar la presentación y funcionalidad de la plataforma web. En este punto se llega a la comunicación directa con los segmentos objetivos con el fin de entrevistar y obtener respuestas sobre la experiencia y percepción dentro de la plataforma, ya sean criticas positivas o negativas, esto ayuda en la mejora continua para la integración adecuada de futuras integraciones o correcciones orientadas en mejorar la mejora continua de la plataforma. A continuación se muestran los user goals necesarios para la realización de las entrevistas:
+
+### 5.3.1 Diseño de Entrevistas
+
+**Relatives :** 
+¿La distribución del panel te permite identificar rápidamente cómo se encuentra tu familiar en ese momento?
+
+¿Las secciones destinadas para familiares son claras y fáciles de ubicar al entrar a la plataforma?
+
+¿La visualización de los signos vitales y el estado general de tu familiar te resulta comprensible sin conocimientos médicos?
+
+¿Las alertas de emergencia o variaciones anormales de salud aparecen de manera clara y fácil de entender?
+
+¿Qué tipo de alertas adicionales desearías recibir para sentir mayor tranquilidad?
+
+¿La información presentada (signos vitales, historial, alertas recientes) es suficiente para entender la condición de tu familiar?
+
+¿Falta algún tipo de estadística o gráfica que te ayude a interpretar mejor el progreso o cambios en la salud?
+
+¿Te resultó fluida la navegación entre las distintas secciones, como estado actual, historial y configuraciones de alertas?
+
+¿Puedes visualizar fácilmente a todos los familiares bajo tu cuidado, si tienes más de uno asignado?
+
+¿Hay alguna parte de la experiencia que te haya parecido confusa, lenta o difícil de usar?
+
+¿Qué función o mejora agregarías para sentir mayor confianza y control sobre el estado de tu familiar?
+
+¿Percibes que esta plataforma podría ayudarte a reducir la preocupación diaria y mejorar la comunicación con el personal médico?
+
+**Caregiver o Doctor**
+¿La distribución del dashboard te permite identificar rápidamente la información importante del paciente?
+
+¿Las secciones destinadas a tu rol (médico o cuidador) son claras y fáciles de ubicar?
+
+¿La visualización de signos vitales y movilidad es comprensible a primera vista?
+
+¿Las alertas de caídas o variaciones anormales aparecen de forma clara y accionable?
+
+¿Qué tipo de alertas adicionales considerarías necesarias para mejorar tu labor?
+
+¿Los datos clínicos presentados (signos vitales, registros, tendencias) son suficientes para evaluar el estado del paciente sin necesidad de otras herramientas?
+
+¿Falta algún indicador o gráfico que consideres esencial para el seguimiento de pacientes geriátricos?
+
+¿Te resultó fluida la navegación entre pacientes, alertas y registros históricos?
+
+¿Puedes visualizar de manera clara y ordenada a todos los pacientes que tienes asignados?
+
+¿Qué parte del flujo de uso te pareció menos intuitiva o más lenta?
+
+¿Qué función o mejora agregarías para facilitar tu trabajo diario en la clínica o residencia?
+
+¿Percibes que esta plataforma podría integrarse de manera efectiva en tu institución y ser usada de forma constante?
+
+### 5.3.2 Registro de Entrevistas
+
+##### Doctor
+
+- Nombres: Judith Jesus
+- Apellidos: Ayala Maurtua
+- Edad: 56
+- Distrito: Pueblo Libre
+- [Entrevistas Meditrack]()
+- [Timming Entrevista Judith Ayala]()
+- Inicio:(00:00)
+- Fin:()
+
+![video screenshoot](assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
+
+- Resumen:
+
+La entrevistada es Judith Ayala y ocupa el cargo de Doctora, considera que las funcionalidades de meditrack son ideales para poder ser una herramienta efectiva, asimismo que la aplicacion resulta intuitiva
+para la interaccion de los doctores durante un tiempo prolongado, ademas que recomendaria la aplicacion ya qye su uso daria beneficios a los doctores.
+
+##### Caregiver
+
+- Nombres: Judith Jesus 
+- Apellidos: Ayala Maurtua
+- Edad: 56
+- Distrito: Pueblo Libre
+- [Entrevistas Meditrack]()  
+- [Timming Entrevista Cesar Meza]()  
+- Inicio: 
+- Fin: 
+
+![video screenshoot](assets/chapter5/casa-reposo-validation.png "Video screenshoot casas de reposo interview 3")
+
+- Resumen:
+
+El entrevistado es Cesar Meza, un cuidador de una casa de reposo en provincia, considera que la aplicacion nueve un buen sistema de navegacion, ademas que las funcionalidades pueden ser utiles en momentos
+clave, considera que podria haber una guia rapida para mejorar la adaptacion. Toma en cuenta que la aplicacion seria de ayuda para los cuidadores de casa de reposo
+
+
+### 5.3.2 Evaluaciones segun heuristicas
+
+## Evaluación de Heurísticas de Usabilidad
+
+### 1. Claridad Visual y Jerarquía – **Severidad: 3**
+
+**Heurística violada:**  
+Visibilidad del estado del sistema / Diseño estético y minimalista
+
+**Descripción:**  
+Los elementos principales del perfil del paciente no siguen una jerarquía visual clara. El nombre, atributos y fotografía están dispersos dentro de un card con demasiado espacio vacío, lo que reduce la claridad. La falta de alineación visual fuerte dificulta identificar rápidamente la información relevante.
+
+**Recomendación:**  
+Aplicar una estructura más definida: agrupar propiedades relacionadas, aumentar contraste tipográfico entre títulos y valores, y reducir espacios innecesarios para mejorar la percepción inmediata de la información.
+
+---
+
+### 2. Correspondencia entre diseño y expectativas del usuario – **Severidad: 2**
+
+**Heurística violada:**  
+Correspondencia entre el sistema y el mundo real
+
+**Descripción:**  
+El diseño del panel lateral tiene iconos y estilos que no siempre se correlacionan con su función real o no transmiten de forma intuitiva su propósito. Además, la etiqueta “Profile” en el menú se percibe demasiado general y no indica si corresponde al familiar o al paciente.
+
+**Recomendación:**  
+Usar etiquetas más descriptivas, iconos coherentes con su significado y una estructura de navegación donde cada sección comunique mejor su propósito.
+
+---
+
+### 3. Uso eficiente del espacio y reducción de carga visual – **Severidad: 3**
+
+**Heurística violada:**  
+Diseño estético y minimalista / Prevención de errores
+
+**Descripción:**  
+Existe demasiado espacio vacío entre el menú lateral y la tarjeta central del paciente, generando sensación de desbalance y desperdicio de área útil. La tarjeta se percibe muy pequeña en comparación con la pantalla disponible, provocando una lectura incómoda.
+
+**Recomendación:**  
+Ajustar el layout para aprovechar mejor la anchura disponible, ya sea ampliando el card, reorganizando la información o usando un diseño más responsivo con distribución proporcional.
+
+---
+
+### 4. Retroalimentación y visibilidad de acciones del usuario – **Severidad: 2**
+
+**Heurística violada:**  
+Visibilidad del estado del sistema
+
+**Descripción:**  
+Los elementos interactivos del menú lateral (Statistics, Alerts, Support) no muestran retroalimentación visual clara al seleccionarse o al pasar el cursor. Esto dificulta al usuario saber si ha interactuado correctamente o qué sección está activa.
+
+**Recomendación:**  
+Implementar estados visuales consistentes (hover, active, selected) usando cambios de color, resaltado o iconos activos para mejorar la navegación y orientación del usuario.
+
+
+
+## 5.3. Video About-the-Product
+
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
+
+
+
 ## Conclusiones y recomendaciones
 
 ### Conclusiones
