@@ -4084,6 +4084,16 @@ Se realizaron pruebas para verificar el manejo correcto de datos segun operacion
 #### Evidencias de despliegue:
 
 ![Backend Deployment Evidence](./assets/chapter5/deploy-backend-ev01.png)
+![10.jpeg](assets/chapter5/10.jpeg)
+![9.jpeg](assets/chapter5/9.jpeg)
+![8.jpeg](assets/chapter5/8.jpeg)
+![7.jpeg](assets/chapter5/7.jpeg)
+![6.jpeg](assets/chapter5/6.jpeg)
+![5.jpeg](assets/chapter5/5.jpeg)
+![4.jpeg](assets/chapter5/4.jpeg)
+![3.jpeg](assets/chapter5/3.jpeg)
+![2.jpeg](assets/chapter5/2.jpeg)
+![1.jpeg](assets/chapter5/1.jpeg)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
