@@ -3929,10 +3929,29 @@ A continuacion se muestra el backlog del sprint 4 con las historias de usuario y
 
 Esta sección muestra los commits vinculados a los avances más importantes de la implementación. Todos ellos provienen del repositorio del frontend dentro de la organización en GitHub.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Autor | Commited on (Date) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| feat(iam) | main | 35a4f52 | feat(iam): add users controller with endpoints to retrieve user by id and get all users. | Jarod Cespedes | Jarod Cespedes | 2025-11-27 |
-| feat(iam) | main | bfecd3b | feat(iam): add authentication controller for user sign-in and sign-up endpoints. | Jarod Cespedes | Jarod Cespedes | 2025-11-27 |
+| Repository | Branch | Commit Id | Commit Message | Commited On |
+|---|---|---|---|---|
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | 8dee9cb | chore: added dependencies for openapi and json web token requirements | 2025-11-29
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | 52a70b6 | fix(relatives): fixed relatives context to allow for persistence in the database | 2025-11-29
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | eead4e1 | fix(IAM): fixed IAM functionality to allow for user roles management | 2025-11-29
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | 920ab2d | Merge remote-tracking branch 'origin/feature/iam' into develop | 2025-11-29
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 35a4f52 | feat(iam): add users controller with endpoints to retrieve user by id and get all users. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | bfecd3b | feat(iam): add authentication controller for user sign-in and sign-up endpoints. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | caafafe | feat(iam): add assembler for converting user entity to user resource. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 1f40bf6 | feat(iam): add assembler for converting sign up resource to sign up command. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | d6871a5 | feat(iam): add assembler for converting sign in resource to sign in command. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 42bf26c | feat(iam): add assembler for converting user entity to authenticated-user resource. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | ce0a923 | feat(iam): add user resource record for user representation. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 73607d9 | feat(iam): add sign up resource record for user registration. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | ca40147 | feat(iam): add sign in resource record for user authentication. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 13758f6 | feat(iam): add authenticated user resource record for user authentication. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 184402e | feat(iam): implement iam-context-facade for user management operations. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 7bb05a4 | feat(iam): add iam-context-facade interface for user management operations. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 9a02f7f | feat(iam): implement token service for jwt token generation and validation. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/iam | 8d12396 | feat(iam): add token settings class for jwt configuration. | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/devices-implementation | 59877df | fix(device): fixed handling of default efc values for device measurements | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/devices-implementation | f549193 | fix: fixed errors in namespaces and data types for relatives | 2025-11-27
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/devices-implementation | feb0f96 | fix: fixed typos in namespaces of relatives query services | 2025-11-27
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
