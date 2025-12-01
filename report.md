@@ -3765,10 +3765,107 @@ A continuacion se muestra el backlog del sprint 3 con las historias de usuario y
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
-
-TODO
+| Repository | Branch | Commit Id | Commit Message | Commited On |
+|---|---|---|---|---|
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | a0f99c5 | fix: fixed issues with file naming | 2025-11-25
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | da88fa7 | Merge branch 'feature/relatives' | 2025-11-25
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | 4eb3c3d | Merge branch 'feature/organizations' | 2025-11-25
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | origin/develop | 547f480 | Merge remote-tracking branch 'origin/feature/devices' | 2025-11-25
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 104d14c | fix: fixed missing dependencies | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | da1988b | refactor(api): update route definitions in controllers for consistency | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | be6f50e | feat(api): add controllers for senior citizen assignments to doctors and caregivers. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a9f9973 | feat(api): add controllers for admins, caregivers, doctors, organizations, and senior citizens. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 872a6f1 | feat(services): add handling functions definitions. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | ecb8588 | fix(assembler): changed command parameter to a resource one. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | c2035fd | Merge remote-tracking branch 'origin/feature/organizations' into feature/organizations | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a0ecefd | feat: several changes, improvements, and additions for organization and shared bounded contexts. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a20c25e | feat: several changes, improvements, and additions for organization and shared bounded contexts. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 3f421db | chore: add more project dependencies. | 2025-11-13
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 8f34da6 | feat(application): add admincommandservice for admin lifecycle operations. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 666f67d | feat(persistence): add model builder extensions for organizations configuration. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | f3f85c4 | feat(persistence): integrate organizations configuration into appdbcontext. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 9c66ba8 | feat(documentation): add openapi documentation configuration extension. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 1a398bd | feat(mediator): add logging behavior to command pipeline. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 15779be | feat(events): add base interface for domain event handlers. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | f6071cb | feat(dependencies): add new package references for di, jwt, bcrypt, and mediator support. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 1bae37c | feat(events): add organization domain events for entity lifecycle operations. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 611573e | feat(events): add event interface for domain event notifications. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | febea54 | fix(senior-citizen): remove unused properties and simplify birthdate handling in senior-citizen aggregate. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 0a9ece3 | feat(persistence): add web application builder extensions. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | c2c2885 | feat(organization): add repository classes for each aggregate. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 40fca01 | feat(organization): add repository interfaces for each aggregate. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 8781083 | feat(rest): add assembler classes. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a899221 | feat(rest): add resources for admin, organization, doctor, caregiver, and senior citizen. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 5a7ce43 | feat(caregiver): add caregiver create, update, and delete commands. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | f6b9934 | feat(organization): add caregiver audit class. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 8be7338 | fix(command): changed data type to attribute and removed unused one. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | bad7ece | fix(command): removed unused attributes. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 754e464 | fix(command): changed incorrect data types to attributes. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 13381db | fix(command): changed data type to attribute and removed unused one. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 110ceda | feat(caregiver): add definition to caregiver aggregate. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | ac3d7ec | fix(admin): changed partial class name to match original class. | 2025-11-12
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a7fb635 | feat(services): add command and query services for senior citizen. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 66a79ed | feat(services): add command and query services for organization. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | d0d20fe | feat(services): add command and query services for doctor. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 5bba710 | feat(services): add command and query services for admin. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 000edbc | feat(model): add additional commands for admin, doctor, organization, and senior citizen. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | a877d8c | feat(organization): add caregiver aggregate. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 95aa75f | feat(queries): add organization queries. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 739e1df | feat(queries): add senior citizen queries. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | bdcf58e | feat(queries): add doctor queries. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 9acd60b | feat(queries): add admin queries. | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | b1b026a | feat(organization): add senior citizen aggregate, audit, with create and update commands. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 595bff8 | feat(organization): add doctor aggregate, audit, with creation and updating commands. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 8b483dc | feat(organization): add admin aggregate, audit, with creation command. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | 3ba6c7a | feat(organization): add organization aggregate, audit, with creation command. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organizations | c63d5c8 | feat(organization): add email value-object. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | aafa6f5 | fix(devices): added documentation for alerts controller | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | bc9fabf | feat(devices): oonfigured EFC for the devices context | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 786d499 | feat(devices): added controllers for devices and alerts | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 053d2b9 | fix(devices): fixed domain and application layer | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 427d60e | feat(devices): implement alert retrieval endpoints in AlertsController | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 7fa5cd4 | feat(devices): implement device creation and retrieval endpoints in DevicesController | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 1c142d5 | fix(devices): fixed rest resources and assemblers | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 54770d7 | feat(devices): added command services for devices and event handlers | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 359da75 | feat(devices): fixed the model to allow for the measurements control in the application layer | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | f296539 | feat(devices): enhance resource transformation for alerts and devices | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 41d7e1d | feat(devices): update resource models for alerts and devices | 2025-11-11
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 1905f98 | feat(devices): added measurement data control in domain layer for devices | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 95617c4 | feat(devices): added rest resources and respones | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization | 4601fb0 | feat(organization): add doctor aggregate, audit, and creation and updating commands. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/shared | c46d359 | fix(shared): fixed errors in shared bounded context | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | d418d0f | fix(devices): fixed infrastructure layer | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | e226c85 | fix(devices): updated application layer | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 868f434 | fix(devices): updated domain layer | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization | 03e053b | feat(organization): add admin aggregate, audit, and creation command. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization | 5a32f22 | feat(organization): add organization aggregate, audit, and creation command. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization | 0b2f93f | feat(value-object): add email value-object. | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | b7a6994 | feat(devices): implement AlertQueryService and DeviceQueryService with Handle methods | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | a828518 | feat(devices): add Handle methods to IAlertQueryService and IDeviceQueryService | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | faa9855 | feat(devices): remove unused folder reference in project file | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | a5d9818 | feat(devices): implement Handle methods in AlertCommandService and DeviceCommandService | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | cc279c9 | feat(devices): add Handle methods to IAlertCommandService and IDeviceCommandService | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | ec83c4f | feat(devices): implement methods to list alerts and devices by holder and senior citizen IDs | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 8f5ed3a | fix(relatives): improved relative resource using the plantype | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 6819080 | fix(relatives): improved relative agregate using the plantype | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 090cda7 | feat(relatives): add planType value object for relatives | 2025-11-10
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 4f20433 | feat(devices): enhance repositories with methods for alert and device management | 2025-11-09
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 7251a61 | feat(devices): update CreateAlertCommand and CreateDeviceCommand | 2025-11-09
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 5d4dec7 | feat(devices): update query records to include identifiers for alerts and devices | 2025-11-09
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | d1b1158 | feat(devices): update CreateDeviceCommand with additional properties for device creation | 2025-11-09
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/devices | 4f4e262 | feat(devices): update CreateAlertCommand to include properties for alert creation | 2025-11-09
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 4c0fce0 | fix(relatives): add relatives builder | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 8c0c226 | feat(relatives): add query service to application file for relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 8ad59c8 | feat(relatives): add repository to infrastructure file for relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 1255cb8 | feat(relatives):  add resources to entities for relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | d0f6fa9 | feat(relatives):  add controller to relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 6598b88 | feat(relatives):  add transform to relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 26584c8 | feat(relatives):  add repository to relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 5bfc75d | feat(relatives):  add query model to relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | a6f7b1f | feat(relatives):  add query service to relatives bounded context | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | a90b5a9 | feat(relatives):  add agregates to bounded context relatives | 2025-11-08
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/shared | 40d8644 | feat(shared): added shared dependencies for logging , event handling and web app builder | 2025-11-07
+UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/relatives | 820b5c7 | feat(devices): added base files for devices bounded context | 2025-11-07
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
