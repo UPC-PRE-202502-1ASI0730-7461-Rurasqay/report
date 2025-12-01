@@ -2812,17 +2812,30 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 
 Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
 
-<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+<img src="./assets/chapter4/class-diagram-1.png" alt="UMLDiagram1png" width="100%">
+
+<img src="./assets/chapter4/class-diagram-2.png" alt="UMLDiagram2" width="100%">
+
+<img src="./assets/chapter4/class-diagram-3.png" alt="UMLDiagram3" width="100%">
+
+<img src="./assets/chapter4/class-diagram-4.png" alt="UMLDiagram4" width="100%">
+
+<img src="./assets/chapter4/class-diagram-5.png" alt="UMLDiagram5" width="100%">
+
 
 ## 4.8. Database Design
 
+En esta sección se presenta el diseño de la base de datos relacional utilizada en el sistema. El diagrama entidad-relación (ERD) ilustra las tablas principales, sus atributos y las relaciones entre ellas. Cada tabla representa una entidad del dominio, con sus respectivas columnas que definen los datos almacenados. Las relaciones entre tablas se indican mediante líneas que muestran cómo las entidades están conectadas, incluyendo las cardinalidades (uno a uno, uno a muchos, muchos a muchos) para clarificar la naturaleza de las asociaciones. Este diseño asegura la integridad de los datos y optimiza el rendimiento de las consultas dentro del sistema.
+
 ### 4.8.1. Database Diagrams
 
-![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+![Diagrama de base de datos.png](./assets/chapter4/data-base.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+
+En esta sección se describen las herramientas y tecnologías empleadas para la configuración del entorno de desarrollo, gestión del código fuente, despliegue y documentación del software. Cada herramienta se detalla con su propósito específico dentro del ciclo de vida del desarrollo de software, así como la ruta de acceso para su utilización.
 
 ### 5.1.1. Software Development Environment Configuration
 
