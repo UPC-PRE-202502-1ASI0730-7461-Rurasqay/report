@@ -3953,10 +3953,55 @@ UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/
 UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/devices-implementation | f549193 | fix: fixed errors in namespaces and data types for relatives | 2025-11-27
 UPC-PRE-202502-1ASI0730-7461-Rurasqay/meditrack-platform | feature/organization/devices-implementation | feb0f96 | fix: fixed typos in namespaces of relatives query services | 2025-11-27
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
 
 Durante el desarrollo del cuarto sprint se desarrolló el componente IAM (Identity and Access Management) en el backend para gestionar la autenticación y autorización de usuarios en la plataforma MediTrack. A continuación se muestran evidencias de la plataforma backend.
 ![Backend IAM 1](./assets/chapter5/Captura2.PNG)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se completó la primera versión del módulo **IAM** y la integración inicial entre el **backend y el frontend**.
+
+### Actividades realizadas
+- Se implementó la base del sistema **IAM**, estableciendo la estructura de autenticación y autorización.
+- Se configuró la **conexión backend–frontend**
+- 
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Se verificó el despliegue exitoso de la plataforma en la siguiente URL pública:
+
+Backend desplegado en Microsoft Azure: https://meditrack-platform.azurewebsites.net/swagger
+
+Se realizaron pruebas para verificar el manejo correcto de datos segun operaciones CRUD.
+
+#### Evidencias de despliegue:
+
+![Backend Deployment Evidence](./assets/chapter5/deploy-backend-ev01.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en la organización.
+
+| **Alumno**                      | **GitHub User** | **Actividad**                        |
+| ------------------------------- | --------------- |--------------------------------------|
+| Barrientos Quispe, Marcelo      | MarceBq         | Modificaciones en Backedn y Frontend |
+| Cespedes Pillco, Jarod Jack     | PruebaJJC       | Módulo IAM en el Backend             |
+| Rioja Nuñez, Franco Diego       | FrancoDiegoR    | Correciones y cambios en el report      |
+| Rivera Ayala, Gabriel Alejandro | guestwhoo       | Conexión Frontend y Backend          |
+
+#### Capturas de Insights del repositorio:
+
+Front End:
+
+![MediTrack-Front-1](./assets/chapter5/medi-front-2.png)
+
+![MediTrack-Front-2](./assets/chapter5/medi-front-1.png)
+
+Back End:
+
+![MediTrack-Back-1](./assets/chapter5/medi-back-1.png)
+
+![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
 
 # Conclusiones
 
