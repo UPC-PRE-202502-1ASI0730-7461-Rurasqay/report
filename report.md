@@ -3835,6 +3835,90 @@ Back End:
 
 ![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
 
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+| **Sprint ** | Sprint 4 |
+| ----------- |----------|
+
+| **Sprint Planning Background** |                                                                  |
+| ------------------------------ |------------------------------------------------------------------|
+| **Date**                       | 30 de noviembre del 2025.                                        |
+| **Time**                       | 19:00 PM                                                         |
+| **Location**                   | Vía Discord                                                      |
+| **Prepared By**                | Barrientos Quispe Marcelo                                        |
+| **Attendees (to planning)**    | Franco Rioja, Jarod Cespedes, Gabriel Rivera, Marcelo Barrientos |
+
+---
+
+| **Sprint 4 – Review Summary**        | El equipo logró implementar el boundede context IAM en el backend para poder gestionar el acceso a la aplicación, también se logró la conexión final entre el backend y frontend para el funcionamiento de Meditrack. |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint 4 – Retrospective Summary** | Los miembros señalaron que disponen de las competencias, destrezas y el tiempo requeridos para cumplir con sus responsabilidades dentro del plazo previsto.                                                           |
+
+---
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 Goal**              | Nuestro objetivo fue diseñar, desarrollar e implementar el bounded context IAM en el backend para gestionar la autenticación y autorización de usuarios en la plataforma MediTrack.|
+|                                |
+| **Sprint 3 Velocity**          | 4 story points                                                                                                                                                                                                        |
+| **Sum of Story Points**        | 4 story points                                                                                                                                                                                                        |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+Con el propósito de fortalecer el trabajo en equipo, a cada miembro se le asignó un rol de liderazgo para cada aspecto, los cuales están vinculados con los entregables.
+
+| **Team member (LastName, First Name)** | **GitHub UserName** | **Aspect: IAM (L/C)** | **Aspect: Conexión (L/C)** |
+| -------------------------------------- | ------------------- | ---------------------- | --------------------------- |
+| Gabriel Rivera                         | guestwhoo           | L                      | C                           |
+| Franco Rioja                           | FrancoDiegoR        | C                      | C                           |
+| Jarod Cespedes                         | PruebaJJC           | C                      | C                           |
+| Barrientos Marcelo                     | MarceBq             | C                      | L                           |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+Trello:
+
+![Captura.PNG](assets/chapter5/Captura.PNG)
+
+A continuacion se muestra el backlog del sprint 4 con las historias de usuario y tareas asociadas.
+
+| User Story | Title                       | Work-item ID | Task Title                                 | Description                                                                                                                   | Estimation | Assigned To | Status      |
+|------------|------------------------------|---------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-------------|
+| TS-017     | Iniciar Sesión (Login)       | TSK-017.1     | Crear Endpoint POST /api/v1/auth/login      | Implementar el endpoint que permita a un usuario iniciar sesión con email y contraseña.                                      | 3h         |             | In Progress |
+|            |                              | TSK-017.2     | Validar Credenciales                        | Verificar email, contraseña, existencia del usuario y estado de la cuenta.                                                   | 2h         |             | In Progress |
+|            |                              | TSK-017.3     | Generar JWT                                 | Generar un token JWT válido con roles y permisos asignados al usuario.                                                      | 2h         |             | To Do       |
+|            |                              | TSK-017.4     | Implementar Manejo de Errores               | Retornar 400 para credenciales inválidas, 404 si no existe el usuario, y 200 con el token en caso exitoso.                   | 2h         |             | To Do       |
+
+| ID      | Title                               | ID           | Title                                          | Description                                                                                                                                             | Estimation | Assigned To        | Status      |
+|---------|--------------------------------------|--------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------|-------------|
+| TS-018  | Registro de Usuario (Sign Up)        | TSK-018.1    | Crear Endpoint POST /api/v1/auth/signup        | Implementar el endpoint que permita la creación de un usuario nuevo con datos básicos obligatorios.                                                    | 3h         |                     | In Progress |
+|         |                                      | TSK-018.2    | Validar Datos Requeridos                       | Validar email, contraseña, nombres y requisitos mínimos. Retornar 400 Bad Request en caso de errores.                                                  | 2h         |                     | In Progress |
+|         |                                      | TSK-018.3    | Encriptar Contraseña                           | Registrar la contraseña utilizando hashing seguro (ej. bcrypt).                                                                                        | 2h         |                     | To Do       |
+|         |                                      | TSK-018.4    | Persistir Usuario y Responder                  | Guardar el usuario y retornar 201 Created con el UserResource creado.                                                                                  | 2h         |                     | To Do       |
+
+| ID      | Title                               | ID           | Title                                          | Description                                                                                                                                             | Estimation | Assigned To        | Status      |
+|---------|--------------------------------------|--------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------|-------------|
+| TS-019  | Mantener Sesión Activa (Sign In)     | TSK-019.1    | Crear Endpoint GET /api/v1/auth/refresh-token  | Implementar endpoint que permita renovar un token JWT antes de que expire.                                                                             | 2h         |                     | In Progress |
+|         |                                      | TSK-019.2    | Validar Token de Refresco                      | Validar firma, expiración y usuario asociado.                                                                                                           | 2h         |                     | In Progress |
+|         |                                      | TSK-019.3    | Generar Nuevo Token                            | Emitir un nuevo JWT extendiendo el tiempo de sesión sin requerir reautenticación.                                                                     | 2h         |                     | To Do       |
+|         |                                      | TSK-019.4    | Manejo de Errores                              | Retornar 401 si el token de refresco es inválido o caducado, y 200 con el nuevo token en caso exitoso.                                                | 2h         |                     | To Do       |
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+Esta sección muestra los commits vinculados a los avances más importantes de la implementación. Todos ellos provienen del repositorio del frontend dentro de la organización en GitHub.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Autor | Commited on (Date) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| feat(iam) | main | 35a4f52 | feat(iam): add users controller with endpoints to retrieve user by id and get all users. | Jarod Cespedes | Jarod Cespedes | 2025-11-27 |
+| feat(iam) | main | bfecd3b | feat(iam): add authentication controller for user sign-in and sign-up endpoints. | Jarod Cespedes | Jarod Cespedes | 2025-11-27 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del cuarto sprint se desarrolló el componente IAM (Identity and Access Management) en el backend para gestionar la autenticación y autorización de usuarios en la plataforma MediTrack. A continuación se muestran evidencias de la plataforma backend.
+![Backend IAM 1](./assets/chapter5/Captura2.PNG)
+
 # Conclusiones
 
 En esta sección se enuncian las conclusiones sobre el trabajo, incluyendo los resultados a los que hemos llegado en relación a los Problem Statements especificados, los assumptions realizados frente al comportamiento real de los segmentos, los Hypotheses Statements establecidos y los criterios de éxito especificados en el proceso de Lean UX, en contraste con los resultados obtenidos de las validaciones.
