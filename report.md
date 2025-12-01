@@ -3966,7 +3966,7 @@ Back End:
 
 ### 5.2.4.1. Sprint Planning 4
 
-| **Sprint ** | Sprint 4 |
+| **Sprint** | Sprint 4 |
 | ----------- |----------|
 
 | **Sprint Planning Background** |                                                                  |
@@ -3987,7 +3987,7 @@ Back End:
 
 | **Sprint Goal & User Stories** |                                                                                                                                                                                                                           |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 4 Goal**              | Nuestro objetivo fue diseñar, desarrollar e implementar el bounded context IAM en el backend para gestionar la autenticación y autorización de usuarios en la plataforma MediTrack.|
+| **Sprint 4 Goal**              | Our focus is on design, develop and implement the Identity Access Management (IAM) feature in the backend application. We believe it delivers satisfaction and security to the frontend development team. This will be confirmed when the developers can use this functionality in the website without any issues. |
 |                                |
 | **Sprint 3 Velocity**          | 4 story points                                                                                                                                                                                                        |
 | **Sum of Story Points**        | 4 story points                                                                                                                                                                                                        |
