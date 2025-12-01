@@ -3526,9 +3526,9 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 
 Front End:
 
-![MediTrack-Front-1](./assets/chapter5/medi-front-1.png)
+![MediTrack-Front-1](./assets/chapter5/medi-front-2.png)
 
-![MediTrack-Front-2](./assets/chapter5/medi-front-2.png)
+![MediTrack-Front-2](./assets/chapter5/medi-front-1.png)
 
 Back End:
 
